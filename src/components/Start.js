@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
+import "../styles/Start.css";
 const Start = () => {
   return (
     <div className="start-container">

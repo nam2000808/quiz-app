@@ -12,6 +12,24 @@ function Quiz() {
   const [quizStarted] = useState(false);
   const quiz = quiz1.concat(quiz2, quiz3, quiz4, quiz5);
   useEffect(() => {
+    /*time quiz*/
+    var quizTime = 60 * 60 * 1000; // 60 phút trong đơn vị milliseconds
+    var startTime = new Date().getTime();
+    var endTime = startTime + quizTime;
+    var timerInterval;
+    function updateTimer() {
+      var now = new Date().getTime();
+      var timeLeft = endTime - now;
+
+      if (timeLeft <= 0) {
+        clearInterval(timerInterval);
+        endQuiz();
+      } else {
+        var minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+        $("#timer").text("Time left: " + minutes + "m " + seconds + "s");
+      }
+    }
     var quiztitle = "Quiz Title";
     var currentquestion = 0,
       score = 0,
