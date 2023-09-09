@@ -324,7 +324,7 @@ const quiz1 = [
       "Xử lý theo pháp luật.",
       "Kỷ luật theo Hiến pháp.",
     ],
-    correct: "Xử lý",
+    correct: "Xử lý.",
   },
 
   {
@@ -3673,7 +3673,7 @@ const quiz1 = [
     question:
       "32: Theo nghị định số 138/2020/NĐ-CP, thời gian phải hoàn thành chấm thi vòng 2 kể từ ngày kết thúc thi vòng 2 là bao lâu?",
     choices: ["07 ngày.", "15 ngày.", "30 ngày.", "60 ngày."],
-    correct: "15",
+    correct: "15 ngày.",
   },
   {
     question:

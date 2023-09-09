@@ -4,7 +4,8 @@ import { Link } from "react-router-dom";
 const Start = () => {
   return (
     <div className="start-container">
-      <h1>Bắt Đầu Bài Kiểm Tra</h1>
+      <h1>Chào mừng bạn bò hâm</h1>
+      <p>cố làm nuôi mình nhe</p>
       <Link to="/quiz">
         {""}
         {/* Sửa đường dẫn ở đây */}

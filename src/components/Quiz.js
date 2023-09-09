@@ -309,10 +309,8 @@ function Quiz() {
         </div>
       ) : (
         <div id="startFrame" className="startFrame">
-          <h1>CHÀO MỪNG BÒ HÂM LÀM BÀI</h1>
-          <p>cố gắng lên nha</p>
           <button id="startButton" className="startButton">
-            Start Quiz
+            Làm lại
           </button>
         </div>
       )}
