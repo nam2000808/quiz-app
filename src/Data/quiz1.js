@@ -2253,7 +2253,7 @@ const quiz1 = [
       "    Cán bộ, công chức phải thực hiện cần, kiệm, liêm, chính, chí công vô tư trong hoạt động công vụ.",
     ],
     correct:
-      "   Cán bộ, công chức phải thực hiện cần, kiệm, liêm, chính, chí công vô tư trong hoạt động công vụ.",
+      "    Cán bộ, công chức phải thực hiện cần, kiệm, liêm, chính, chí công vô tư trong hoạt động công vụ.",
   },
   {
     question:
@@ -2539,7 +2539,7 @@ const quiz1 = [
     question:
       " 62: Có bao nhiêu hình thức kỷ luật được áp dụng để xử lý kỷ luật cán bộ vi phạm quy định của Luật cán bộ, công chức 2008 và các quy định khác của pháp luật có liên quan?",
     choices: ["   05", "   06", "   04", "   03"],
-    correct: "04",
+    correct: "   04",
   },
   {
     question:
@@ -4148,7 +4148,7 @@ const quiz1 = [
     question:
       " 85: Theo nghị định số 138/2020/NĐ-CP;  Đối với viên chức công tác tại đơn vị sự nghiệp công lập thì yêu cầu bao nhiêu năm công tác trở lên?",
     choices: ["     03", "    04", "    05", "    06"],
-    correct: "05",
+    correct: "    05",
   },
   {
     question:
@@ -4166,7 +4166,7 @@ const quiz1 = [
     question:
       " 87: Theo nghị định số 138/2020/NĐ-CP;  Chủ tịch Hội đồng thành viên, Chủ tịch Hội đồng quản trị, Chủ tịch công ty, Thành viên Hội đồng thành viên, Thành viên Hội đồng quản trị, Kiểm soát viên, Tổng giám đốc, Phó Tổng giám đốc, Giám đốc, Phó giám đốc, Kế toán trưởng và người đang giữ chức vụ, chức danh quản lý từ cấp phòng trở lên trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ thì yêu cầu bao nhiêu năm công tác trở lên?",
     choices: ["     03", "    04", "     05", "    06"],
-    correct: "05",
+    correct: "     05",
   },
   {
     question:
