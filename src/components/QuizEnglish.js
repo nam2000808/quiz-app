@@ -1,15 +1,15 @@
 // src/components/Quiz.js
 import React, { useEffect, useState } from "react";
-import QuizEnglish from "../Data/QuizEnglish";
+import quizEnglish from "../Data/QuizEnglish";
 import $ from "jquery";
 import "../styles/quiz.css";
 
-function Quiz() {
+function QuizEnglish() {
   const [quizStarted] = useState(false);
-  const quiz = QuizEnglish;
+  const quiz = quizEnglish;
   useEffect(() => {
     /*time quiz*/
-    var quizTime = 60 * 60 * 1000; // 60 phút trong đơn vị milliseconds
+    var quizTime = 30 * 60 * 1000; // 60 phút trong đơn vị milliseconds
     var startTime = new Date().getTime();
     var endTime = startTime + quizTime;
     var timerInterval;

@@ -1,4 +1,4 @@
-const QuizEnglish = [
+const quizEnglish = [
   {
     question: "	I’d like to	a reservation.",
     choices: ["	Book	", " make	", " form	", "set"],
@@ -1786,4 +1786,4 @@ const QuizEnglish = [
     correct: "",
   },
 ];
-export default QuizEnglish;
+export default quizEnglish;
