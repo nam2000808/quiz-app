@@ -1,8 +1,8 @@
 const quizEnglish = [
   {
-    question: "	I’d like to	a reservation.",
+    question: "	I’d like to	_____ a reservation.",
     choices: ["	Book	", " make	", " form	", "set"],
-    correct: "",
+    correct:  "make	",
   },
   {
     question: "	Mary <u>can swim very well</u>",
@@ -12,7 +12,7 @@ const quizEnglish = [
       " Is good at swimming",
       " Feels good when she goes swimming",
     ],
-    correct: "",
+    correct: " Is good at swimming",
   },
   {
     question: "	<u>I’m free</u> this afternoon",
@@ -22,17 +22,17 @@ const quizEnglish = [
       " Will see you",
       " Will stay home",
     ],
-    correct: "",
+    correct: " Have time",
   },
   {
     question: "	Mai _____	a white shirt today",
     choices: [" Is wearing", "	Is putting on", "	Wears", "	Puts on"],
-    correct: "",
+    correct: " Is wearing",
   },
   {
     question: "	The moon cake is _____	nice.",
     choices: ["	Too", "	Such", "	Much", " Very"],
-    correct: "",
+    correct: " Very"
   },
   {
     question: "	A: _______ B: He sits on the left side.",
@@ -42,7 +42,7 @@ const quizEnglish = [
       " Where does Mike sit",
       " Who is on the left side",
     ],
-    correct: "",
+    correct: " Where does Mike sit",
   },
   {
     question: "	A: Excuse me. Is there a station near here? B:_______",
@@ -52,13 +52,13 @@ const quizEnglish = [
       " No, there isn’t",
       " Not much",
     ],
-    correct: "",
+    correct: " No, there isn’t",
   },
   {
     question:
       "	A: I’m sorry I don’t know. You’ d better ask that policeman over there.B:_______",
     choices: ["	I’m sorry too", " Thank, anyway", " Excuse me", " Yes, I will"],
-    correct: "",
+    correct: " Thank, anyway",
   },
   {
     question: "	A:______	B: Let me show you on the map.",
@@ -68,7 +68,7 @@ const quizEnglish = [
       "	Where do you live in the USA",
       "	Can you tell me how to do it",
     ],
-    correct: "",
+    correct: "	Where do you live in the USA",
   },
   {
     question: "	A:______ B: it’s January 2nd ,2005",
@@ -78,88 +78,88 @@ const quizEnglish = [
       " What is the date today",
       " Is today Sunday",
     ],
-    correct: "",
+    correct: " What is the date today",
   },
   {
     question: "	Where is the_______post office, please?",
     choices: ["	Near", "	Nearest", "	Close", "	Closest"],
-    correct: "",
+    correct: "	Nearest",
   },
   {
     question: "	We always <u>begin</u> our lesson at eight",
     choices: ["	Have", "	Like", " Start", " Prepare"],
-    correct: "",
+    correct: " Start",
   },
   {
     question: "	My uncle is <u>not here</u>",
     choices: ["	Out of town", " Away", " On holiday", " There"],
-    correct: "",
+    correct: " Away",
   },
   {
     question: "	You must <u>leave</u> now",
     choices: ["	Finish", "	Be ready", " Start", " Prepare"],
-    correct: "",
+    correct: " Start",
   },
   {
     question: "	Mary is <u>short</u>.",
     choices: ["	Not thin", " Not tall", " Not big", " Not weak"],
-    correct: "",
+    correct: " Not tall",
   },
   {
     question: "	I hope you can come to________party next Saturday",
     choices: [" My", "	Me", "	If’s", "	Mine"],
-    correct: "",
+    correct: " My",
   },
   {
     question: "	The boy_______football now.",
     choices: ["	Play", "	Plays", "	Is playing", "	Is going to play"],
-    correct: "",
+    correct: "	Is playing",
   },
   {
     question: "	There________a ball under the bed",
     choices: ["	Has", "	Have", " Is", " Are"],
-    correct: "",
+    correct: " Is",
   },
   {
     question: "	His brother works in___________office",
     choices: ["	A", " An", " The", " <>"],
-    correct: "",
+    correct: " An",
   },
   {
     question: "	Her work starts________half past eight.",
     choices: ["	For", "	On", " At", " With"],
-    correct: "",
+    correct: " At",
   },
   {
     question: "	Wan is from_______",
     choices: ["	Chinese", "	American", "	Japanese", " Canada"],
-    correct: "",
+    correct: " Canada"
   },
   {
     question: "	It’s very cold in winter. It’s best_________	warm clothes",
     choices: [" To wear", "	We wear", "	Wearing", "	When to wear"],
-    correct: "",
+    correct: " To wear",
   },
   {
     question: "________Beautiful car it is!",
     choices: [" What a", "	What", "	How", "	How a"],
-    correct: "",
+    correct: " What a",
   },
   {
     question: "	In spring the trees turn ________",
     choices: [" Green", "	Yellow", "	Dark", "	Red"],
-    correct: "",
+    correct: " Green",
   },
   {
     question: "	There are no <u>classes</u> on Sundays",
     choices: ["	Schools", " Lessons", " Classrooms", " Classmates"],
-    correct: "",
+    correct: " Lessons",
   },
   {
     question:
       "	It’s getting late and we have to <u>be up</u> early in the morning.",
     choices: ["	Put on", "	Get dressed", "	Wake up", " Get up"],
-    correct: "",
+    correct: " Get up"
   },
   {
     question: "	We had <u>a good time</u> on the farm last week.",
@@ -169,68 +169,68 @@ const quizEnglish = [
       "	Felt good",
       "	Laughed a lot",
     ],
-    correct: "",
+    correct: "	Enjoyed ourselves",
   },
   {
     question: "	There is____________red apple in her hand",
     choices: ["	An", " A", " The", " <>"],
-    correct: "",
+    correct: " A",
   },
   {
     question: "	My father reads newspapers for__________every evening.",
     choices: ["	A half hour", "	Half hour", "	Half a hour", " Half an hour"],
-    correct: "",
+    correct: "	Half an hour",
   },
   {
-    question: "	Our English teacher often help me_________________my English",
+    question: "	Our English teacher often helps me_________________my English",
     choices: ["	At", "	In", "	With", "	For"],
-    correct: "",
+    correct: "	With",
   },
   {
     question: "	You really should look after____________",
     choices: ["	You", "	Your", "	Yours", "	Yourself"],
-    correct: "",
+    correct: "	Yourself"
   },
   {
     question: "	You’d	_________ go there.",
     choices: ["	Not better", "	Better don’t", " Better not", " Better not to"],
-    correct: "",
+    correct: " Better not",
   },
   {
     question: "	Let Mary___________the work",
     choices: [" Do", "	Does", "	Did", "	Doing"],
-    correct: "",
+    correct: " Do",
   },
   {
     question: "	Keep the window____________	, please",
     choices: ["	Close", "	Closed", "	Closing", "	To close"],
-    correct: "",
+    correct: "	Closed",
   },
   {
     question: "	Now I can speak	______________English.",
     choices: ["	A few", "	Few", "	A little", "	Little"],
-    correct: "",
+    correct: "	A little",
   },
   {
     question: "	The boys enjoy____________football very much",
     choices: [" Playing", "	Play", "	To play", "	Plays"],
-    correct: "",
+    correct: " Playing",
   },
   {
-    question: "	Tow of them are here. But where are ________________	students?",
+    question: "	Two of them are here. But where are ________________	students?",
     choices: ["	Other", "	Another", "	Others", "	The other"],
-    correct: "",
+    correct: "	The other"
   },
   {
-    question: "	A: How _____ are these apples? B: 3 dollars a poun",
+    question: "	A: How _____ are these apples? B: 3 dollars a pound",
 
     choices: ["	Well", " Much", " Cost", " Price"],
-    correct: "",
+    correct: " Much",
   },
   {
     question: "	Look, the children_____________their exercise now.",
     choices: ["	Do", "	Does", "	Did", "	Are doing"],
-    correct: "",
+    correct: "	Are doing"
   },
   {
     question: "	Thank you for ______________	me.",
@@ -240,90 +240,90 @@ const quizEnglish = [
       "	Come to seeing",
       "	Coming and see",
     ],
-    correct: "",
+    correct: " Coming to see",
   },
   {
     question: "	It’s time	______ have a rest",
     choices: ["	To", "	Should", "	That", "	So to"],
-    correct: "",
+    correct: "	To",
   },
   {
     question: "	I don’t like this box. Please ___________	",
     choices: ["	Bring to me", " Take it away", " Bring it here", " Take it off"],
-    correct: "",
+    correct: " Take it away",
   },
   {
     question: "	The teacher told John__________	in class",
     choices: ["	Not talk", "	Not to talk", "	To not talk", "	Not talking"],
-    correct: "",
+    correct: "	Not to talk",
   },
   {
     question: "	My aunt was ill. I had to____________	her",
     choices: ["	Look at", "	Look for", " Look after", " Look into"],
-    correct: "",
+    correct: " Look after",
   },
   {
     question: "	Is there anything wrong____________	your bike?",
     choices: ["	At", "	For", " With", " To"],
-    correct: "",
+    correct: " With",
   },
   {
     question: "You must go to see a doctor ________ you are ill.",
     choices: ["That", "When", "Then", "Before"],
-    correct: "",
+    correct: "When",
   },
   {
     question: "Can you carry this box ________ yourself?",
     choices: ["About", "By", "With", "At"],
-    correct: "",
+    correct: "By",
   },
   {
     question: "They came at last ________.",
     choices: ["At once", "The latest", "In the end", "Late"],
-    correct: "",
+    correct: "In the end",
   },
   {
     question:
       "My mother told me to look ________ the baby carefully when she was away.",
     choices: ["To", "After", "For", "At"],
-    correct: "",
+    correct: "After",
   },
   {
     question:
       "Jimmy was ________ young to understand what had happened to his parents.",
     choices: ["So", "Such", "Too", "That"],
-    correct: "",
+    correct: "Too",
   },
   {
     question: "The boy threw the coin ________ the river.",
     choices: ["On", "Into", "Below", "Under"],
-    correct: "",
+    correct: "Into",
   },
   {
     question: "She wanted to get a job; ________ she needed money very much.",
     choices: ["So", "For", "With", "To"],
-    correct: "",
+    correct: "For",
   },
   {
     question: "Why do you want ________ your job there?",
     choices: ["Leave", "To leave", "Leaving", "For leaving"],
-    correct: "",
+    correct: "To leave",
   },
   {
     question:
       "I'd like to get more experience ________ learn about different kinds of work.",
     choices: ["Of", "With", "But", "And"],
-    correct: "",
+    correct: "And"
   },
   {
     question: "Can you work on Saturday afternoons ________ we need you?",
     choices: ["If", "But", "And", "Because"],
-    correct: "",
+    correct: "If",
   },
   {
     question: "I ________ swim. Would you like to come?",
     choices: ["Will", "Am going for a", "Go for", "Have gone"],
-    correct: "",
+    correct: "Am going for a",
   },
   {
     question:
@@ -334,7 +334,7 @@ const quizEnglish = [
       "Lives/living",
       "Was living/has lived",
     ],
-    correct: "",
+    correct: "Lived/lives",
   },
   {
     question: "Melinda ________ when she ________ the strange animal.",
@@ -344,135 +344,135 @@ const quizEnglish = [
       "Screamed/seeing",
       "Screams/seeing",
     ],
-    correct: "",
+    correct: "Screamed/saw",
   },
   {
     question: "Tell me what ________.",
     choices: ["I should say", "Should I say", "Should say", "To have said"],
-    correct: "",
+    correct: "I should say",
   },
   {
     question: "Kim is much ________ Nathan.",
     choices: ["So tall than", "Taller than", "Tall than", "As tall as"],
-    correct: "",
+    correct: "Taller than",
   },
   {
     question: "Call me when you ________ there.",
     choices: ["Reach", "Reached", "Will reach", "Should reach"],
-    correct: "",
+    correct: "Reach",
   },
   {
     question: "Paul lived here from 1980 to 1990. He ________ live there.",
     choices: ["Lives", "Is used to", "Used to", "Uses to"],
-    correct: "",
+    correct: "Used to",
   },
   {
     question: "I don’t like horror films: They’re too ________.",
     choices: ["Frightened", "Fightening", "Excited", "Exciting"],
-    correct: "",
+    correct: "Fightening",
   },
   {
     question: "She ________ on the phone when he walked in.",
     choices: ["Talks", "Has talked", "Had talked", "Was talking"],
-    correct: "",
+    correct: "Was talking"
   },
   {
     question: "Terry is a pilot, but he ________ at the moment.",
     choices: ["Has not flown", "Does not fly", "Did not fly", "Isn’t flying"],
-    correct: "",
+    correct: "Isn’t flying"
   },
   {
     question:
       "At 7 pm tomorrow, Martha ________ waiting for you at the Rex Hotel.",
     choices: ["Will", "Has been", "Will be", "Would be"],
-    correct: "",
+    correct: "Will be",
   },
   {
     question: "The vegetables do not look ________ to me!",
     choices: ["Fresh", "Freshly", "Freshable", "Freshing"],
-    correct: "",
+    correct: "Fresh",
   },
   {
     question:
       "____________I don’t like her, I have to admit that she is a fast worker.",
     choices: ["Although", "Because", "Nevertheless", "However"],
-    correct: "",
+    correct: "Although",
   },
   {
     question: "I felt very tired, ________ I went straight to bed.",
     choices: ["Because", "Although", "So", "When"],
-    correct: "",
+    correct: "So",
   },
   {
     question: "I will have my car ________ next week.",
     choices: ["Service", "Servicing", "'s service", "Serviced"],
-    correct: "",
+    correct: "Serviced"
   },
   {
     question: "The trouble with John is that he never stops ________.",
     choices: ["Talk", "Talks", "Talked", "Talking"],
-    correct: "",
+    correct: "Talking"
   },
   {
     question: "“What a pity you failed!” - “Yes, I wish I ________ it better.”",
     choices: ["Do", "Did", "Had done", "Have done"],
-    correct: "",
+    correct: "Had done",
   },
   {
     question: "Daisy has been learning Portuguese ________ a long time.",
     choices: ["<>", "Since", "For", "As"],
-    correct: "",
+    correct: "For",
   },
   {
     question: "While Mark was feeding his cat, the doorbell ________.",
     choices: ["Ring", "Rings", "Rang", "Has rung"],
-    correct: "",
+    correct: "Rang",
   },
   {
     question: "They began to realize the dangers ________ smoking.",
     choices: ["In", "On", "With", "Of"],
-    correct: "",
+    correct: "Of"
   },
   {
     question: "Human beings are always afraid ________ dying.",
     choices: ["Of", "For", "At", "In"],
-    correct: "",
+    correct: "Of",
   },
   {
     question: "Alice is never kind ________ any of us.",
     choices: ["To", "With", "At", "From"],
-    correct: "",
+    correct: "To",
   },
   {
     question: "John was good, but Steve was even ________.",
     choices: ["More", "Gooder", "Better", "Best"],
-    correct: "",
+    correct: "Better",
   },
   {
     question: "Peter was one of the best ________ of his generation.",
     choices: ["Acts", "Acting", "Actors", "Acted"],
-    correct: "",
+    correct: "Actors",
   },
   {
     question: "Here’s the ________, sir. - Thank you. I’ll pay by credit card.",
     choices: ["Money", "Banknote", "Currency", "Bill"],
-    correct: "",
+    correct: "Bill"
   },
   {
     question:
       "Billy is a playboy. I guess you can always find him at ________.",
     choices: ["The casino", "Home", "The office", "School"],
-    correct: "",
+    correct: "The casino",
   },
   {
     question: "The job is so dangerous that there is only one ________ for it.",
     choices: ["Appliance", "Applicator", "Applier", "Applicant"],
-    correct: "",
+    correct: "Applicant"
   },
   {
     question: "She <u>occasionally</u> reads a novel.",
     choices: ["Sometimes", "Usually", "Rarely", "Seldom"],
-    correct: "",
+    correct: "Sometimes",
   },
   {
     question: "Mary doesn’t like doing the <u>washing-up.</u>",
@@ -482,124 +482,124 @@ const quizEnglish = [
       "Cleaning the house",
       "Washing the dishes",
     ],
-    correct: "",
+    correct: "Washing the dishes",
   },
   {
     question: "All of these are fruit EXCEPT",
     choices: ["Oranges", "Pears", "Onion", "Apples"],
-    correct: "",
+    correct: "Onion",
   },
   {
     question: "Can I ________ in here for the ANZ Airway flight to Can Tho?",
     choices: ["Go", "Examine", "Check", "Pass"],
-    correct: "",
+    correct: "Check",
   },
   {
     question:
       "If your luggage weighs more than 25 kilos, you’ll have to pay an excess baggage ________.",
     choices: ["Money", "Penalty", "Charge", "Punishment"],
-    correct: "",
+    correct: "Charge",
   },
   {
     question: "Where is she? She has gone to ________.",
     choices: ["Movie", "Cinema", "Church", "Home"],
-    correct: "",
+    correct: "Church",
   },
   {
     question: "The car <u>fantastic</u>. I love it.",
     choices: ["Fast", "Expensive", "Economical", "Wonderful"],
-    correct: "",
+    correct: "Wonderful"
   },
   {
     question: "We have no ________ but to continue our work.",
     choices: ["Chance", "Choice", "Way", "Escape"],
-    correct: "",
+    correct: "Choice",
   },
   {
     question: "I have to go now. I have a ________ with my girlfriend at nine.",
     choices: ["Day", "Date", "Reservation", "Booking"],
-    correct: "",
+    correct: "Date",
   },
   {
     question:
       "With good sense of direction, you won’t get ________ in the shopping mall.",
     choices: ["Hurt", "Lost", "Ill", "Mad"],
-    correct: "",
+    correct: "Lost",
   },
   {
     question:
       "Could you tell me what ________ you are eating? It seems very delicious to me.",
     choices: ["Kind", "Disk", "Style", "Dish"],
-    correct: "",
+    correct: "Dish"
   },
   {
     question: "If you ________ too much TV, you will get poor grades again.",
     choices: ["Watch", "Enjoy", "Relax", "Have"],
-    correct: "",
+    correct: "Watch",
   },
   {
     question:
       "There was something ________ with our computer. I cannot print this document.",
     choices: ["Wrong", "<>", "Difficult", "Unknown"],
-    correct: "",
+    correct: "Wrong",
   },
   {
     question:
       "How many students will take ________ in the speaking contest tomorrow?",
     choices: ["Past", "Place", "Park", "Part"],
-    correct: "",
+    correct: "Part"
   },
   {
     question:
       "The manager has promised to ________ the problem as soon as he can.",
     choices: ["Solve", "Deal", "Take", "Roll"],
-    correct: "",
+    correct: "Solve",
   },
   {
-    question: "My father likes to collect coins from different countries.",
+    question: "My father likes to collect coins from  <u>different</u> countries.",
     choices: ["Many", "Faraway", "Various", "Neighbouring"],
-    correct: "",
+    correct: "Various",
   },
   {
-    question: "That job requires a lot of patience and hard work.",
+    question: "That job__________ requires a lot of patience and hard work.",
     choices: ["Applies", "Involves", "Insists", "Asks"],
-    correct: "",
+    correct: "Involves",
   },
   {
-    question: "Unlike running, volleyball and football are team sports.",
+    question: "Unlike running, volleyball and football are ___ sports.",
     choices: ["Collection", "Union", "Team", "Group"],
-    correct: "",
+    correct: "Team",
   },
   {
-    question: "What perfume are you wearing, Miss Smith?",
+    question: "What perfume are you wearing___, Miss Smith?",
     choices: ["Having", "Wearing", "Putting", "Taking"],
-    correct: "",
+    correct: "Wearing",
   },
   {
     question:
-      "Lord Worth wanted Mary to make a special effort because Sir Thomas is a very important guest.",
+      "Lord Worth wanted Mary to ___ a special effort because Sir Thomas is a very important guest.",
     choices: ["Do", "Make", "Try", "Give"],
-    correct: "",
+    correct: "Make",
   },
   {
-    question: "He makes his living by repairing clocks.",
+    question: "He ___ his living by repairing clocks.",
     choices: ["Makes", "Does", "Acquires", "Gets"],
-    correct: "",
+    correct: "Makes",
   },
   {
-    question: "He was too tired to continue working.",
+    question: "He was too tired to____ working.",
     choices: ["Refuse", "Stop", "Stay", "Continue"],
-    correct: "",
+    correct: "Continue"
   },
   {
-    question: "My sister told us that she had talked with Mike last night.",
+    question: "My sister ___ us that she had talked with Mike last night.",
     choices: ["Said", "Told", "Spoke", "Asked"],
-    correct: "",
+    correct: "Told",
   },
   {
-    question: "Take it easy. Don’t rush.",
-    choices: ["Hurry", "Make a mess", "Push in", "Run"],
-    correct: "",
+    question: "Take it easy. Don’t <u>rush</u>.",
+    choices: ["Hurry", "Make a mess", "Push-in", "Run"],
+    correct: "Hurry",
   },
   {
     question: "You needn’t shout. I am not____________.",
