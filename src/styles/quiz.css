@@ -6,14 +6,17 @@
 }
 
 .timer {
-  margin: 40px auto 10px;
+  position: fixed;
+  top: 100px;
+  left: 80%;
+  margin: 0;
   padding: 10px 20px;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 16px;
   color: #fff;
-  text-align: center;
+  text-align: right;
   background: linear-gradient(to right, #00ccbb, #009988);
-  border-radius: 30px;
+  border-radius: 25px;
   font-family: "Poppins", sans-serif;
 }
 
@@ -33,15 +36,15 @@
   content: "";
   position: relative;
   display: block;
-  width: 100px;
-  height: 5px;
+  width: 80px;
+  height: 3px;
   background: linear-gradient(
     to right,
     rgba(0, 0, 0, 0),
     #333,
     rgba(0, 0, 0, 0)
   );
-  margin: 15px auto;
+  margin: 10px auto;
 }
 
 .startFrame {
@@ -50,14 +53,26 @@
 
 .startFrame h1 {
   color: #007bff;
-  font-size: 24px;
+  font-size: 20px;
   margin-bottom: 10px;
   font-family: "Poppins", sans-serif;
 }
 
 .startFrame p {
   font-style: italic;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
+  font-family: "Poppins", sans-serif;
+}
+
+.questionContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.question {
+  flex-basis: calc(50% - 10px);
+  background-color: #f2f2f2;
+  padding: 20px;
   font-family: "Poppins", sans-serif;
 }
 
@@ -65,15 +80,15 @@
 .choice-box {
   display: block;
   text-align: center;
-  margin: 15px auto;
-  padding: 15px 30px;
+  margin: 10px auto;
+  padding: 10px 20px;
   border: 1px solid #007bff;
   cursor: pointer;
   border-radius: 5px;
-  font-size: 16px;
+  font-size: 14px;
   transition: background-color 0.3s ease;
   font-family: "Poppins", sans-serif;
-  color: #007bff;
+  color: black;
 }
 
 .startButton:hover,
@@ -107,26 +122,88 @@
   display: inline-block;
   padding: 10px 20px;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 16px;
   color: #fff;
   text-align: center;
   background-color: #007bff;
-  border-radius: 30px;
+  border-radius: 25px;
   font-family: "Poppins", sans-serif;
 }
 
 .timer::after {
   content: "";
   position: absolute;
-  bottom: -5px;
+  bottom: -3px;
   left: 50%;
   transform: translateX(-50%);
   display: block;
-  width: 80%;
-  height: 5px;
+  width: 70%;
+  height: 3px;
   background-color: #007bff;
   border-radius: 4px;
 }
+
 u {
   text-decoration: underline;
+}
+
+/* Additional CSS for Quizizz-like appearance */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+.options {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.option input[type="radio"] {
+  margin-right: 10px;
+}
+
+.option label {
+  font-size: 16px;
+}
+
+.submit-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf)
+    format("truetype");
 }

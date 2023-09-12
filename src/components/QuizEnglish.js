@@ -56,7 +56,7 @@ function QuizEnglish() {
         // Chỉ bắt đầu quiz nếu chưa bắt đầu
         quizStarted = true;
         // Bắt đầu tính thời gian
-        quizTime = 60 * 60 * 1000; // 60 phút trong đơn vị milliseconds
+        quizTime = 30 * 60 * 1000; // 60 phút trong đơn vị milliseconds
         startTime = new Date().getTime();
         endTime = startTime + quizTime;
         timerInterval = setInterval(updateTimer, 1000);
@@ -133,7 +133,7 @@ function QuizEnglish() {
       submt = true;
       $("#explanation").empty();
       $("#question").text(quiz[currentquestion]["question"]);
-      $("#pager").text("Question" + Number(currentquestion + 1) + " of" + 60);
+      $("#pager").text("Question" + Number(currentquestion + 1) + " of" + 30);
       if (
         quiz[currentquestion].hasOwnProperty("image") &&
         quiz[currentquestion]["image"] !== ""
@@ -186,7 +186,7 @@ function QuizEnglish() {
       $("#submitbutton")
         .html("NEXT QUESTION &raquo;")
         .on("click", function () {
-          if (currentquestion === 60) {
+          if (currentquestion === 30) {
             endQuiz();
           } else {
             $(this).text("Check Answer").css({ color: "#222" }).off("click");
@@ -236,10 +236,10 @@ function QuizEnglish() {
       $("#question").empty();
       $("#choice-block").empty();
       $("#submitbutton").remove();
-      $("#question").text("You got" + score + " out of" + 60 + " correct.");
+      $("#question").text("You got" + score + " out of" + 30 + " correct.");
       $(document.createElement("h2"))
         .css({ "text-align": "center", "font-size": "4em" })
-        .text(Math.round((score / 60) * 100) + "%")
+        .text(Math.round((score / 30) * 100) + "%")
         .insertAfter("#question");
     }
     function shuffleArray(array) {
@@ -266,10 +266,10 @@ function QuizEnglish() {
         $(document.createElement("p"))
           .addClass("pager")
           .attr("id", "pager")
-          .text("Question 1 of" + 60)
+          .text("Question 1 of" + 30)
           .appendTo("#frame");
         //add first question
-        const selectedQuestions = quiz.slice(0, 60);
+        const selectedQuestions = quiz.slice(0, 30);
         $(document.createElement("h2"))
           .addClass("question")
           .attr("id", "question")

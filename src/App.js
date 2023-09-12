@@ -1,4 +1,3 @@
-// App.js
 import React from "react";
 import {
   BrowserRouter as Router,
@@ -6,12 +5,14 @@ import {
   Routes,
   Link,
   Outlet,
+  Navigate,
 } from "react-router-dom";
 import Start from "./components/Start";
 import Quiz from "./components/Quiz";
 import "./App.css"; // Import tệp CSS
 import Navbar from "./components/Navbar";
 import QuizEnglish from "./components/QuizEnglish";
+
 const App = () => {
   return (
     <Router>
@@ -19,11 +20,19 @@ const App = () => {
         <Navbar />
 
         <Routes>
-          <Route path="/" element={<Start />} />
+          <Route
+            path="/"
+            element={
+              <>
+                <Start />
+                <Outlet />
+              </>
+            }
+          />
           <Route path="/quiz/*" element={<Quiz />} />
           <Route path="/QuizEnglish/*" element={<QuizEnglish />} />
+          <Route path="*" element={<Navigate to="/" />} />
         </Routes>
-        <Outlet />
       </div>
     </Router>
   );

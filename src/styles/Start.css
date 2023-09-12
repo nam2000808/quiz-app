@@ -4,32 +4,47 @@
   background-color: #f5f5f5;
   padding: 40px;
   border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .start-container h1 {
-  font-size: 2.5em;
+  font-size: 3em;
   color: #333;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .start-container p {
-  font-size: 1.4em;
+  font-size: 1.6em;
   color: #666;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
+  font-family: "Poppins", sans-serif;
 }
 
 .start-container button {
-  background-color: #61dafb;
+  background-color: #007bff;
   color: white;
   border: none;
-  padding: 12px 24px;
-  font-size: 1.2em;
-  border-radius: 5px;
+  padding: 14px 28px;
+  font-size: 1.4em;
+  border-radius: 30px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
 }
 
 .start-container button:hover {
-  background-color: #51c1e3;
+  background-color: #0056b3;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.start-container button:first-child {
+  margin-right: 15px;
+}
+
+.start-container button:active {
+  transform: translateY(2px);
 }
