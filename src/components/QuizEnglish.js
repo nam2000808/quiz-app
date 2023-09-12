@@ -1,12 +1,14 @@
 // src/components/Quiz.js
 import React, { useEffect, useState } from "react";
-import quizEnglish from "../Data/QuizEnglish";
+import quizEnglish1 from "../Data/quizenglish1";
+import quizEnglish2 from "../Data/quizenglish2";
+import quizEnglish3 from "../Data/quizenglish3";
 import $ from "jquery";
 import "../styles/quiz.css";
 
 function QuizEnglish() {
   const [quizStarted] = useState(false);
-  const quiz = quizEnglish;
+  const quiz = [...quizEnglish1, ...quizEnglish2, ...quizEnglish3];
   useEffect(() => {
     /*time quiz*/
     var quizTime = 30 * 60 * 1000; // 60 phút trong đơn vị milliseconds
@@ -68,8 +70,8 @@ function QuizEnglish() {
 
     function showQuestion(questionIndex) {
       // Hiển thị các phần liên quan đến câu hỏi
-      $("#question, #choice-block, #explanation, #submitbutton, #pager").show();
       $("#question-image").hide();
+      $("#question, #choice-block, #explanation, #submitbutton, #pager").show();
 
       // Hiển thị thông tin của câu hỏi
       $("#question").text(quiz[questionIndex]["question"]);
@@ -106,13 +108,6 @@ function QuizEnglish() {
       // Các phần mã khác ...
     }
 
-    // Shuffle the quiz array
-    shuffleArray(quiz);
-    /**
-     * This will add the individual choices for each question to the ul#choice-block
-     *
-     * @param {choices} array The choices from each question
-     */
     function addChoices(choices) {
       if (typeof choices !== "undefined" && $.type(choices) === "array") {
         $("#choice-block").empty();
@@ -242,12 +237,6 @@ function QuizEnglish() {
         .text(Math.round((score / 30) * 100) + "%")
         .insertAfter("#question");
     }
-    function shuffleArray(array) {
-      for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-      }
-    }
 
     /**
      * Runs the first time and creates all of the elements for the quiz
@@ -270,12 +259,6 @@ function QuizEnglish() {
           .appendTo("#frame");
         //add first question
         const selectedQuestions = quiz.slice(0, 30);
-        $(document.createElement("h2"))
-          .addClass("question")
-          .attr("id", "question")
-          .text(selectedQuestions[0]["question"])
-          .appendTo("#frame");
-        //add image if present
         if (quiz[0].hasOwnProperty("image") && quiz[0]["image"] !== "") {
           $(document.createElement("img"))
             .addClass("question-image")
@@ -284,6 +267,13 @@ function QuizEnglish() {
             .attr("alt", htmlEncode(quiz[0]["question"]))
             .appendTo("#frame");
         }
+        $(document.createElement("h2"))
+          .addClass("question")
+          .attr("id", "question")
+          .text(selectedQuestions[0]["question"])
+          .appendTo("#frame");
+        //add image if present
+
         $(document.createElement("p"))
           .addClass("explanation")
           .attr("id", "explanation")

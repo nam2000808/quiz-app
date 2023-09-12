@@ -1,4 +1,4 @@
-const quizEnglish = [
+const quizEnglish1 = [
   {
     question: "	I’d like to	a reservation.",
     choices: ["	Book	", " make	", " form	", "set"],
@@ -1785,5 +1785,757 @@ const quizEnglish = [
     choices: ["	Through	", " forward	", " across	", "on"],
     correct: "",
   },
+  {
+    question:
+      "She …............. French before she began studying English in 1990.",
+    choices: ["A. had studied", "B. studied", "C. studies", "D. has studied"],
+    correct: "A. had studied",
+    explanation: "",
+  },
+  {
+    question:
+      "Children in large families learn how to get …............. with other people.",
+    choices: ["A. along", "B. away", "C. cross", "D. through"],
+    correct: "A. along",
+    explanation: "",
+  },
+  {
+    question: "Are you coming on the ……………… to Cairo today?",
+    choices: ["A. excursion", "B. exploration", "C. mission", "D. taste"],
+    correct: "A. excursion",
+    explanation: "",
+  },
+  {
+    question: "Please wait for him …............. he comes back.",
+    choices: ["A. when", "B. so", "C. for", "D. until"],
+    correct: "D. until",
+    explanation: "",
+  },
+  {
+    question: "We would …............. to stay at home this evening.",
+    choices: ["A. approve", "B. recommend", "C. prefer", "D. rather"],
+    correct: "C. prefer",
+    explanation: "",
+  },
+  {
+    question: "I don’t like …............. with strangers.",
+    choices: ["A. talked", "B. to talk", "C. talk", "D. talking"],
+    correct: "D. talking",
+    explanation: "",
+  },
+  {
+    question: "I have never ……………… any experience of living in the country.",
+    choices: ["A. had", "B. wished", "C. done", "D. made"],
+    correct: "A. had",
+    explanation: "",
+  },
+  {
+    question: "Do you like this suit? I’ve ……………… a friend of mine.",
+    choices: [
+      "A. lent it of",
+      "B. lent it from",
+      "C. borrowed",
+      "D. borrowed it from",
+    ],
+    correct: "D. borrowed it from",
+    explanation: "",
+  },
+  {
+    question:
+      "John and Barbara …............. to get married in St Mark’s church.",
+    choices: ["A. selected", "B. picked", "C. judged", "D. decided"],
+    correct: "D. decided",
+    explanation: "",
+  },
+  {
+    question: "A milkman is a man who ……………… milk.",
+    choices: ["A. gives", "B. delivers", "C. buys", "D. sells"],
+    correct: "B. delivers",
+    explanation: "",
+  },
+  {
+    question: "A milkman is a man who ……………… milk.",
+    choices: ["A. gives", "B. delivers", "C. buys", "D. sells"],
+    correct: "B. delivers",
+    explanation: "",
+  },
+  {
+    question: "She is too young …............. it",
+    choices: [
+      "A.to understand",
+      "B.understanding",
+      "C.understand",
+      "D.understood",
+    ],
+    correct: "A.to understand",
+    explanation: "",
+  },
+  {
+    question:
+      "Her parents were very ……………… because she was out so late that night.",
+    choices: ["A.responsible", "B.sorry", "C.worried", "D.overcome"],
+    correct: "C.worried",
+    explanation: "",
+  },
+  {
+    question: "I have seen him ….............",
+    choices: [
+      "A.ten days",
+      "B.for ten days",
+      "C.ten days ago",
+      "D.in ten days",
+    ],
+    correct: "B.for ten days",
+    explanation: "",
+  },
+  {
+    question: "It may be raining, but I’m thoroughly enjoying_____.",
+    choices: ["A. himself", "B. yourself", "C. by myself", "D. myself"],
+    correct: "D. myself",
+    explanation: "",
+  },
+  {
+    question: "They will now have a …............. rest",
+    choices: ["A.small", "B.little", "C.light", "D.short"],
+    correct: "C.light",
+    explanation: "",
+  },
+  {
+    question:
+      "The librarian went to look in the cupboard …............. rare books were kept",
+    choices: ["A.which", "B.where", "C.that", "D.there"],
+    correct: "B.where",
+    explanation: "",
+  },
+  {
+    question: "Drive fast ________ we will miss the train.",
+    choices: ["A. because", "B. so", "C. although", "D. or"],
+    correct: "B. so",
+    explanation: "",
+  },
+  {
+    question: "Show me …............. my room, please?",
+    choices: ["A.to", "B.of", "C.where", "D.on"],
+    correct: "C.where",
+    explanation: "",
+  },
+  {
+    question: "I’d like ……………… two seats in the circle, please",
+    choices: ["A.booking", "B.to book", "C.booked", "D.book"],
+    correct: "B.to book",
+    explanation: "",
+  },
+  {
+    question: "He has just arrived …............. London.",
+    choices: ["A.at", "B.in", "C.for", "D.to"],
+    correct: "A.at",
+    explanation: "",
+  },
+  {
+    question:
+      "Although their carpets ___ primarily for mosques, sometimes, they ___ designs for restaurants and hotels as well.",
+    choices: [
+      "A. are designed – produce",
+      "B.have been designed - were produced",
+      "C.will be designed - were producing",
+      "D.have designed - had been producing",
+    ],
+    correct: "A. are designed – produce",
+    explanation: "",
+  },
+  {
+    question:
+      "If the tree hadn't been so high, he ___ up to take his kite down.",
+    choices: [
+      "A.can climb",
+      "B.could climb",
+      "C.could have climbed",
+      "D.was able to climb",
+    ],
+    correct: "C.could have climbed",
+    explanation: "",
+  },
+  {
+    question:
+      "Since, at the very beginning, he showed some inclination towards laziness, he ___ of all his duties. Afterwards he worked very well.",
+    choices: [
+      "A.had to be reminded",
+      "B.had to remind",
+      "C.must have reminded",
+      "D.must have been reminded",
+    ],
+    correct: "A.had to be reminded",
+    explanation: "",
+  },
+  {
+    question:
+      "When Tiger Woods ___ his sixth golfing title in a row, he equalled the record of Ben Hogen, which ___ 52 years ago.",
+    choices: [
+      "A.has won - had set",
+      "B.won - was set",
+      "C.is won - had been set",
+      "D.wins - has been set",
+    ],
+    correct: "B.won - was set",
+    explanation: "",
+  },
+  {
+    question:
+      "I'm not sure who should be punished for the incident. Certainly not Alice, since she ___ of possible dangers.",
+    choices: [
+      "A.wasn't warned",
+      "B.hasn't warned",
+      "C.hadn't warned",
+      "D.wouldn't be warned",
+    ],
+    correct: "C.hadn't warned",
+    explanation: "",
+  },
+  {
+    question: "If eating disorders ___, they can be fatal.",
+    choices: [
+      "A.aren't treating",
+      "B.aren't treated",
+      "C.weren't treated",
+      "D.don't treat",
+    ],
+    correct: "B.aren't treated",
+    explanation: "",
+  },
+  {
+    question: "Usually I ___ cash for things because I ___ using credit cards.",
+    choices: [
+      "A.have paid - didn't like",
+      "B.pay - don't like",
+      "C.have been paid - won't like",
+      "D.am paying - haven't liked",
+    ],
+    correct: "B.pay - don't like",
+    explanation: "",
+  },
+  {
+    question:
+      "The origin of April Fool's Day, the first day of April, is uncertain, but it ___ to arrival of spring in late March, when nature ___ to 'fool' humanity with changes in weather.",
+    choices: [
+      "A.has been related - has said",
+      "B.may be related - is said",
+      "C.ought to relate - has been said",
+      "D.relates - is saying",
+    ],
+    correct: "B.may be related - is said",
+    explanation: "",
+  },
+  {
+    question:
+      "This morning, the attendant ___ a baby who ___ in an old blanket on the steps of the country hospital.",
+    choices: [
+      "A.finds – wrapped",
+      "B.was being found - has been wrapped",
+      "C.found - was wrapped",
+      "D.was found - had been wrapped",
+    ],
+    correct: "D.was found - had been wrapped",
+    explanation: "",
+  },
+  {
+    question:
+      "It's true that life ___ as anything may happen at any time, but some precautions such as insurance policies, ___ against disaster.",
+    choices: [
+      "A.mustn't be predicted - have taken",
+      "B.shouldn't predict - have been taking",
+      "C.doesn't predict - are taking",
+      "D.can't be predicted - can be taken",
+    ],
+    correct: "D.can't be predicted - can be taken",
+    explanation: "",
+  },
+  {
+    question: "He is coming ______ a cold after a night out in the rain.",
+    choices: ["A. down with", "B. up with", "C. away from", "D. across with"],
+    correct: "A. down with",
+    explanation: "",
+  },
+  {
+    question: "Although his work is not outstanding it is………….. done.",
+    choices: ["A. enough", "B. sufficient", "C. well", "D. adequate"],
+    correct: "C. well",
+    explanation: "",
+  },
+  {
+    question:
+      "We must push the piano to the corner of the hall to ______ our party tonight.",
+    choices: [
+      "A. make place for",
+      "B. take up room to",
+      "C. make room for",
+      "D. give place to",
+    ],
+    correct: "C. make room for",
+    explanation: "",
+  },
+  {
+    question: "Thang: 'What do you think about the novel?' Huong: '______'",
+    choices: [
+      "A. Yes, let's.",
+      "B. The best I've ever read!",
+      "C. I can't agree with you more.",
+      "D. I wish I could.",
+    ],
+    correct: "B. The best I've ever read!",
+    explanation: "",
+  },
+  {
+    question:
+      "The women who…. next door is often willing to help us whenever we are in difficulty.",
+    choices: ["A. to live", "B. living", "C. lived", "D. lives"],
+    correct: "D. lives",
+    explanation: "",
+  },
+  {
+    question:
+      "My favourite team ______ 15 games so far this season, and will probably win the championship.",
+    choices: ["A. are winning", "B. won", "C. have won", "D. will win"],
+    correct: "C. have won",
+    explanation: "",
+  },
+  {
+    question:
+      "______ John Kennedy was elected president, he was the youngest American President ever.",
+    choices: ["A. When", "B. While", "C. Before", "D. As long as"],
+    correct: "A. When",
+    explanation: "",
+  },
+  {
+    question:
+      "'The inflation rate in Greece is five times ______ my country,' he said.",
+    choices: [
+      "A. as much as",
+      "B. more than",
+      "C. as many as that in",
+      "D. as high as that in",
+    ],
+    correct: "A. as much as",
+    explanation: "",
+  },
+  {
+    question: "I’m not accustomed ___ up so early.",
+    choices: ["A. to getting", "B. to get", "C. by getting", "D. get"],
+    correct: "A. to getting",
+    explanation: "",
+  },
+  {
+    question:
+      "The ………….. charged by the architect for the plans of the new building were unusually high.",
+    choices: ["A. hire", "B. price", "C. fees", "D. sum"],
+    correct: "C. fees",
+    explanation: "",
+  },
+  {
+    question:
+      "George has been in the publishing business since he ______ college.",
+    choices: ["was in", "learned", "had in", "worked"],
+    correct: "was in",
+  },
+  {
+    question: "I don’t know where …............. before he came here.",
+    choices: ["is he living", "he had lived", "did he live", "has he lived"],
+    correct: "he had lived",
+  },
+  {
+    question: "Mr. and Mrs. Kent are old age ………………",
+    choices: ["workers", "people", "folks", "pensioners"],
+    correct: "pensioners",
+  },
+  {
+    question:
+      "My aunt and uncle always quarreled about their tea; she like it strong but he wanted it….............",
+    choices: ["feeble", "weak", "small", "poor"],
+    correct: "weak",
+  },
+  {
+    question: "How much are the tickets? 'I think they are two dollars ………………'",
+    choices: ["one", "every", "each", "much"],
+    correct: "each",
+  },
+  {
+    question: "It is such a big city that he’s got ….............",
+    choices: ["late", "loose", "lost", "up"],
+    correct: "lost",
+  },
+  {
+    question: "Will you ……………… me to post this letter tomorrow?",
+    choices: ["remember", "mind", "suggest", "remind"],
+    correct: "remind",
+  },
+  {
+    question: "Show me …............. my room, please?",
+    choices: ["to", "of", "where", "on"],
+    correct: "where",
+  },
+  {
+    question:
+      "…............. he joined the army my brother had never been abroad",
+    choices: ["Since", "While", "During", "Until"],
+    correct: "Until",
+  },
+  {
+    question: "006, the secret agent, is on an important ………………",
+    choices: ["job", "work", "mission", "tap"],
+    correct: "mission",
+  },
+  {
+    question:
+      "Her career was all ___ she cared about, ___ made her so successful.",
+    choices: ["what – which", "what – that", "that – that", "that – which"],
+    correct: "what – that",
+  },
+  {
+    question:
+      "___ I wear tonight depends on ___ you're planning to take me to. Shall I wear something special, or should I dress more casually?",
+    choices: ["What – where", "How – when", "If – what", "Which - how"],
+    correct: "What – where",
+  },
+  {
+    question:
+      "To achieve the unique coral red of the Ottoman tiles in the 16th century, ___ craftsmen a mixture of iron-oxide and quartz.",
+    choices: ["have fired", "were fired", "used to fire", "could be fired"],
+    correct: "used to fire",
+  },
+  {
+    question:
+      "The moment that the sun reappears just ___ a total solar eclipse is known as a 'diamond ring'.",
+    choices: ["as soon as", "when", "before", "after"],
+    correct: "after",
+  },
+  {
+    question: "Asthma is a lung disease which ___.",
+    choices: [
+      "it makes difficult to breathe",
+      "makes it difficult to breathe",
+      "makes it difficult breathing",
+      "makes difficult to breathe",
+    ],
+    correct: "makes it difficult to breathe",
+  },
+  {
+    question:
+      "Without washing machines; vacuum cleaners, etc., it ___ impossible for us to have as much leisure time as we now do.",
+    choices: ["has been", "should be", "will be", "would be"],
+    correct: "would be",
+  },
+  {
+    question:
+      "It was so embarrassing; I really wish I ___ her name when I met her again last night.",
+    choices: [
+      "hadn't forgotten",
+      "haven't forgotten",
+      "wouldn't forget",
+      "didn't forget",
+    ],
+    correct: "hadn't forgotten",
+  },
+  {
+    question:
+      "Emma has got a cat flap put in her balcony door ___ she doesn't always have to open the door to let her cat in and out.",
+    choices: ["nonetheless", "in order that", "whenever", "as though"],
+    correct: "so that",
+  },
+  {
+    question:
+      "I have bought ___ new shirt which matches ___ jacket I bought last week.",
+    choices: ["some – a", "the – a", "a – the", "some - the"],
+    correct: "a – the",
+  },
+  {
+    question:
+      "Most critics agree that rather little ___ done by the artist after his illness has any great value.",
+    choices: [
+      "of what was",
+      "of that was",
+      "of that what was",
+      "which has been",
+    ],
+    correct: "of what was",
+  },
+  {
+    question:
+      "I ____ hope there won’t be a repetition of these unfortunate events.",
+    choices: ["deeply", "strongly", "sincerely", "thoroughly"],
+    correct: "sincerely",
+  },
+  {
+    question:
+      "After thirty-five years in the French department, Professor Lane finally _____ last month.",
+    choices: ["withdrew", "retired", "treated", "abdicated"],
+    correct: "retired",
+  },
+  {
+    question: "The contract was ……………… at lunchtime.",
+    choices: ["signed", "decided", "delivered", "agreed"],
+    correct: "signed",
+  },
+  {
+    question: "It is such a big city that he’s got ….............",
+    choices: ["late", "loose", "lost", "up"],
+    correct: "lost",
+  },
+  {
+    question:
+      "He’s very _____ about his work, so try not to say anything that he might take as a criticism.",
+    choices: ["annoyed", "touchy", "irritated", "annoying"],
+    correct: "touchy",
+  },
+  {
+    question: "Show me …............. my room, please?",
+    choices: ["to", "of", "where", "on"],
+    correct: "to",
+  },
+  {
+    question:
+      "Listen to that music! Our neighbors _____ play music that loud at this hour.",
+    choices: ["should", "shouldn’t", "can", "cannot"],
+    correct: "shouldn’t",
+  },
+  {
+    question:
+      "Deforestation ______ an alarming decrease in the amount of farming land.",
+    choices: ["are", "was", "is", "were"],
+    correct: "is",
+  },
+  {
+    question:
+      "If we behave badly in class, our teacher ____ stay late and do extra work.",
+    choices: ["much", "lets us", "allows us to", "makes us"],
+    correct: "makes us",
+  },
+  {
+    question: "Mr. and Mrs. Kent are old age ………………",
+    choices: ["workers", "people", "folks", "pensioners"],
+    correct: "pensioners",
+  },
+  {
+    question:
+      "Well, as long as Mr. Idiot ___ to say things we might find embarrassing, his presence is not a problem.",
+    choices: ["won't lead", "won't be led", "isn't led", "doesn't lead"],
+    correct: "doesn't lead",
+  },
+  {
+    question:
+      "What? Your sister saw Jimmy at The Oasis! Well, if it ___ him, he must have been dismissed again.",
+    choices: [
+      "were really",
+      "was really",
+      "had really been",
+      "really had been",
+    ],
+    correct: "was really",
+  },
+  {
+    question:
+      "If the M1 motorway ___ , the traffic in London ___ to a standstill.",
+    choices: [
+      "wasn't built - should have come",
+      "isn't going to be built - comes",
+      "hadn't been built - would have come",
+      "won't be built - has come",
+    ],
+    correct: "hadn't been built - would have come",
+  },
+  {
+    question: "Don't regret you couldn't come. Your arrival ___ my decision.",
+    choices: [
+      "wouldn't have changed",
+      "wouldn't change",
+      "may not have changed",
+      "couldn't change",
+    ],
+    correct: "couldn't change",
+  },
+  {
+    question: "Are you sure my tablecloth ___ permanently by this red wine?",
+    choices: [
+      "won't be stained",
+      "isn't being stained",
+      "won't stain",
+      "shouldn't have stained",
+    ],
+    correct: "won't be stained",
+  },
+  {
+    question:
+      "At the end of the training session, you ___ a test. Students who pass ___ to scuba dive in the open seas.",
+    choices: [
+      "are given - have allowed",
+      "will be given - will be allowed",
+      "have given - have been allowed",
+      "had been giving - are allowed",
+    ],
+    correct: "will be given - will be allowed",
+  },
+  {
+    question:
+      "Mr. Grunfeld ___ for his humour already, but on this occasion the whole class ___ hysterically.",
+    choices: [
+      "knew - had been laughing",
+      "was known - laugh",
+      "has known – laughed",
+      "is known - was laughing",
+    ],
+    correct: "knew - had been laughing",
+  },
+  {
+    question: "Recently, a new vaccine against measles ___ .",
+    choices: [
+      "has been developed",
+      "had been developed",
+      "had developed",
+      "was developing",
+    ],
+    correct: "has been developed",
+  },
+  {
+    question:
+      "Dogs, which ___ man since ancient times, were mainly used on farms or for hunting in earlier times, but today they ___ to a wide range of uses, such as drug or victim detection.",
+    choices: [
+      "accompany - are being put",
+      "have accompanied - are put",
+      "had been accompanying - are putting",
+      "were accompanying - put",
+    ],
+    correct: "have accompanied - are put",
+  },
+  {
+    question:
+      "There is no point asking Bob for information concerning the contest. As far as I know he ___ about it.",
+    choices: [
+      "hasn't been told",
+      "didn't tell",
+      "hasn't told",
+      "wouldn't tell",
+    ],
+    correct: "hasn't been told",
+  },
+  {
+    question: "I’m sorry we’re late; it’s all my ….............!",
+    choices: ["guilt", "crime", "fault", "wrong"],
+    correct: "fault",
+  },
+  {
+    question:
+      "He is ____by many people for the money he has helped raise for charity.",
+    choices: ["admired", "regarded", "approved", "considered"],
+    correct: "admired",
+  },
+  {
+    question:
+      "Her parents were very ……………… because she was out so late that night.",
+    choices: ["responsible", "sorry", "worried", "overcome"],
+    correct: "worried",
+  },
+  {
+    question:
+      "We flew to the island, then ……………… a car for three days and visited most places of interest.",
+    choices: ["lent", "bought", "hired", "changed"],
+    correct: "hired",
+  },
+  {
+    question:
+      "Children in large families learn how to get …............. with other people.",
+    choices: ["along", "away", "cross", "through"],
+    correct: "along",
+  },
+  {
+    question: "The teacher told them answer ……………… the question.",
+    choices: ["of", "for", "in", "to"],
+    correct: "to",
+  },
+  {
+    question: "He returned to his home town ___ he spent the rest of his life.",
+    choices: ["that", "which", "where", "who"],
+    correct: "where",
+  },
+  {
+    question: "Show me …............. my room, please?",
+    choices: ["to", "of", "where", "on"],
+    correct: "to",
+  },
+  {
+    question:
+      "My aunt and uncle always quarreled about their tea; she liked it strong but he wanted it….............",
+    choices: ["feeble", "weak", "small", "poor"],
+    correct: "weak",
+  },
+  {
+    question:
+      "The author ______ that it is necessary for every adolescent to establish his own place in society.",
+    choices: ["believes", "believed", "believed", "has believed"],
+    correct: "believes",
+  },
+  {
+    question: "Are you sure we are going in the right _____?",
+    choices: ["direct", "direction", "directed", "directly"],
+    correct: "direction",
+  },
+  {
+    question: "My new car is more _____ than the one I had before.",
+    choices: ["economy", "economical", "economic", "economics"],
+    correct: "economical",
+  },
+  {
+    question: "I ____ doubt whether he will actually carry out his threats.",
+    choices: ["highly", "deeply", "absolutely", "seriously"],
+    correct: "seriously",
+  },
+  {
+    question:
+      "She was very_____and told me quite simply that she didn’t like me.",
+    choices: ["genuine", "open", "blunt", "sincere"],
+    correct: "blunt",
+  },
+  {
+    question:
+      "We can win only if we remain united, and so we must support them the moment they ____ on strike.",
+    choices: ["are", "is", "was", "were"],
+    correct: "go",
+  },
+  {
+    question:
+      "We ____at about seven o’clock this morning and we eventually arrived at half past four.",
+    choices: ["set in", "set to", "set up", "set out"],
+    correct: "set out",
+  },
+  {
+    question:
+      "We have to complete the film this month. No matter how cold it ____, all the summer scenes will have to be shot tomorrow.",
+    choices: ["would be", "will be", "is", "were"],
+    correct: "is",
+  },
+  {
+    question: "Everybody ____ here except for Jill two hours ago.",
+    choices: ["is", "was", "has been", "had been"],
+    correct: "was",
+  },
+  {
+    question: "The Boston police went on ____in 1919.",
+    choices: ["operation", "set up", "strike", "join"],
+    correct: "strike",
+  },
+  {
+    question:
+      "Lizzie should ask Bryan to help her with her studies. He did the ____ course last year.",
+    choices: ["of", "like", "same", "as"],
+    correct: "same",
+  },
 ];
-export default quizEnglish;
+function shuffleArray(quizEnglish1) {
+  for (let i = 0; i < quizEnglish1.length; i += 1) {
+    const group = quizEnglish1.slice(i, i + 1);
+    for (let j = group.length - 1; j > 0; j--) {
+      const randomIndex = Math.floor(Math.random() * (j + 1));
+      [group[j], group[randomIndex]] = [group[randomIndex], group[j]];
+    }
+    quizEnglish1.splice(10);
+  }
+}
+shuffleArray(quizEnglish1);
+export default quizEnglish1;
