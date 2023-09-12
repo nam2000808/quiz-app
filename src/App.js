@@ -10,17 +10,18 @@ import {
 import Start from "./components/Start";
 import Quiz from "./components/Quiz";
 import "./App.css"; // Import tệp CSS
-import Navbar from "./components/Navbar"
+import Navbar from "./components/Navbar";
+import QuizEnglish from "./components/QuizEnglish";
 const App = () => {
   return (
     <Router>
       <div className="app">
         <Navbar />
 
-        
         <Routes>
           <Route path="/" element={<Start />} />
           <Route path="/quiz/*" element={<Quiz />} />
+          <Route path="/QuizEnglish/*" element={<QuizEnglish />} />
         </Routes>
         <Outlet />
       </div>

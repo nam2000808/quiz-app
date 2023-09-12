@@ -6,10 +6,14 @@ const Start = () => {
     <div className="start-container">
       <h1>Chào mừng bạn bò hâm</h1>
       <p>cố làm nuôi mình nhe</p>
-      <Link to="/quiz">
+      <Link to="/Quiz">
         {""}
         {/* Sửa đường dẫn ở đây */}
-        <button>Bắt đầu</button>
+        <button>Bài thi Hải quan</button>
+      </Link>
+      <Link to="/QuizEngligh">
+        {""}
+        <button>Bài thi tiếng Anh</button>
       </Link>
     </div>
   );
