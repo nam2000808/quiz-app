@@ -2,7 +2,7 @@ const quizEnglish1 = [
   {
     question: "	I’d like to	_____ a reservation.",
     choices: ["	Book	", " make	", " form	", "set"],
-    correct:  "make	",
+    correct: "make	",
   },
   {
     question: "	Mary <u>can swim very well</u>",
@@ -32,7 +32,7 @@ const quizEnglish1 = [
   {
     question: "	The moon cake is _____	nice.",
     choices: ["	Too", "	Such", "	Much", " Very"],
-    correct: " Very"
+    correct: " Very",
   },
   {
     question: "	A: _______ B: He sits on the left side.",
@@ -133,7 +133,7 @@ const quizEnglish1 = [
   {
     question: "	Wan is from_______",
     choices: ["	Chinese", "	American", "	Japanese", " Canada"],
-    correct: " Canada"
+    correct: " Canada",
   },
   {
     question: "	It’s very cold in winter. It’s best_________	warm clothes",
@@ -159,7 +159,7 @@ const quizEnglish1 = [
     question:
       "	It’s getting late and we have to <u>be up</u> early in the morning.",
     choices: ["	Put on", "	Get dressed", "	Wake up", " Get up"],
-    correct: " Get up"
+    correct: " Get up",
   },
   {
     question: "	We had <u>a good time</u> on the farm last week.",
@@ -189,7 +189,7 @@ const quizEnglish1 = [
   {
     question: "	You really should look after____________",
     choices: ["	You", "	Your", "	Yours", "	Yourself"],
-    correct: "	Yourself"
+    correct: "	Yourself",
   },
   {
     question: "	You’d	_________ go there.",
@@ -219,7 +219,7 @@ const quizEnglish1 = [
   {
     question: "	Two of them are here. But where are ________________	students?",
     choices: ["	Other", "	Another", "	Others", "	The other"],
-    correct: "	The other"
+    correct: "	The other",
   },
   {
     question: "	A: How _____ are these apples? B: 3 dollars a pound",
@@ -230,7 +230,7 @@ const quizEnglish1 = [
   {
     question: "	Look, the children_____________their exercise now.",
     choices: ["	Do", "	Does", "	Did", "	Are doing"],
-    correct: "	Are doing"
+    correct: "	Are doing",
   },
   {
     question: "	Thank you for ______________	me.",
@@ -313,7 +313,7 @@ const quizEnglish1 = [
     question:
       "I'd like to get more experience ________ learn about different kinds of work.",
     choices: ["Of", "With", "But", "And"],
-    correct: "And"
+    correct: "And",
   },
   {
     question: "Can you work on Saturday afternoons ________ we need you?",
@@ -374,12 +374,12 @@ const quizEnglish1 = [
   {
     question: "She ________ on the phone when he walked in.",
     choices: ["Talks", "Has talked", "Had talked", "Was talking"],
-    correct: "Was talking"
+    correct: "Was talking",
   },
   {
     question: "Terry is a pilot, but he ________ at the moment.",
     choices: ["Has not flown", "Does not fly", "Did not fly", "Isn’t flying"],
-    correct: "Isn’t flying"
+    correct: "Isn’t flying",
   },
   {
     question:
@@ -406,12 +406,12 @@ const quizEnglish1 = [
   {
     question: "I will have my car ________ next week.",
     choices: ["Service", "Servicing", "'s service", "Serviced"],
-    correct: "Serviced"
+    correct: "Serviced",
   },
   {
     question: "The trouble with John is that he never stops ________.",
     choices: ["Talk", "Talks", "Talked", "Talking"],
-    correct: "Talking"
+    correct: "Talking",
   },
   {
     question: "“What a pity you failed!” - “Yes, I wish I ________ it better.”",
@@ -431,7 +431,7 @@ const quizEnglish1 = [
   {
     question: "They began to realize the dangers ________ smoking.",
     choices: ["In", "On", "With", "Of"],
-    correct: "Of"
+    correct: "Of",
   },
   {
     question: "Human beings are always afraid ________ dying.",
@@ -456,7 +456,7 @@ const quizEnglish1 = [
   {
     question: "Here’s the ________, sir. - Thank you. I’ll pay by credit card.",
     choices: ["Money", "Banknote", "Currency", "Bill"],
-    correct: "Bill"
+    correct: "Bill",
   },
   {
     question:
@@ -467,7 +467,7 @@ const quizEnglish1 = [
   {
     question: "The job is so dangerous that there is only one ________ for it.",
     choices: ["Appliance", "Applicator", "Applier", "Applicant"],
-    correct: "Applicant"
+    correct: "Applicant",
   },
   {
     question: "She <u>occasionally</u> reads a novel.",
@@ -508,7 +508,7 @@ const quizEnglish1 = [
   {
     question: "The car <u>fantastic</u>. I love it.",
     choices: ["Fast", "Expensive", "Economical", "Wonderful"],
-    correct: "Wonderful"
+    correct: "Wonderful",
   },
   {
     question: "We have no ________ but to continue our work.",
@@ -530,7 +530,7 @@ const quizEnglish1 = [
     question:
       "Could you tell me what ________ you are eating? It seems very delicious to me.",
     choices: ["Kind", "Disk", "Style", "Dish"],
-    correct: "Dish"
+    correct: "Dish",
   },
   {
     question: "If you ________ too much TV, you will get poor grades again.",
@@ -547,7 +547,7 @@ const quizEnglish1 = [
     question:
       "How many students will take ________ in the speaking contest tomorrow?",
     choices: ["Past", "Place", "Park", "Part"],
-    correct: "Part"
+    correct: "Part",
   },
   {
     question:
@@ -556,7 +556,8 @@ const quizEnglish1 = [
     correct: "Solve",
   },
   {
-    question: "My father likes to collect coins from  <u>different</u> countries.",
+    question:
+      "My father likes to collect coins from  <u>different</u> countries.",
     choices: ["Many", "Faraway", "Various", "Neighbouring"],
     correct: "Various",
   },
@@ -589,7 +590,7 @@ const quizEnglish1 = [
   {
     question: "He was too tired to____ working.",
     choices: ["Refuse", "Stop", "Stay", "Continue"],
-    correct: "Continue"
+    correct: "Continue",
   },
   {
     question: "My sister ___ us that she had talked with Mike last night.",
@@ -609,7 +610,7 @@ const quizEnglish1 = [
   {
     question: "A man who is very healthy ______ needs to see a doctor.",
     choices: ["Should go", "Needs", "Ought", "Does not need"],
-    correct: "Does not need"
+    correct: "Does not need",
   },
   {
     question: "The robber was ___ three days ago.",
@@ -655,7 +656,7 @@ const quizEnglish1 = [
   {
     question: "A: How ______ can Alice type? B:  52 words a minute.",
     choices: ["Good", "Much", "Quick", "Fast"],
-    correct: "Fast"
+    correct: "Fast",
   },
   {
     question:
@@ -672,7 +673,7 @@ const quizEnglish1 = [
   {
     question: "The plane ___into the trees behind me.",
     choices: ["Hit", "Crashed", "Struck", "Collied"],
-    correct: "Crashed", 
+    correct: "Crashed",
   },
   {
     question: "The weather is really <u>awful</u> today.",
@@ -700,7 +701,8 @@ const quizEnglish1 = [
     correct: "I’d like to see a football match",
   },
   {
-    question: "	The astronauts climbed down the ladder and stepped ___the planet",
+    question:
+      "	The astronauts climbed down the ladder and stepped ___the planet",
     choices: ["	Into", "	Over", " Onto", " Above"],
     correct: " Onto",
   },
@@ -710,7 +712,8 @@ const quizEnglish1 = [
     correct: " For",
   },
   {
-    question: "	When I worked there I was bored ___	doing the same ting every day",
+    question:
+      "	When I worked there I was bored ___	doing the same ting every day",
     choices: ["	By", "	of", "	with", "	About"],
     correct: "	with",
   },
@@ -732,7 +735,7 @@ const quizEnglish1 = [
   {
     question: "	___ 	He gets to the airport, he ‘ll let us know",
     choices: ["	Wherever", "	However", "	Although", " As soon as"],
-    correct: " As soon as"
+    correct: " As soon as",
   },
   {
     question: "	When he ___	the plane, he	let us know",
@@ -810,7 +813,7 @@ const quizEnglish1 = [
       " Too much homework",
       " Too much homework assignments",
     ],
-    correct:  " Too much homework",
+    correct: " Too much homework",
   },
   {
     question:
@@ -857,7 +860,8 @@ const quizEnglish1 = [
     correct: " Take",
   },
   {
-    question: "	If the customer	___not satisfied,please have him call the manager",
+    question:
+      "	If the customer	___not satisfied,please have him call the manager",
     choices: ["	Am", " Is", " Are", " Be"],
     correct: " Is",
   },
@@ -962,7 +966,7 @@ const quizEnglish1 = [
       "	Was delivering",
       "	Had delivered",
     ],
-    correct: Was delivered",
+    correct: "Was delivered",
   },
   {
     question: "	Mr. Hatori was very ___	when he got a promotion",
@@ -992,7 +996,7 @@ const quizEnglish1 = [
   {
     question: "	The new manager,___ was just hired, will start tomorrow",
     choices: ["	She", "	He", "	Which", " Who"],
-    correct: " Who"
+    correct: " Who",
   },
   {
     question: "	Mr. Kumar	____ if he had been delayed",
@@ -1007,7 +1011,7 @@ const quizEnglish1 = [
   {
     question: "	The clerk ___	the computer manuak from the secretary",
     choices: ["	Lent", "	To loan", "	Loaned", "	Borrowed"],
-    correct: "	Borrowed"
+    correct: "	Borrowed",
   },
   {
     question: "	Of all tour ships, this is out ___",
