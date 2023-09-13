@@ -286,7 +286,7 @@ const quizEnglish2 = [
       "C. He does not go out much.",
       "D. He lives at home with his parents.",
     ],
-    correct: "A. He earns an extremely high salary."
+    correct: "A. He earns an extremely high salary.",
   },
   {
     image: reading6,
@@ -320,7 +320,8 @@ const quizEnglish2 = [
       "C. he was afraid of getting too old to start computing.",
       "D. he wanted to earn a lot of money.",
     ],
-    correct: "B. he wanted to work with computers and staying at school did not help him.",
+    correct:
+      "B. he wanted to work with computers and staying at school did not help him.",
   },
   {
     image: reading6,
@@ -360,7 +361,7 @@ const quizEnglish2 = [
   {
     image: reading7,
     question:
-      "Câu 13: According to the passage, owls can find food in the dark using their sense of "I. sight", "II. sound", "III. smell" ",
+      "Câu 13: According to the passage, owls can find food in the dark using their sense of I. sight, II. sound, III. smell ",
     choices: ["a. I", "b. I,II", "c.II+III", "d. both"],
     correct: "b. I,II",
   },
@@ -514,10 +515,8 @@ const quizEnglish2 = [
   {
     image: reading10,
     question:
-      "Câu 12: Based on the information in paragraph 2, we can understand that "I. male mosquitoes and female mosquitoes have different eating habits",
-      "II. male mosquitoes are harmless to humans",
-      "III. female mosquitoes are responsible for transmitting diseases to humans" ",
-    choices: [choices: ["a. I", "b. I,II", "c.II+III", "d. both"],
+      "Câu 12: Based on the information in paragraph 2, we can understand that I. male mosquitoes and female mosquitoes have different eating habits,II. male mosquitoes are harmless to humans,III. female mosquitoes are responsible for transmitting diseases to humans",
+    choices: ["a. I", "b. I,II", "c.II+III", "d. both"],
     correct: "d. both",
   },
   {
@@ -548,7 +547,7 @@ const quizEnglish2 = [
     question:
       "Câu 15: Based on information in paragraph 3, it can be understood that if you get sick with malaria or yellow fever, your chances of survival are",
     choices: ["A. terrible", "B. mediocre", "C. good", "D. excellent"],
-    correct: "D. excellent"
+    correct: "D. excellent",
   },
 ];
 function shuffleArray(quizEnglish2) {
