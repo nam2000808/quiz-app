@@ -1024,502 +1024,502 @@ const quizEnglish1 = [
     correct: " To conduct",
   },
   {
-    question: "	All travel arrangements must be completed	December 5",
+    question: "	All travel arrangements must be completed	___ December 5",
     choices: ["	With", "	In", "	For", " By"],
-    correct: "",
+    correct: " By",
   },
   {
-    question: "	The bookcase is	the door",
+    question: "	The bookcase is___	the door",
     choices: [" Beside", "	Among", "	Between", "	Across"],
-    correct: "",
+    correct: " Beside",
   },
   {
-    question: "	Ms. Mosley is	member of our advertising team",
+    question: "	Ms. Mosley is___	member of our advertising team",
     choices: [
       "	Creative",
       "	Most creative",
       "	More creative",
       "	The most creative",
     ],
-    correct: "",
+    correct: "	The most creative",
   },
   {
-    question: "	Meeting are scheduled	in the first floor auditorium",
+    question: "	Meeting are scheduled	___in the first floor auditorium",
     choices: ["	Always", "	Sometimes", "	Rarely", "	Every month"],
-    correct: "",
+    correct: "	Every month",
   },
   {
-    question: "	 	 5:00, the subway becomes very crowded",
+    question: "	__ 5:00, the subway becomes very crowded",
     choices: ["	When", " After", " Since", " Until"],
-    correct: "",
+    correct: " After",
   },
   {
-    question: "	The airport was	Mr. Debionne had expected",
+    question: "	The airport was__	Mr. Debionne had expected",
     choices: ["	The busiest", " Busier than", " Busy as", " As busy"],
-    correct: "",
+    correct: " Busier than",
   },
   {
     question:
-      "	The personnel director screend the job applicants	arranging interviews",
+      "	The personnel director screend the job applicants	___ arranging interviews",
     choices: ["	Because", "	Until", "	Since", " Before"],
-    correct: "",
+    correct: " Before",
   },
   {
-    question: "	The board of directors will meet	October 10",
+    question: "	The board of directors will meet __	October 10",
     choices: ["	For", "	To", " On", " In"],
-    correct: "",
+    correct: " On",
   },
   {
-    question: "	Ms. Nyen was giving her speech when the microphone",
+    question: "	Ms. Nyen was giving her speech when the microphone ___",
     choices: ["	Is failing", "	Fails", "	Had failed", " Failed"],
-    correct: "",
+    correct: " Failed",
   },
   {
-    question: "	The status report	the financial projections were both late",
+    question: "	The status report	___ the financial projections were both late",
     choices: ["	Or", " And", " But", " Nor"],
-    correct: "",
+    correct: " And",
   },
   {
-    question: "	A firm will not	if its employees are unhappy",
+    question: "	A firm will not __	if its employees are unhappy",
     choices: [" Prosper", "	Prosperous", "	Prosperity", "	Prospering"],
-    correct: "",
+    correct: " Prosper",
   },
   {
-    question: "	The intern	a fax machine before",
+    question: "	The intern ___ a fax machine before",
     choices: [
       "	Had used never",
       " Had never used",
       " Never had used",
       " Used had never",
     ],
-    correct: "",
+    correct: " Had never used",
   },
   {
     question:
-      "	If there	some restaurants near the hotel, the tourist would not have to take taxis.",
+      "	If there __	some restaurants near the hotel, the tourist would not have to take taxis.",
     choices: ["	Were", "	Was", "	Will be", "	Would be"],
-    correct: "",
+    correct: "	Were",
   },
   {
-    question: "	Mid America Airlines’ flight	Phonenix arrives at Gate 9",
+    question: "	Mid America Airlines’ flight __	Phonenix arrives at Gate 9",
     choices: [" From", "	In", "	By", "	On"],
-    correct: "",
+    correct: " From",
   },
   {
-    question: "	In the mornings the kitchen staff turns on the ovens and	coffee",
+    question: "	In the mornings the kitchen staff turns on the ovens and __ coffee",
     choices: ["	Brewing", "	Brew", " Brews", " Brewed"],
-    correct: "",
+    correct: " Brews",
   },
   {
-    question: "	The	speech made the audience restless",
+    question: "	The	__ speech made the audience restless",
     choices: [" Boring", "	Bored", "	Bores", "	Bore"],
-    correct: "",
+    correct: " Boring",
   },
   {
-    question: "	This year the annual meeting takes place	Toronto",
+    question: "	This year the annual meeting takes place __ Toronto",
     choices: ["	On", "	For", "	By", " In"],
-    correct: "",
+    correct: " In"
   },
   {
-    question: "	 		we were late,we could not enter the conference hall",
+    question: "	___ we were late,we could not enter the conference hall",
     choices: ["	Although", " Because", " Therefore", " However"],
-    correct: "",
+    correct: " Because",
   },
   {
-    question: "	If I	you, I would send the contract by courier",
+    question: "	If I ___ you, I would send the contract by courier",
     choices: ["	Am", "	Is", "	Was", " Were"],
-    correct: "",
+    correct: " Were",
   },
   {
-    question: "	Participants	fly to the convention can get a group rate",
+    question: "	Participants ___ fly to the convention can get a group rate",
     choices: ["	They", " Who", " Which", " Whom"],
-    correct: "",
+    correct: " Who",
   },
   {
-    question: "	Pens and stationery	kept in the top drawer",
+    question: "	Pens and stationery	___ kept in the top drawer",
     choices: [" Are", "	Is", "	Was", "	Am"],
-    correct: "",
+    correct: " Are",
   },
   {
-    question: "	The chief engineer is knowledgeable and",
+    question: "	The chief engineer is knowledgeable and __",
     choices: [" Industrious", "	Industry", "	Industrial", "	Industries"],
-    correct: "",
+    correct: " Industrious",
   },
   {
-    question: "	Ms. Neil	the general manager of the hotel since 1994",
+    question: "	Ms. Neil	___the general manager of the hotel since 1994",
     choices: ["	Has", "	Has been", "	Had been", "	Had"],
-    correct: "",
+    correct: "	Has been",
   },
   {
-    question: "	The Message is	Mr. Moriwarki’s answering machine",
+    question: "	The Message is ___	Mr. Moriwarki’s answering machine",
     choices: ["	In", "	Of", " On", " To"],
-    correct: "",
+    correct: " On",
   },
   {
     question: "	Mr. Ross got the graphics department	the charts",
     choices: [" To prepare", "	Preparing", "	Prepare", "	Prepared"],
-    correct: "",
+    correct: " To prepare",
   },
   {
     question:
-      "	He	the whole morning looking for the report, but still couldn’t find it",
+      "	He __	the whole morning looking for the report, but still couldn’t find it",
     choices: ["	Brought", "	Passed", "	Had", " Spent"],
-    correct: "",
+    correct: " Spent",
   },
   {
-    question: "	 	That occasion you should lock the cab door",
+    question: "	  ___ That occasion you should lock the cab door",
     choices: ["	In", "	At", "	By", " On"],
-    correct: "",
+    correct: " On",
   },
   {
-    question: "	He said he’d dropped the key	a puddle",
+    question: "	He said he’d dropped the key	___ a puddle",
     choices: ["	At", " In", " During", " For"],
-    correct: "",
+    correct: " In",
   },
   {
-    question: "	He’d just arrived home to find his wife	tears",
+    question: "	He’d just arrived home to find his wife ___	tears",
     choices: [" In", "	At", "	Through", "	By"],
-    correct: "",
+    correct: " In",
   },
   {
-    question: "	This advertisement was	last week’s paper too",
+    question: "	This advertisement was __	last week’s paper too",
     choices: ["	On", " In", " Over", " Above"],
-    correct: "",
+    correct: " In",
   },
   {
-    question: "	The man banged the glass down on the table and stared	me",
+    question: "	The man banged the glass down on the table and stared	__ me",
     choices: ["	Through", "	In", "	Over", " At"],
-    correct: "",
+    correct: " At"
   },
   {
     question:
-      "	The swimmer lay	his back, closed his eyes, and relaxed in the water",
+      "	The swimmer lay __	his back, closed his eyes, and relaxed in the water",
     choices: [" On", "	In", "	Through", "	Over"],
-    correct: "",
+    correct: " On",
   },
   {
     question:
-      "	When the Bishop stepped	the plane there were a lot of journalists and cameramen",
+      "	When the Bishop stepped	__ the plane there were a lot of journalists and cameramen",
     choices: ["	Out", "	Outside", "	Down", " Off"],
-    correct: "",
+    correct: " Off",
   },
   {
-    question: "	She said she didn’t want to go	this excursion",
+    question: "	She said she didn’t want to go	__ this excursion",
     choices: ["	At", "	By", "	With", " On"],
-    correct: "",
+    correct: " On",
   },
   {
-    question: "	006 woke up with his hands tied	his back",
+    question: "	006 woke up with his hands tied	__ his back",
     choices: ["	On", "	Through", "	Over", " Behind"],
-    correct: "",
+    correct: " Behind"
   },
   {
-    question: "	The wall was made	thick glass",
+    question: "	The wall was made	__thick glass",
     choices: ["	By", " Of", " Off", " In"],
-    correct: "",
+    correct: " Of",
   },
   {
-    question: "	“they all work hard.”“Which one works	of all?”",
+    question: "	“they all work hard.”“Which one works __	of all?”",
     choices: ["	Harder", "	The hardest", "	Most hard", "	The most hardly"],
-    correct: "",
+    correct: "	The hardest",
   },
   {
-    question: "	Listen to what I am saying,	?",
+    question: "	Listen to what I am saying,__	?",
     choices: ["	Don’t you", " Will you", " Do you", " Mind you"],
-    correct: "",
+    correct: " Will you",
   },
   {
-    question: "	If I could speak Spanish, I	next year studying in mexico.",
+    question: "	If I could speak Spanish, I	__ next year studying in mexico.",
     choices: [" Would spend", "	Would have spent", "	Had spent", "	Will spent"],
-    correct: "",
+    correct: " Would spend",
   },
   {
-    question: "	,he left for England to further his studies",
+    question: "	__,he left for England to further his studies",
     choices: [
       "	Twenty years old",
       "	He was twenty years old",
       "	Having been twenty years old",
       " When he was twenty years old",
     ],
-    correct: "",
+    correct: " When he was twenty years old",
   },
   {
-    question: "	Nobody is ready to go,	?",
+    question: "	Nobody is ready to go,___?",
     choices: ["	Are they", "	Isn’t he", "	Is not he", "	Aren’t they"],
-    correct: "",
+    correct: "	Are they",
   },
   {
-    question: "	The package containing books and records	last week",
+    question: "	The package containing books and records __	last week",
     choices: [
       "	Is delivered",
       "	Are delivered",
       " Was delivered",
       " Were delivered",
     ],
-    correct: "",
+    correct: " Was delivered",
   },
   {
-    question: "	He went to prison	a car",
+    question: "	He went to prison ___	a car",
     choices: [
       "	By stealing",
       "	That he stole",
       " For stealing",
       " To have stolen",
     ],
-    correct: "",
+    correct: " For stealing",
   },
   {
-    question: "	be in class?",
+    question: "	__ be in class?",
     choices: [
       "	Haven’t you",
       "	Oughtn’t you",
       " Shouldn’t you",
       " Haven’t you got",
     ],
-    correct: "",
+    correct: " Shouldn’t you",
   },
   {
     question: " Have a nice day!”“Thank you! _____ 	",
     choices: ["	And yours", "	The same to you", "	The same", "	A much to you"],
-    correct: "",
+    correct: "	The same to you",
   },
   {
-    question: "	You cannot make",
+    question: "	You cannot make___",
     choices: [
       " People learn",
       "	People to learn",
       "	People learning",
       "	That people learn",
     ],
-    correct: "",
+    correct: " People learn",
   },
   {
-    question: "	Mrs. Chou,	husband is a diplomat, gives cooking lessons.",
+    question: "	Mrs. Chou,	____husband is a diplomat, gives cooking lessons.",
     choices: ["	Whom", "	Who", " Whose", " Who’s"],
-    correct: "",
+    correct: " Whose",
   },
   {
-    question: "	Seven other cars have withdrawn due to bad weather conditions.",
+    question: "	Seven other cars have withdrawn <u>due</u> to bad weather conditions.",
     choices: [" Owing to", "	At the time of", "	Right for", "	In spite of"],
-    correct: "",
+    correct: " Owing to",
   },
   {
-    question: "	He’s coming here to take part in a discussion program",
+    question: "	He’s coming here to <u>take part in</u> a discussion program",
     choices: [" Participate", "	Take portion", "	Organize", "	Watch"],
-    correct: "",
+    correct: " Participate",
   },
   {
-    question: "	He said that he was terrified of tigers",
+    question: "	He said that he was <u>terrified</u> of tigers",
     choices: ["	Found", "	Shy", "	Very afraid", "	Tired"],
-    correct: "",
+    correct: "	Very afraid",
   },
   {
-    question: "	Some of the regulations seemed too severe",
+    question: "	Some of the <u>regulations</u> seemed too severe",
     choices: ["	Judgements", " Rules", " Punishments", " Attitudes"],
-    correct: "",
+    correct: " Rules",
   },
   {
-    question: "	Tom cannot afford anew bicycle this year.",
+    question: "	Tom cannot <u>afford</u> a new bicycle this year.",
     choices: [" Buy", "	Ride", "	Sell", "	Share"],
-    correct: "",
+    correct: " Buy",
   },
   {
-    question: "	I wonder if you could direct me to Dr. Carmichael’s office?",
+    question: "	I wonder if you could <u>direct</u> me to Dr. Carmichael’s office?",
     choices: ["	Take", "	Bring", "	Tell………how to get", "	introduce"],
-    correct: "",
+    correct:  "	Tell………how to get"
   },
   {
-    question: "	I knew my father would discipline me for my actions.",
+    question: "	I knew my father would <u>discipline</u> me for my actions.",
     choices: ["	Reward", "	Congratulate", "	Praise", " Punish"],
-    correct: "",
+    correct: " Punish",
   },
   {
     question:
-      "	Look! The notice says quite clearly: “Smoking is	forbidden in the theatre”",
+      "	Look! The notice says quite clearly: “Smoking is __	forbidden in the theatre”",
     choices: ["	Strictly", "	Seriously", "	Exactly", "	Strongly"],
-    correct: "",
+    correct: "	Strictly",
   },
   {
-    question: "	She has a strange hobby. She	poisonous snakes",
+    question: "	She has a strange hobby. She____	poisonous snakes",
     choices: ["	Brings up", "	Grows", "	Cultivates", " Breeds"],
-    correct: "",
+    correct: " Breeds",
   },
   {
-    question: "	He emphasizes that ability at Maths is essential.",
+    question: "	He emphasizes that ability at Maths is <u>essential.</u>",
     choices: ["	Excellent", "	Optional", "	Remarkable", " Necessary"],
-    correct: "",
+    correct: " Necessary"
   },
   {
-    question: "	I don’t know how she	a living as an artist",
+    question: "	I don’t know how she ___	a living as an artist",
     choices: ["	Does", " Earns", " Has", " Gets"],
-    correct: "",
+    correct: " Earns",
   },
   {
-    question: "	Her husband is very competent; he will repair the roof himself",
+    question: "	Her husband is very <u>competent</u>; he will repair the roof himself",
     choices: [" Capable", "	Industrious", "	Thrifty", "	Careful"],
-    correct: "",
+    correct: " Capable",
   },
   {
-    question: "	Today’s football match has been	because of bad weather",
+    question: "	Today’s football match has been____	because of bad weather",
     choices: [" Postponed", "	Started", "	Decided", "	Put away"],
-    correct: "",
+    correct: " Postponed",
   },
   {
     question: "	The show was dull, It was____________",
     choices: ["	Disinterested", "	Uninterested", "	Interesting", "	Uninteresting"],
-    correct: "",
+    correct: "	Uninteresting"
   },
   {
-    question: "	They	her on her new baby",
+    question: "	They	___ her on her new baby",
     choices: ["	Mentioned", "	Congratulated", "	Praised", "	Commented"],
-    correct: "",
+    correct: "	Congratulated",
   },
   {
     question:
-      "	Mona is the best student in the class. She is	to all other sudents",
+      "	Mona is the best student in the class. She is ___	to all other sudents",
     choices: ["	Preferable", " Superior", " Comparable", " Senior"],
-    correct: "",
+    correct: " Superior",
   },
   {
-    question: "	 	  More help, I could call my neighbor",
+    question: "	 	___  More help, I could call my neighbor",
     choices: ["	Needed", "	Should I need", "	I have needed", "	I should need"],
-    correct: "",
+    correct: "	Should I need", 
   },
   {
-    question: "	Unless you	all of my questions, I can’t do anything to help you",
+    question: "	Unless you __	all of my questions, I can’t do anything to help you",
     choices: ["	Answered", " Answer", " Would answer", "Are answering"],
-    correct: "",
+    correct: " Answer",
   },
   {
-    question: "Ask the watchman",
+    question: "Ask the watchman ___",
     choices: [
       "	Whose is this car",
       "	This is whose car",
       " Whose car that is",
       " Whose car is that",
     ],
-    correct: "",
+    correct: " Whose car that is",
   },
   {
-    question: "	To prepare for the TOEFL,	thirty every day for several moths",
+    question: "	To prepare for the TOEFL,___	thirty every day for several moths",
     choices: [" Study", "	Studying", "	To study", "	To have study"],
-    correct: "",
+    correct: " Study",
   },
   {
-    question: "	Out neighbours	their house painted once a year.",
+    question: "	Out neighbours ___	their house painted once a year.",
     choices: ["	Make", " Have", " Do", " Fix"],
-    correct: "",
+    correct: " Have",
   },
   {
-    question: "	Promise me	lies again",
+    question: "	Promise me	___ lies again",
     choices: [
       " That you’ll never tell",
       "	Never tell",
       "	That you never tell",
       "	Never telling",
     ],
-    correct: "",
+    correct: " That you’ll never tell",
   },
   {
-    question: "	I must get	before the boss sees it,",
+    question: "	I must get	___ before the boss sees it,",
     choices: [
       "	My office tidying up",
       "	Tidied up my office",
       "	Tidying up my office",
       " My office tidied up",
     ],
-    correct: "",
+    correct: " My office tidied up",
   },
   {
-    question: "	“why don’t you emigrate to Australia?” “	“",
+    question: "	“why don’t you emigrate to Australia?” “	___ “",
     choices: [
       " If only I could!",
       "	When I only could!",
       "	How I wish it!",
       "	I hope so!",
     ],
-    correct: "",
+    correct:  " If only I could!",
   },
   {
-    question: "	Jan	better take care. The roads are very busy",
+    question: "	Jan___	better take care. The roads are very busy",
     choices: ["	Was", "	Would", "	Should", " Had"],
-    correct: "",
+    correct: " Had",
   },
   {
-    question: "	 	would you solve the problem if this method failed?",
+    question: "	 ___	would you solve the problem if this method failed?",
     choices: ["	What else", "	Who else", "	Whose else", " How else"],
-    correct: "",
+    correct: " How else",
   },
   {
-    question: "	It was difficult.	,he managed to do it.",
+    question: "	It was difficult.	,___he managed to do it.",
     choices: [" However", "	But", "	Therefore", "	Moreover"],
-    correct: "",
+    correct: " However",
   },
   {
-    question: "	raise 860 million pounds, they increased tobacco duty",
+    question: "	__ raise 860 million pounds, they increased tobacco duty",
     choices: ["	As to", "	In order as", "	So to", "	In order to"],
-    correct: "",
+    correct: "	In order to",
   },
   {
-    question: "	It’s not worth	out now. It is much too late.",
+    question: "	It’s not worth___out now. It is much too late.",
     choices: ["	To go", "	It go", " Going", " It going"],
-    correct: "",
+    correct: " Going",
   },
   {
-    question: "	I’m afraid you will	wait a long time",
+    question: "	I’m afraid you will___	wait a long time",
     choices: [" Have to", "	Must", "	Be to", "	Have got to"],
-    correct: "",
+    correct: " Have to",
   },
   {
-    question: "	Do you mind	the cooking?",
+    question: "	Do you mind	___ the cooking?",
     choices: [" Doing", "	To do", "	For doing", "	To doing"],
-    correct: "",
+    correct: " Doing",
   },
   {
-    question: "	I shouted at him	dropping the ball",
+    question: "	I shouted at him ___	dropping the ball",
     choices: ["	With", "	To", " For", " At"],
-    correct: "",
+    correct: " For",
   },
   {
-    question: "	She told	afraid",
+    question: "	She told ___	afraid",
     choices: ["	That she was", "	Us that she was", "	Us being", "	For being"],
-    correct: "",
+    correct: "	Us that she was",
   },
   {
-    question: "	Drinking	one’s health",
+    question: "	Drinking __	one’s health",
     choices: [
       "	Can affect dangerously",
       " Can seriously affect",
       " Seriously can effect",
       " Seriously can endanger",
     ],
-    correct: "",
+    correct: " Can seriously affect",
   },
   {
     question:
-      "	Teenagers want to show they’re different,	they react against their families",
+      "	Teenagers want to show they’re different,	____they react against their families",
     choices: ["	Because", "	But", "	So", "	Then"],
-    correct: "",
+    correct: "	So",
   },
   {
-    question: "	There are other drugs	alcohol and nicotine.",
+    question: "	There are other drugs	___ alcohol and nicotine.",
     choices: ["	As well", "	Too", "	Besides", "	By"],
-    correct: "",
+    correct: "	Besides",
   },
   {
-    question: "	You can’t smoke in here. It’s	the law",
+    question: "	You can’t smoke in here. It’s___	the law",
     choices: ["	According", "	Anti", "	Against", "	Opposite"],
-    correct: "",
+    correct: "	Against",
   },
   {
-    question: "	Joe’s pants were torn		up the tree",
+    question: "	Joe’s pants were torn	___up the tree",
     choices: [
       "	While climbing",
       "	In climbing",
       "	While he was climbing",
       "	Upon climbing",
     ],
-    correct: "",
+    correct: "	While he was climbing",
   },
   {
     question: "	We haven’t seen you____________",
@@ -1529,131 +1529,131 @@ const quizEnglish1 = [
       "	last four years",
       "	four years ago",
     ],
-    correct: "",
+    correct: "	in the past four years",
   },
   {
-    question: "	I ‘d like	to think about it.",
+    question: "	I ‘d like ___	to think about it.",
     choices: [
       "	Little time",
       " A little time",
       " Sometime little",
       " Any little time",
     ],
-    correct: "",
+    correct: " A little time",
   },
   {
-    question: "	A lot of guests were expected, but	came",
+    question: "	A lot of guests were expected, but___came",
     choices: [" Few", "	A few", "	Some few", "	Only some very few"],
-    correct: "",
+    correct: " Few",
   },
   {
-    question: "	I don’t know what’s the matter with me. I’m not	today",
+    question: "	I don’t know what’s the matter with me. I’m not ___	today",
     choices: ["	Me", "	Mine", "	Myself", "	I"],
-    correct: "",
+    correct: "	Myself",
   },
   {
-    question: "	Tom’all right	but his wife is badly hurt",
+    question: "	Tom’all right__	but his wife is badly hurt",
     choices: [" Himself", "	With his self", "	By him", "	Oneself"],
-    correct: "",
+    correct: " Himself",
   },
   {
-    question: "	The club	last year",
+    question: "	The club___	last year",
     choices: [
       " Was started",
       "	Had been started",
       "	Was being started",
       "	Has been started",
     ],
-    correct: "",
+    correct: " Was started",
   },
   {
-    question: "	You can stay here	you don’t make a loud noise",
+    question: "	You can stay here	______ you don’t make a loud noise",
     choices: ["	Otherwise", "	Until", "	Unless", "	So long as"],
-    correct: "",
+    correct: "	So long as",
   },
   {
-    question: "	Some of the boys	didn’t come",
+    question: "	Some of the boys__	didn’t come",
     choices: [
       "	Whom I invited them",
       "	I invited them",
       " I invited",
       " When I invited",
     ],
-    correct: "",
+    correct: " I invited",
   },
   {
-    question: "	The sky was overcast; it",
+    question: "	The sky was overcast; it___",
     choices: [
       " Looked like rain",
       "	Looked like raining",
       "	Looked for rain",
       "	Looked for raining",
     ],
-    correct: "",
+    correct: " Looked like rain",
   },
   {
-    question: "	I will return your notes as soon as	copying them",
+    question: "	I will return your notes as soon as__-	copying them",
     choices: ["	I will finish", " I finish", " I finished", " I be finished"],
-    correct: "",
+    correct: " I finish",
   },
   {
     question:
       "	The missing war correspondent was last seen yesterday morning____________ his Lan Rover near the frontline",
     choices: ["	Driving", "	As driving", "	To drive", "	Was driving"],
-    correct: "",
+    correct: "	Driving", 
   },
   {
-    question: "	The vehicle was found yesterday evening but	no sign of him",
+    question: "	The vehicle was found yesterday evening but	___ no sign of him",
     choices: ["	There had", "	It was", "	It had", "	There was"],
-    correct: "",
+    correct: "	There was"
   },
   {
-    question: "	The hostesses had finished	 	 the trays.",
+    question: "	The hostesses had finished___the trays.",
     choices: [" Collecting", "	To collect", "	Collected", "	At collecting"],
-    correct: "",
+    correct: " Collecting",
   },
   {
-    question: "	“Did you see anyone interesting at the party?” “Yes,	were there”",
+    question: "	“Did you see anyone interesting at the party?” “Yes,	____ were there”",
     choices: [
       "	Some of John’s friends",
       "	Some friend of John’s",
       "	Some of John’s friend",
       "	Some of John friends",
     ],
-    correct: "",
+    correct: "	Some of John’s friends",
   },
   {
-    question: "	“I don’t think I’ll ever understand algebra!” “Just keep on	“",
+    question: "	“I don’t think I’ll ever understand algebra!” “Just keep on	___“",
     choices: ["	Tries", "	Try", "	To try", " Trying"],
-    correct: "",
+    correct: " Trying",
   },
   {
     question:
-      "	“The temperature has relly risen today” “Yes, it is	I can’t work”",
+      "	“The temperature has relly risen today” “Yes, it is___	I can’t work”",
     choices: ["	Too hot that", " So hot that", " Very hot that", " Hot that"],
-    correct: "",
+    correct: " So hot that",
   },
   {
     question:
-      "	On television can be very damaging to children who watch the programs.",
+      "	___ On television can be very damaging to children who watch the programs.",
     choices: [
       "	The too great sex and violence",
       "	Sex and violence too much",
       "	The great numbers of sex and violence",
       " Too much sex and violence",
     ],
-    correct: "",
+    correct: " Too much sex and violence",
   },
   {
     question:
-      "	Tom and Bill were badly injured in the last match, so	can play today",
+      "	Tom and Bill were badly injured in the last match, so	___can play today",
     choices: [
       "	Both of them",
       "	Either one of them",
       " Neither of them",
       " Not any of them",
     ],
-    correct: "",
+    correct: " Neither of them",
   },
   {
     question: " ____________	eight musicians in the band",
@@ -1663,43 +1663,43 @@ const quizEnglish1 = [
       "	There is",
       "	There will be",
     ],
-    correct: "",
+    correct: "	There will be",
   },
   {
-    question: "	He doesn’t know	about sports",
+    question: "	He doesn’t know	___ about sports",
     choices: ["	Nothing", " Anything", " Things", " Something"],
-    correct: "",
+    correct: " Anything",
   },
   {
-    question: "	Alex could not start his car because	 	",
+    question: "	Alex could not start his car because____ 	",
     choices: [
       "	Of not knowing where to find his key",
       "	Where his key wad he didn’t know",
       " He didn’t know where his key was",
       " To find his key he did not know where",
     ],
-    correct: "",
+    correct: " He didn’t know where his key was",
   },
   {
     question:
       "	If you need an extra bed for your guest, you can use one____________",
     choices: [" Of ours", "	Us", "	Ours", "	Of us"],
-    correct: "",
+    correct: " Of ours",
   },
   {
-    question: "	This toaster is	as the one you bought at Mary’s",
+    question: "	This toaster is____	as the one you bought at Mary’s",
     choices: [" Just as good", "	Equally as good", "	Good as", "	Equal as good"],
-    correct: "",
+    correct: " Just as good",
   },
   {
-    question: "	 	, Ruggiero Ricci was considered a great violinist",
+    question: "	 	_______, Ruggiero Ricci was considered a great violinist",
     choices: [
       " At the age of six",
       "	At six of years old",
       "	When age six",
       "	When he was six years age",
     ],
-    correct: "",
+    correct: " At the age of six",
   },
   {
     question: "	Where’sPolly? “She____________",
@@ -1709,13 +1709,13 @@ const quizEnglish1 = [
       "	Studies in her room",
       "	Has in her room studies",
     ],
-    correct: "",
+    correct: "	Is in her room studying",
   },
   {
     question:
       "	Fatemah looked down to discover a snake at her feet. When she saw it, she____________",
     choices: ["	Was screaming", "	Had screamed", " Screamed", "	Screams"],
-    correct: "",
+    correct: " Screamed",
   },
   {
     question: "	The vegetables didn’t taste very good. They_____for too long",
@@ -1725,69 +1725,69 @@ const quizEnglish1 = [
       "	Have been cooking",
       " Had been cooked",
     ],
-    correct: "",
+    correct: " Had been cooked",
   },
   {
     question:
-      "	Somebody is cleaning the room at the moment. The room	at the moment",
+      "	Somebody is cleaning the room at the moment. The room	_____at the moment",
     choices: [
       "	Is being cleaning",
       "	Is cleaning",
       "	Is to be cleaned",
       " Is being cleaned",
     ],
-    correct: "",
+    correct: " Is being cleaned",
   },
   {
-    question: "	She admitted	the money",
+    question: "	She admitted	____ the money",
     choices: ["	To steal", "	To have stolen", " Having stolen", " To be stolen"],
-    correct: "",
+    correct: " Having stolen",
   },
   {
-    question: "	unprepared for the exam, I felt sure I would get a low score",
+    question: "	________unprepared for the exam, I felt sure I would get a low score",
     choices: [" Being", "	Having", "	Because", "	Upon"],
-    correct: "",
+    correct: " Being",
   },
   {
     question:
       "	The Council are planning to build four 20-storey_______of flats in the are",
 
     choices: ["	Masses", " Blocks", " Chunks", " Structures"],
-    correct: "",
+    correct: " Blocks",
   },
   {
     question:
-      "	They promised to give her a modern flat which is	for an elderly person living alone.",
+      "	They promised to give her a modern flat which is_______for an elderly person living alone.",
     choices: ["	Top", "	Utmost", "	Foremost", " Ideal"],
-    correct: "",
+    correct: " Ideal"
   },
   {
-    question: "	The inpector said that there was not much	 		of an explosion",
+    question: "	The inpector said that there was not much____of an explosion",
     choices: ["	Display", "	Signal", "	Evidence", "	Mark"],
-    correct: "",
+    correct: "	Evidence",
   },
   {
     question:
-      "	In the English Channel, the “ Mary Celeste”	with another ship, which sank.",
+      "	In the English Channel, the “ Mary Celeste”	____with another ship, which sank.",
     choices: ["	Bumped", "	Struck", " Collided", " Stuck"],
-    correct: "",
+    correct: " Collided",
   },
   {
     question:
-      "	When the “Mary Celeste,” did not	his signal, Captain moorhouse decided to investigate.",
+      "	When the “Mary Celeste,” did not____	his signal, Captain Moorhouse decided to investigate.",
     choices: ["	Answer", "	Respond", "	Retrace", "	Retain"],
-    correct: "",
+    correct: "	Answer", 
   },
   {
-    question: "	Drivers have now been forbidden to	up hitchhikers",
+    question: "	Drivers have now been forbidden to ___	up hitchhikers",
     choices: [" Pick", "	Put", "	Pull", "	Get"],
-    correct: "",
+    correct: " Pick",
   },
   {
     question:
-      "	Dr. Carmichael had been looking	to meeting his new research assistant",
+      "	Dr. Carmichael had been looking	_____ to meeting his new research assistant",
     choices: ["	Through	", " forward	", " across	", "on"],
-    correct: "",
+    correct: " forward	",
   },
   {
     question:
@@ -1854,17 +1854,17 @@ const quizEnglish1 = [
   {
     question: "A milkman is a man who ……………… milk.",
     choices: ["A. gives", "B. delivers", "C. buys", "D. sells"],
-    correct: "B. delivers",
+    correct: "D. sells",
     explanation: "",
   },
   {
     question: "A milkman is a man who ……………… milk.",
     choices: ["A. gives", "B. delivers", "C. buys", "D. sells"],
-    correct: "B. delivers",
+    correct: "D. sells",
     explanation: "",
   },
   {
-    question: "She is too young …............. it",
+    question: "1.She is too young …............. it",
     choices: [
       "A.to understand",
       "B.understanding",
@@ -1876,13 +1876,13 @@ const quizEnglish1 = [
   },
   {
     question:
-      "Her parents were very ……………… because she was out so late that night.",
+      "2.Her parents were very ……………… because she was out so late that night.",
     choices: ["A.responsible", "B.sorry", "C.worried", "D.overcome"],
     correct: "C.worried",
     explanation: "",
   },
   {
-    question: "I have seen him ….............",
+    question: "3.I have seen him ….............",
     choices: [
       "A.ten days",
       "B.for ten days",
@@ -1893,51 +1893,51 @@ const quizEnglish1 = [
     explanation: "",
   },
   {
-    question: "It may be raining, but I’m thoroughly enjoying_____.",
+    question: "4.It may be raining, but I’m thoroughly enjoying_____.",
     choices: ["A. himself", "B. yourself", "C. by myself", "D. myself"],
     correct: "D. myself",
     explanation: "",
   },
   {
-    question: "They will now have a …............. rest",
+    question: "5.They will now have a …............. rest",
     choices: ["A.small", "B.little", "C.light", "D.short"],
-    correct: "C.light",
+    correct: "D.short",
     explanation: "",
   },
   {
     question:
-      "The librarian went to look in the cupboard …............. rare books were kept",
+      "6.The librarian went to look in the cupboard …............. rare books were kept",
     choices: ["A.which", "B.where", "C.that", "D.there"],
     correct: "B.where",
     explanation: "",
   },
   {
-    question: "Drive fast ________ we will miss the train.",
+    question: "7.Drive fast ________ we will miss the train.",
     choices: ["A. because", "B. so", "C. although", "D. or"],
-    correct: "B. so",
+    correct: "D. or",
     explanation: "",
   },
   {
-    question: "Show me …............. my room, please?",
+    question: "8.Show me …............. my room, please?",
     choices: ["A.to", "B.of", "C.where", "D.on"],
-    correct: "C.where",
+    correct: "A.to",
     explanation: "",
   },
   {
-    question: "I’d like ……………… two seats in the circle, please",
+    question: "9.I’d like ……………… two seats in the circle, please",
     choices: ["A.booking", "B.to book", "C.booked", "D.book"],
     correct: "B.to book",
     explanation: "",
   },
   {
-    question: "He has just arrived …............. London.",
+    question: "10.He has just arrived …............. London.",
     choices: ["A.at", "B.in", "C.for", "D.to"],
-    correct: "A.at",
+    correct: "B.in",
     explanation: "",
   },
   {
     question:
-      "Although their carpets ___ primarily for mosques, sometimes, they ___ designs for restaurants and hotels as well.",
+      "1.Although their carpets ___ primarily for mosques, sometimes, they ___ designs for restaurants and hotels as well.",
     choices: [
       "A. are designed – produce",
       "B.have been designed - were produced",
@@ -1949,7 +1949,7 @@ const quizEnglish1 = [
   },
   {
     question:
-      "If the tree hadn't been so high, he ___ up to take his kite down.",
+      "2.If the tree hadn't been so high, he ___ up to take his kite down.",
     choices: [
       "A.can climb",
       "B.could climb",
@@ -1961,7 +1961,7 @@ const quizEnglish1 = [
   },
   {
     question:
-      "Since, at the very beginning, he showed some inclination towards laziness, he ___ of all his duties. Afterwards he worked very well.",
+      "3.Since, at the very beginning, he showed some inclination towards laziness, he ___ of all his duties. Afterwards he worked very well.",
     choices: [
       "A.had to be reminded",
       "B.had to remind",
@@ -1973,7 +1973,7 @@ const quizEnglish1 = [
   },
   {
     question:
-      "When Tiger Woods ___ his sixth golfing title in a row, he equalled the record of Ben Hogen, which ___ 52 years ago.",
+      "4.When Tiger Woods ___ his sixth golfing title in a row, he equalled the record of Ben Hogen, which ___ 52 years ago.",
     choices: [
       "A.has won - had set",
       "B.won - was set",
@@ -1985,18 +1985,18 @@ const quizEnglish1 = [
   },
   {
     question:
-      "I'm not sure who should be punished for the incident. Certainly not Alice, since she ___ of possible dangers.",
+      "5.I'm not sure who should be punished for the incident. Certainly not Alice, since she ___ of possible dangers.",
     choices: [
       "A.wasn't warned",
       "B.hasn't warned",
       "C.hadn't warned",
       "D.wouldn't be warned",
     ],
-    correct: "C.hadn't warned",
+    correct: "A.wasn't warned",
     explanation: "",
   },
   {
-    question: "If eating disorders ___, they can be fatal.",
+    question: "6.If eating disorders ___, they can be fatal.",
     choices: [
       "A.aren't treating",
       "B.aren't treated",
@@ -2007,7 +2007,7 @@ const quizEnglish1 = [
     explanation: "",
   },
   {
-    question: "Usually I ___ cash for things because I ___ using credit cards.",
+    question: "7.Usually I ___ cash for things because I ___ using credit cards.",
     choices: [
       "A.have paid - didn't like",
       "B.pay - don't like",
@@ -2019,7 +2019,7 @@ const quizEnglish1 = [
   },
   {
     question:
-      "The origin of April Fool's Day, the first day of April, is uncertain, but it ___ to arrival of spring in late March, when nature ___ to 'fool' humanity with changes in weather.",
+      "8.The origin of April Fool's Day, the first day of April, is uncertain, but it ___ to arrival of spring in late March, when nature ___ to 'fool' humanity with changes in weather.",
     choices: [
       "A.has been related - has said",
       "B.may be related - is said",
@@ -2031,19 +2031,19 @@ const quizEnglish1 = [
   },
   {
     question:
-      "This morning, the attendant ___ a baby who ___ in an old blanket on the steps of the country hospital.",
+      "9.This morning, the attendant ___ a baby who ___ in an old blanket on the steps of the country hospital.",
     choices: [
       "A.finds – wrapped",
       "B.was being found - has been wrapped",
       "C.found - was wrapped",
       "D.was found - had been wrapped",
     ],
-    correct: "D.was found - had been wrapped",
+    correct: "C.found - was wrapped",
     explanation: "",
   },
   {
     question:
-      "It's true that life ___ as anything may happen at any time, but some precautions such as insurance policies, ___ against disaster.",
+      "10.It's true that life ___ as anything may happen at any time, but some precautions such as insurance policies, ___ against disaster.",
     choices: [
       "A.mustn't be predicted - have taken",
       "B.shouldn't predict - have been taking",
@@ -2054,20 +2054,20 @@ const quizEnglish1 = [
     explanation: "",
   },
   {
-    question: "He is coming ______ a cold after a night out in the rain.",
+    question: "1.He is coming ______ a cold after a night out in the rain.",
     choices: ["A. down with", "B. up with", "C. away from", "D. across with"],
     correct: "A. down with",
     explanation: "",
   },
   {
-    question: "Although his work is not outstanding it is………….. done.",
+    question: "2.Although his work is not outstanding it is………….. done.",
     choices: ["A. enough", "B. sufficient", "C. well", "D. adequate"],
     correct: "C. well",
     explanation: "",
   },
   {
     question:
-      "We must push the piano to the corner of the hall to ______ our party tonight.",
+      "3.We must push the piano to the corner of the hall to ______ our party tonight.",
     choices: [
       "A. make place for",
       "B. take up room to",
@@ -2078,7 +2078,7 @@ const quizEnglish1 = [
     explanation: "",
   },
   {
-    question: "Thang: 'What do you think about the novel?' Huong: '______'",
+    question: "4.Thang: 'What do you think about the novel?' Huong: '______'",
     choices: [
       "A. Yes, let's.",
       "B. The best I've ever read!",
@@ -2090,129 +2090,129 @@ const quizEnglish1 = [
   },
   {
     question:
-      "The women who…. next door is often willing to help us whenever we are in difficulty.",
+      "5.The women who…. next door is often willing to help us whenever we are in difficulty.",
     choices: ["A. to live", "B. living", "C. lived", "D. lives"],
     correct: "D. lives",
     explanation: "",
   },
   {
     question:
-      "My favourite team ______ 15 games so far this season, and will probably win the championship.",
+      "6.My favourite team ______ 15 games so far this season, and will probably win the championship.",
     choices: ["A. are winning", "B. won", "C. have won", "D. will win"],
     correct: "C. have won",
     explanation: "",
   },
   {
     question:
-      "______ John Kennedy was elected president, he was the youngest American President ever.",
+      "7.______ John Kennedy was elected president, he was the youngest American President ever.",
     choices: ["A. When", "B. While", "C. Before", "D. As long as"],
     correct: "A. When",
     explanation: "",
   },
   {
     question:
-      "'The inflation rate in Greece is five times ______ my country,' he said.",
+      "8.'The inflation rate in Greece is five times ______ my country,' he said.",
     choices: [
       "A. as much as",
       "B. more than",
       "C. as many as that in",
       "D. as high as that in",
     ],
-    correct: "A. as much as",
+    correct: "D. as high as that in",
     explanation: "",
   },
   {
-    question: "I’m not accustomed ___ up so early.",
+    question: 9."I’m not accustomed ___ up so early.",
     choices: ["A. to getting", "B. to get", "C. by getting", "D. get"],
     correct: "A. to getting",
     explanation: "",
   },
   {
     question:
-      "The ………….. charged by the architect for the plans of the new building were unusually high.",
+      "10.The ………….. charged by the architect for the plans of the new building were unusually high.",
     choices: ["A. hire", "B. price", "C. fees", "D. sum"],
     correct: "C. fees",
     explanation: "",
   },
   {
     question:
-      "George has been in the publishing business since he ______ college.",
+      "1.George has been in the publishing business since he ______ college.",
     choices: ["was in", "learned", "had in", "worked"],
     correct: "was in",
   },
   {
-    question: "I don’t know where …............. before he came here.",
+    question: "2.I don’t know where …............. before he came here.",
     choices: ["is he living", "he had lived", "did he live", "has he lived"],
     correct: "he had lived",
   },
   {
-    question: "Mr. and Mrs. Kent are old age ………………",
+    question: "3.Mr. and Mrs. Kent are old age ………………",
     choices: ["workers", "people", "folks", "pensioners"],
     correct: "pensioners",
   },
   {
     question:
-      "My aunt and uncle always quarreled about their tea; she like it strong but he wanted it….............",
+      "4.My aunt and uncle always quarreled about their tea; she like it strong but he wanted it….............",
     choices: ["feeble", "weak", "small", "poor"],
     correct: "weak",
   },
   {
-    question: "How much are the tickets? 'I think they are two dollars ………………'",
+    question: "5.How much are the tickets? 'I think they are two dollars ………………'",
     choices: ["one", "every", "each", "much"],
     correct: "each",
   },
   {
-    question: "It is such a big city that he’s got ….............",
+    question: "6.It is such a big city that he’s got ….............",
     choices: ["late", "loose", "lost", "up"],
     correct: "lost",
   },
   {
-    question: "Will you ……………… me to post this letter tomorrow?",
+    question: "7.Will you ……………… me to post this letter tomorrow?",
     choices: ["remember", "mind", "suggest", "remind"],
     correct: "remind",
   },
   {
-    question: "Show me …............. my room, please?",
+    question: "8.Show me …............. my room, please?",
     choices: ["to", "of", "where", "on"],
     correct: "where",
   },
   {
     question:
-      "…............. he joined the army my brother had never been abroad",
+      "9.…............. he joined the army my brother had never been abroad",
     choices: ["Since", "While", "During", "Until"],
     correct: "Until",
   },
   {
-    question: "006, the secret agent, is on an important ………………",
+    question: "10.006, the secret agent, is on an important ………………",
     choices: ["job", "work", "mission", "tap"],
     correct: "mission",
   },
   {
     question:
-      "Her career was all ___ she cared about, ___ made her so successful.",
+      "1.Her career was all ___ she cared about, ___ made her so successful.",
     choices: ["what – which", "what – that", "that – that", "that – which"],
     correct: "what – that",
   },
   {
     question:
-      "___ I wear tonight depends on ___ you're planning to take me to. Shall I wear something special, or should I dress more casually?",
+      "2.___ I wear tonight depends on ___ you're planning to take me to. Shall I wear something special, or should I dress more casually?",
     choices: ["What – where", "How – when", "If – what", "Which - how"],
     correct: "What – where",
   },
   {
     question:
-      "To achieve the unique coral red of the Ottoman tiles in the 16th century, ___ craftsmen a mixture of iron-oxide and quartz.",
+      "3.To achieve the unique coral red of the Ottoman tiles in the 16th century, ___ craftsmen a mixture of iron-oxide and quartz.",
     choices: ["have fired", "were fired", "used to fire", "could be fired"],
     correct: "used to fire",
   },
   {
     question:
-      "The moment that the sun reappears just ___ a total solar eclipse is known as a 'diamond ring'.",
+      "4.The moment that the sun reappears just ___ a total solar eclipse is known as a 'diamond ring'.",
     choices: ["as soon as", "when", "before", "after"],
     correct: "after",
   },
   {
-    question: "Asthma is a lung disease which ___.",
+    question: "5.Asthma is a lung disease which ___.",
     choices: [
       "it makes difficult to breathe",
       "makes it difficult to breathe",
@@ -2223,13 +2223,13 @@ const quizEnglish1 = [
   },
   {
     question:
-      "Without washing machines; vacuum cleaners, etc., it ___ impossible for us to have as much leisure time as we now do.",
+      "6.Without washing machines; vacuum cleaners, etc., it ___ impossible for us to have as much leisure time as we now do.",
     choices: ["has been", "should be", "will be", "would be"],
     correct: "would be",
   },
   {
     question:
-      "It was so embarrassing; I really wish I ___ her name when I met her again last night.",
+      "7.It was so embarrassing; I really wish I ___ her name when I met her again last night.",
     choices: [
       "hadn't forgotten",
       "haven't forgotten",
@@ -2240,19 +2240,19 @@ const quizEnglish1 = [
   },
   {
     question:
-      "Emma has got a cat flap put in her balcony door ___ she doesn't always have to open the door to let her cat in and out.",
+      "8.Emma has got a cat flap put in her balcony door ___ she doesn't always have to open the door to let her cat in and out.",
     choices: ["nonetheless", "in order that", "whenever", "as though"],
-    correct: "so that",
+    correct: in order that",
   },
   {
     question:
-      "I have bought ___ new shirt which matches ___ jacket I bought last week.",
+      "9.I have bought ___ new shirt which matches ___ jacket I bought last week.",
     choices: ["some – a", "the – a", "a – the", "some - the"],
     correct: "a – the",
   },
   {
     question:
-      "Most critics agree that rather little ___ done by the artist after his illness has any great value.",
+      "10.Most critics agree that rather little ___ done by the artist after his illness has any great value.",
     choices: [
       "of what was",
       "of that was",
@@ -2263,69 +2263,69 @@ const quizEnglish1 = [
   },
   {
     question:
-      "I ____ hope there won’t be a repetition of these unfortunate events.",
+      "1.I ____ hope there won’t be a repetition of these unfortunate events.",
     choices: ["deeply", "strongly", "sincerely", "thoroughly"],
     correct: "sincerely",
   },
   {
     question:
-      "After thirty-five years in the French department, Professor Lane finally _____ last month.",
+      "2.After thirty-five years in the French department, Professor Lane finally _____ last month.",
     choices: ["withdrew", "retired", "treated", "abdicated"],
     correct: "retired",
   },
   {
-    question: "The contract was ……………… at lunchtime.",
+    question: "3.The contract was ……………… at lunchtime.",
     choices: ["signed", "decided", "delivered", "agreed"],
     correct: "signed",
   },
   {
-    question: "It is such a big city that he’s got ….............",
+    question: "4.It is such a big city that he’s got ….............",
     choices: ["late", "loose", "lost", "up"],
     correct: "lost",
   },
   {
     question:
-      "He’s very _____ about his work, so try not to say anything that he might take as a criticism.",
+      "5.He’s very _____ about his work, so try not to say anything that he might take as a criticism.",
     choices: ["annoyed", "touchy", "irritated", "annoying"],
-    correct: "touchy",
+    correct: "annoyed",
   },
   {
-    question: "Show me …............. my room, please?",
+    question: "6.Show me …............. my room, please?",
     choices: ["to", "of", "where", "on"],
     correct: "to",
   },
   {
     question:
-      "Listen to that music! Our neighbors _____ play music that loud at this hour.",
+      "7.Listen to that music! Our neighbors _____ play music that loud at this hour.",
     choices: ["should", "shouldn’t", "can", "cannot"],
     correct: "shouldn’t",
   },
   {
     question:
-      "Deforestation ______ an alarming decrease in the amount of farming land.",
+      "8.Deforestation ______ an alarming decrease in the amount of farming land.",
     choices: ["are", "was", "is", "were"],
     correct: "is",
   },
   {
     question:
-      "If we behave badly in class, our teacher ____ stay late and do extra work.",
+      "9.If we behave badly in class, our teacher ____ stay late and do extra work.",
     choices: ["much", "lets us", "allows us to", "makes us"],
     correct: "makes us",
   },
   {
-    question: "Mr. and Mrs. Kent are old age ………………",
+    question: "10.Mr. and Mrs. Kent are old age ………………",
     choices: ["workers", "people", "folks", "pensioners"],
     correct: "pensioners",
   },
   {
     question:
-      "Well, as long as Mr. Idiot ___ to say things we might find embarrassing, his presence is not a problem.",
+      "1. Well, as long as Mr. Idiot ___ to say things we might find embarrassing, his presence is not a problem.",
     choices: ["won't lead", "won't be led", "isn't led", "doesn't lead"],
-    correct: "doesn't lead",
+    correct: "isn't led",
   },
   {
     question:
-      "What? Your sister saw Jimmy at The Oasis! Well, if it ___ him, he must have been dismissed again.",
+      "2. What? Your sister saw Jimmy at The Oasis! Well, if it ___ him, he must have been dismissed again.",
     choices: [
       "were really",
       "was really",
@@ -2336,7 +2336,7 @@ const quizEnglish1 = [
   },
   {
     question:
-      "If the M1 motorway ___ , the traffic in London ___ to a standstill.",
+      "3. If the M1 motorway ___ , the traffic in London ___ to a standstill.",
     choices: [
       "wasn't built - should have come",
       "isn't going to be built - comes",
@@ -2346,17 +2346,17 @@ const quizEnglish1 = [
     correct: "hadn't been built - would have come",
   },
   {
-    question: "Don't regret you couldn't come. Your arrival ___ my decision.",
+    question: "4. Don't regret you couldn't come. Your arrival ___ my decision.",
     choices: [
       "wouldn't have changed",
       "wouldn't change",
       "may not have changed",
       "couldn't change",
     ],
-    correct: "couldn't change",
+    correct: "wouldn't have changed",
   },
   {
-    question: "Are you sure my tablecloth ___ permanently by this red wine?",
+    question: "5.Are you sure my tablecloth ___ permanently by this red wine?",
     choices: [
       "won't be stained",
       "isn't being stained",
@@ -2367,7 +2367,7 @@ const quizEnglish1 = [
   },
   {
     question:
-      "At the end of the training session, you ___ a test. Students who pass ___ to scuba dive in the open seas.",
+      "6.At the end of the training session, you ___ a test. Students who pass ___ to scuba dive in the open seas.",
     choices: [
       "are given - have allowed",
       "will be given - will be allowed",
@@ -2378,17 +2378,17 @@ const quizEnglish1 = [
   },
   {
     question:
-      "Mr. Grunfeld ___ for his humour already, but on this occasion the whole class ___ hysterically.",
+      "7. Mr. Grunfeld ___ for his humour already, but on this occasion the whole class ___ hysterically.",
     choices: [
       "knew - had been laughing",
       "was known - laugh",
       "has known – laughed",
       "is known - was laughing",
     ],
-    correct: "knew - had been laughing",
+    correct: "is known - was laughing",
   },
   {
-    question: "Recently, a new vaccine against measles ___ .",
+    question: "8.Recently, a new vaccine against measles ___ .",
     choices: [
       "has been developed",
       "had been developed",
@@ -2399,7 +2399,7 @@ const quizEnglish1 = [
   },
   {
     question:
-      "Dogs, which ___ man since ancient times, were mainly used on farms or for hunting in earlier times, but today they ___ to a wide range of uses, such as drug or victim detection.",
+      "9.Dogs, which ___ man since ancient times, were mainly used on farms or for hunting in earlier times, but today they ___ to a wide range of uses, such as drug or victim detection.",
     choices: [
       "accompany - are being put",
       "have accompanied - are put",
@@ -2410,7 +2410,7 @@ const quizEnglish1 = [
   },
   {
     question:
-      "There is no point asking Bob for information concerning the contest. As far as I know he ___ about it.",
+      "10.There is no point asking Bob for information concerning the contest. As far as I know he ___ about it.",
     choices: [
       "hasn't been told",
       "didn't tell",
@@ -2420,113 +2420,113 @@ const quizEnglish1 = [
     correct: "hasn't been told",
   },
   {
-    question: "I’m sorry we’re late; it’s all my ….............!",
+    question: "1.I’m sorry we’re late; it’s all my ….............!",
     choices: ["guilt", "crime", "fault", "wrong"],
     correct: "fault",
   },
   {
     question:
-      "He is ____by many people for the money he has helped raise for charity.",
+      "2.He is ____by many people for the money he has helped raise for charity.",
     choices: ["admired", "regarded", "approved", "considered"],
     correct: "admired",
   },
   {
     question:
-      "Her parents were very ……………… because she was out so late that night.",
+      "3.Her parents were very ……………… because she was out so late that night.",
     choices: ["responsible", "sorry", "worried", "overcome"],
     correct: "worried",
   },
   {
     question:
-      "We flew to the island, then ……………… a car for three days and visited most places of interest.",
+      "4.We flew to the island, then ……………… a car for three days and visited most places of interest.",
     choices: ["lent", "bought", "hired", "changed"],
     correct: "hired",
   },
   {
     question:
-      "Children in large families learn how to get …............. with other people.",
+      "5.Children in large families learn how to get …............. with other people.",
     choices: ["along", "away", "cross", "through"],
     correct: "along",
   },
   {
-    question: "The teacher told them answer ……………… the question.",
+    question: "6.The teacher told them answer ……………… the question.",
     choices: ["of", "for", "in", "to"],
     correct: "to",
   },
   {
-    question: "He returned to his home town ___ he spent the rest of his life.",
+    question: "7.He returned to his home town ___ he spent the rest of his life.",
     choices: ["that", "which", "where", "who"],
     correct: "where",
   },
   {
-    question: "Show me …............. my room, please?",
+    question: "8.Show me …............. my room, please?",
     choices: ["to", "of", "where", "on"],
     correct: "to",
   },
   {
     question:
-      "My aunt and uncle always quarreled about their tea; she liked it strong but he wanted it….............",
+      "9.My aunt and uncle always quarreled about their tea; she liked it strong but he wanted it….............",
     choices: ["feeble", "weak", "small", "poor"],
     correct: "weak",
   },
   {
     question:
-      "The author ______ that it is necessary for every adolescent to establish his own place in society.",
+      "10.The author ______ that it is necessary for every adolescent to establish his own place in society.",
     choices: ["believes", "believed", "believed", "has believed"],
     correct: "believes",
   },
   {
-    question: "Are you sure we are going in the right _____?",
+    question: "1.Are you sure we are going in the right _____?",
     choices: ["direct", "direction", "directed", "directly"],
     correct: "direction",
   },
   {
-    question: "My new car is more _____ than the one I had before.",
+    question: "2.My new car is more _____ than the one I had before.",
     choices: ["economy", "economical", "economic", "economics"],
     correct: "economical",
   },
   {
-    question: "I ____ doubt whether he will actually carry out his threats.",
+    question: "3.I ____ doubt whether he will actually carry out his threats.",
     choices: ["highly", "deeply", "absolutely", "seriously"],
-    correct: "seriously",
+    correct: "deeply",
   },
   {
     question:
-      "She was very_____and told me quite simply that she didn’t like me.",
+      "4.She was very_____and told me quite simply that she didn’t like me.",
     choices: ["genuine", "open", "blunt", "sincere"],
     correct: "blunt",
   },
   {
     question:
-      "We can win only if we remain united, and so we must support them the moment they ____ on strike.",
+      "5.We can win only if we remain united, and so we must support them the moment they ____ on strike.",
     choices: ["are", "is", "was", "were"],
-    correct: "go",
+    correct: "are",
   },
   {
     question:
-      "We ____at about seven o’clock this morning and we eventually arrived at half past four.",
+      "6.We ____at about seven o’clock this morning and we eventually arrived at half past four.",
     choices: ["set in", "set to", "set up", "set out"],
-    correct: "set out",
+    correct: "set up",
   },
   {
     question:
-      "We have to complete the film this month. No matter how cold it ____, all the summer scenes will have to be shot tomorrow.",
+      "7.We have to complete the film this month. No matter how cold it ____, all the summer scenes will have to be shot tomorrow.",
     choices: ["would be", "will be", "is", "were"],
     correct: "is",
   },
   {
-    question: "Everybody ____ here except for Jill two hours ago.",
+    question: "8.Everybody ____ here except for Jill two hours ago.",
     choices: ["is", "was", "has been", "had been"],
-    correct: "was",
+    correct: "had been"
   },
   {
-    question: "The Boston police went on ____in 1919.",
+    question: "9.The Boston police went on ____in 1919.",
     choices: ["operation", "set up", "strike", "join"],
     correct: "strike",
   },
   {
     question:
-      "Lizzie should ask Bryan to help her with her studies. He did the ____ course last year.",
+      "10.Lizzie should ask Bryan to help her with her studies. He did the ____ course last year.",
     choices: ["of", "like", "same", "as"],
     correct: "same",
   },
