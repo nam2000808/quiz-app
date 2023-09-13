@@ -11,7 +11,7 @@ import reading10 from "./part 2/r10.png";
 const quizEnglish2 = [
   {
     image: reading1,
-    question: "What is the writer trying to do in the text?",
+    question: "11.What is the writer trying to do in the text?",
     choices: [
       "Give an opinion about a particular student",
       "Give an opinion about a special type of education",
@@ -22,7 +22,7 @@ const quizEnglish2 = [
   },
   {
     image: reading1,
-    question: "What can a reader find out from this text?",
+    question: "12.What can a reader find out from this text?",
     choices: [
       "How to become a student at Atlantic College",
       "What kind of programs Atlantic College offers",
@@ -33,7 +33,7 @@ const quizEnglish2 = [
   },
   {
     image: reading1,
-    question: "What is the writer's opinion of Atlantic College?",
+    question: "13.What is the writer's opinion of Atlantic College?",
     choices: [
       "It doesn't allow students enough study time",
       "Its students are taught to like each other",
@@ -44,7 +44,7 @@ const quizEnglish2 = [
   },
   {
     image: reading1,
-    question: "How has Barbara changed since at Atlantic College?",
+    question: "14.How has Barbara changed since at Atlantic College?",
     choices: [
       "She knows a lot about other countries",
       "She is more confident than her sister now",
@@ -56,7 +56,7 @@ const quizEnglish2 = [
   {
     image: reading1,
     question:
-      "Which advertisement uses correct information about Atlantic College?",
+      "15.Which advertisement uses correct information about Atlantic College?",
     choices: [
       "Study at Atlantic College. Courses for 16-18 years old. Lessons all morning, sport in the afternoon.",
       "Study at Atlantic College. Courses 16-18 year olds. Morning lessons and afternoon activities. Help with fees available.",
@@ -75,26 +75,26 @@ const quizEnglish2 = [
       "C. spider eggs",
       "D. spider foods",
     ],
-    correct: "B",
+    correct: "B. spider webs",
   },
   {
     image: reading2,
     question:
-      "Spider webs help spiders: I. hold egg II. catch food III. find water",
+      "12.Spider webs help spiders: I. hold egg II. catch food III. find water",
     choices: [
       "A. I only ",
       "B. I and II only",
       "C. I, II, and III",
       "D. I and III",
     ],
-    correct: "B",
+    correct: "B. I and II only",
   },
   {
     image: reading2,
     question:
       'Câu 13: As used in paragraph 4, the word "trapped" most nearly means',
     choices: ["A. stuck", "B. hidden", "C. eaten", "D. catch"],
-    correct: "A",
+    correct: "A. stuck",
   },
   {
     image: reading2,
@@ -106,14 +106,14 @@ const quizEnglish2 = [
       "C. They feel it.",
       "D. They taste it",
     ],
-    correct: "C",
+    correct: "C. They feel it.",
   },
   {
     image: reading2,
     question:
       'Câu 15: As used in the last sentence of the passage, the word "survive" means to stay',
     choices: ["A. alive", "B. hidden", "C. caught", "D. sleep"],
-    correct: "A",
+    correct: "A. alive",
   },
   {
     image: reading3,
@@ -124,7 +124,7 @@ const quizEnglish2 = [
       "C. in the bank he robbed.",
       "D. in another bank.",
     ],
-    correct: "B",
+    correct: "A. as a policeman.",
   },
   {
     image: reading3,
@@ -135,7 +135,7 @@ const quizEnglish2 = [
       "C. was unaware that he was so heavily in debt.",
       "D. was worried about his debt.",
     ],
-    correct: "D",
+    correct: "D. was worried about his debt.",
   },
   {
     image: reading3,
@@ -147,7 +147,7 @@ const quizEnglish2 = [
       "C. paid some money into his account there.",
       "D. didn’t dare to go inside.",
     ],
-    correct: "C",
+    correct: "A. asked them to lend him some money.",
   },
   {
     image: reading3,
@@ -158,7 +158,7 @@ const quizEnglish2 = [
       "C. David Saucez was unlucky.",
       "D. the bank manager called them.",
     ],
-    correct: "B",
+    correct: "D. the bank manager called them.",
   },
   {
     image: reading3,
@@ -170,13 +170,13 @@ const quizEnglish2 = [
       "C. was going to rob the bank.",
       "D. was trying to escape.",
     ],
-    correct: "A",
+    correct: "C. was going to rob the bank.",
   },
   {
     image: reading4,
     question: "Câu 11: Education is expensive in ……………countries.",
     choices: ["A. all", "B. some", "C. half of the", "D. very few"],
-    correct: "A",
+    correct: "B. some",
   },
   {
     image: reading4,
@@ -188,7 +188,7 @@ const quizEnglish2 = [
       "C. since their school age",
       "D. when they attend school",
     ],
-    correct: "A",
+    correct: "A. since when they are born",
   },
   {
     image: reading4,
@@ -199,7 +199,7 @@ const quizEnglish2 = [
       "C. No families can afford it",
       "D. all families can afford it",
     ],
-    correct: "A",
+    correct: "B. Many families can afford it",
   },
   {
     image: reading4,
@@ -210,7 +210,7 @@ const quizEnglish2 = [
       "C. scholarship for all the students",
       "D. only some scholarship",
     ],
-    correct: "A",
+    correct: "D. only some scholarship",
   },
   {
     image: reading4,
@@ -221,7 +221,7 @@ const quizEnglish2 = [
       "C. work for a scholarship",
       "D. work to borrow money",
     ],
-    correct: "C",
+    correct: "A. work for their education",
   },
   {
     image: reading5,
@@ -232,7 +232,7 @@ const quizEnglish2 = [
       "C. Starting to work after leaving school",
       "D. Getting to know about a new job.",
     ],
-    correct: "C",
+    correct: "B. Making an important decision at 18",
   },
   {
     image: reading5,
@@ -244,7 +244,7 @@ const quizEnglish2 = [
       "C. Their parents do not help them",
       "D. They want to lead an independent life",
     ],
-    correct: "D",
+    correct: "A. They are badly in need of money",
   },
   {
     image: reading5,
@@ -255,14 +255,14 @@ const quizEnglish2 = [
       "C. They complain about their parents and teachers.",
       "D. They ask for help.",
     ],
-    correct: "D",
+    correct: "D. They ask for help.",
   },
   {
     image: reading5,
     question:
       "Câu 14: The word “Unfortunately” in line 5 is nearest in meaning to .",
     choices: ["A. suddenly", "B. unluckily", "C. luckily", "D. surprisingly"],
-    correct: "B",
+    correct: "C. luckily",
   },
   {
     image: reading5,
@@ -274,7 +274,7 @@ const quizEnglish2 = [
       "C. They are very successful.",
       "D. They are eager to work.",
     ],
-    correct: "C",
+    correct: "D. They are eager to work.",
   },
   {
     image: reading6,
@@ -286,7 +286,7 @@ const quizEnglish2 = [
       "C. He does not go out much.",
       "D. He lives at home with his parents.",
     ],
-    correct: "A",
+    correct: "A. He earns an extremely high salary."
   },
   {
     image: reading6,
@@ -297,7 +297,7 @@ const quizEnglish2 = [
       "C. spending his salary.",
       "D. learning to drive.",
     ],
-    correct: "A",
+    correct: "C. spending his salary.",
   },
   {
     image: reading6,
@@ -308,7 +308,7 @@ const quizEnglish2 = [
       "C. he works very hard.",
       "D. he had learnt to use computers at school.",
     ],
-    correct: "B",
+    correct: "B. he had written some computer programs.",
   },
   {
     image: reading6,
@@ -320,7 +320,7 @@ const quizEnglish2 = [
       "C. he was afraid of getting too old to start computing.",
       "D. he wanted to earn a lot of money.",
     ],
-    correct: "B",
+    correct: "B. he wanted to work with computers and staying at school did not help him.",
   },
   {
     image: reading6,
@@ -331,7 +331,7 @@ const quizEnglish2 = [
       "C. He thinks computer games might not always sell so well.",
       "D. He thinks his firm might go bankrupt.",
     ],
-    correct: "C",
+    correct: "C. He thinks computer games might not always sell so well.",
   },
   {
     image: reading7,
@@ -343,7 +343,7 @@ const quizEnglish2 = [
       "C. sleeps every other night and is awake during the day",
       "D. hunts during the day and night",
     ],
-    correct: "A",
+    correct: "A. sleeps at night and is awake during the day",
   },
   {
     image: reading7,
@@ -355,14 +355,14 @@ const quizEnglish2 = [
       "C. can see very well at night",
       "D. is likely to be eaten by an owl",
     ],
-    correct: "B",
+    correct: "B. has trouble seeing in the dark",
   },
   {
     image: reading7,
     question:
-      "Câu 13: According to the passage, owls can find food in the dark using their sense of",
-    choices: ["I. sight", "II. sound", "III. smell"],
-    correct: "D",
+      "Câu 13: According to the passage, owls can find food in the dark using their sense of "I. sight", "II. sound", "III. smell" ",
+    choices: ["a. I", "b. I,II", "c.II+III", "d. both"],
+    correct: "b. I,II",
   },
   {
     image: reading7,
@@ -374,7 +374,7 @@ const quizEnglish2 = [
       "C. an animal that is hunted by other animals",
       "D. an animal that hunts other animals",
     ],
-    correct: "C",
+    correct: "C. an animal that is hunted by other animals",
   },
   {
     image: reading7,
@@ -386,7 +386,7 @@ const quizEnglish2 = [
       "C. store energy for nighttime activities",
       "D. release stress",
     ],
-    correct: "B",
+    correct: "B. keep themselves safe",
   },
   {
     image: reading8,
@@ -397,7 +397,7 @@ const quizEnglish2 = [
       "C. bought a new suit when he had to meet new people",
       "D. was shy of meeting new people",
     ],
-    correct: "D",
+    correct: "A. was afraid of the party",
   },
   {
     image: reading8,
@@ -408,7 +408,7 @@ const quizEnglish2 = [
       "C. in the morning",
       "D. in a village",
     ],
-    correct: "B",
+    correct: "C. in the morning",
   },
   {
     image: reading8,
@@ -419,7 +419,7 @@ const quizEnglish2 = [
       "C. might reach New York",
       "D. destroyed the trees outside his room",
     ],
-    correct: "B",
+    correct: "B. was dying down",
   },
   {
     image: reading8,
@@ -430,7 +430,7 @@ const quizEnglish2 = [
       "C. had slept badly",
       "D. was stabbed in the jaw",
     ],
-    correct: "C",
+    correct: "B. always had toothache",
   },
   {
     image: reading8,
@@ -441,7 +441,7 @@ const quizEnglish2 = [
       "C. He couldn’t go to the party",
       "D. He couldn’t understand his dream",
     ],
-    correct: "C",
+    correct: "C. He couldn’t go to the party",
   },
   {
     image: reading9,
@@ -452,7 +452,7 @@ const quizEnglish2 = [
       "C. Give advice on how to find a music teacher",
       "D. Explain why Margaret has a lot of pupils",
     ],
-    correct: "A",
+    correct: "B. Describe a different way of learning the violin",
   },
   {
     image: reading9,
@@ -463,7 +463,7 @@ const quizEnglish2 = [
       "C. To find out about Margaret’s teaching method",
       "D. To learn why children should play the violin",
     ],
-    correct: "C",
+    correct: "C. To find out about Margaret’s teaching method",
   },
   {
     image: reading9,
@@ -474,7 +474,7 @@ const quizEnglish2 = [
       "C. They could try harder",
       "D. They take several years to learn to read music",
     ],
-    correct: "B",
+    correct: "A. They ought to find another teacher",
   },
   {
     image: reading9,
@@ -485,7 +485,7 @@ const quizEnglish2 = [
       "C. Her own friends",
       "D. Her children’s friends",
     ],
-    correct: "C",
+    correct: "D. Her children’s friends",
   },
   {
     image: reading9,
@@ -497,7 +497,7 @@ const quizEnglish2 = [
       "C. Group violin lessons for children - no more than 5 per group",
       "D. We'll look after your children while you learn the violin",
     ],
-    correct: "A",
+    correct: "C. Group violin lessons for children - no more than 5 per group",
   },
   {
     image: reading10,
@@ -509,18 +509,16 @@ const quizEnglish2 = [
       "C. are found all over the world",
       "D. have no natural enemies",
     ],
-    correct: "B",
+    correct: "B. are big and powerful",
   },
   {
     image: reading10,
     question:
-      "Câu 12: Based on the information in paragraph 2, we can understand that",
-    choices: [
-      "I. male mosquitoes and female mosquitoes have different eating habits",
+      "Câu 12: Based on the information in paragraph 2, we can understand that "I. male mosquitoes and female mosquitoes have different eating habits",
       "II. male mosquitoes are harmless to humans",
-      "III. female mosquitoes are responsible for transmitting diseases to humans",
-    ],
-    correct: "C",
+      "III. female mosquitoes are responsible for transmitting diseases to humans" ",
+    choices: [choices: ["a. I", "b. I,II", "c.II+III", "d. both"],
+    correct: "d. both",
   },
   {
     image: reading10,
@@ -532,7 +530,7 @@ const quizEnglish2 = [
       "C. confirm a hypothesis",
       "D. support a later statement",
     ],
-    correct: "C",
+    correct: "D. support a later statement",
   },
   {
     image: reading10,
@@ -543,14 +541,14 @@ const quizEnglish2 = [
       "C. frustrating",
       "D. dangerous",
     ],
-    correct: "A",
+    correct: "A. insignificant",
   },
   {
     image: reading10,
     question:
       "Câu 15: Based on information in paragraph 3, it can be understood that if you get sick with malaria or yellow fever, your chances of survival are",
     choices: ["A. terrible", "B. mediocre", "C. good", "D. excellent"],
-    correct: "A",
+    correct: "D. excellent"
   },
 ];
 function shuffleArray(quizEnglish2) {
