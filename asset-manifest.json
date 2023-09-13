@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/quiz-app/static/css/main.f8714b67.css",
+    "main.js": "/quiz-app/static/js/main.2a06053d.js",
+    "static/js/787.9e90ff23.chunk.js": "/quiz-app/static/js/787.9e90ff23.chunk.js",
+    "static/media/d8.png": "/quiz-app/static/media/d8.719974bcd07671a704e6.png",
+    "static/media/r8.png": "/quiz-app/static/media/r8.37de20c90a40633a6542.png",
+    "static/media/r6.png": "/quiz-app/static/media/r6.3c2761ea146b5088c9b1.png",
+    "static/media/d5.png": "/quiz-app/static/media/d5.b20a990f6dd1e09acb94.png",
+    "static/media/d6.png": "/quiz-app/static/media/d6.a1c80de5d49d05a73060.png",
+    "static/media/d3.png": "/quiz-app/static/media/d3.70aabba1c18bee453adb.png",
+    "static/media/r7.png": "/quiz-app/static/media/r7.3d7f4652955f25d4001c.png",
+    "static/media/d2.png": "/quiz-app/static/media/d2.185dd22488ddde740fe1.png",
+    "static/media/r9.png": "/quiz-app/static/media/r9.045d158c0d263afea381.png",
+    "static/media/d4.png": "/quiz-app/static/media/d4.acb3b7610d3f37b523a5.png",
+    "static/media/d1.png": "/quiz-app/static/media/d1.b2a594ae529039bbc287.png",
+    "static/media/r1.png": "/quiz-app/static/media/r1.b681c47465d75ffccfed.png",
+    "static/media/d10.png": "/quiz-app/static/media/d10.b94d220b73a9fec33452.png",
+    "static/media/r2.png": "/quiz-app/static/media/r2.4bdd4b80f5d54d5d73d4.png",
+    "static/media/r3.png": "/quiz-app/static/media/r3.b0183b16089a65fec2ef.png",
+    "static/media/r10.png": "/quiz-app/static/media/r10.70e3d1c36dd7d5995ad9.png",
+    "static/media/r5.png": "/quiz-app/static/media/r5.e205120a8d5ea4167c0e.png",
+    "static/media/r4.png": "/quiz-app/static/media/r4.1989af1f36873a5c5024.png",
+    "index.html": "/quiz-app/index.html",
+    "main.f8714b67.css.map": "/quiz-app/static/css/main.f8714b67.css.map",
+    "main.2a06053d.js.map": "/quiz-app/static/js/main.2a06053d.js.map",
+    "787.9e90ff23.chunk.js.map": "/quiz-app/static/js/787.9e90ff23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8714b67.css",
+    "static/js/main.2a06053d.js"
+  ]
+}
