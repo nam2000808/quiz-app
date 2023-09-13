@@ -1106,7 +1106,8 @@ const quizEnglish1 = [
     correct: " From",
   },
   {
-    question: "	In the mornings the kitchen staff turns on the ovens and __ coffee",
+    question:
+      "	In the mornings the kitchen staff turns on the ovens and __ coffee",
     choices: ["	Brewing", "	Brew", " Brews", " Brewed"],
     correct: " Brews",
   },
@@ -1118,7 +1119,7 @@ const quizEnglish1 = [
   {
     question: "	This year the annual meeting takes place __ Toronto",
     choices: ["	On", "	For", "	By", " In"],
-    correct: " In"
+    correct: " In",
   },
   {
     question: "	___ we were late,we could not enter the conference hall",
@@ -1189,7 +1190,7 @@ const quizEnglish1 = [
   {
     question: "	The man banged the glass down on the table and stared	__ me",
     choices: ["	Through", "	In", "	Over", " At"],
-    correct: " At"
+    correct: " At",
   },
   {
     question:
@@ -1211,7 +1212,7 @@ const quizEnglish1 = [
   {
     question: "	006 woke up with his hands tied	__ his back",
     choices: ["	On", "	Through", "	Over", " Behind"],
-    correct: " Behind"
+    correct: " Behind",
   },
   {
     question: "	The wall was made	__thick glass",
@@ -1299,7 +1300,8 @@ const quizEnglish1 = [
     correct: " Whose",
   },
   {
-    question: "	Seven other cars have withdrawn <u>due</u> to bad weather conditions.",
+    question:
+      "	Seven other cars have withdrawn <u>due</u> to bad weather conditions.",
     choices: [" Owing to", "	At the time of", "	Right for", "	In spite of"],
     correct: " Owing to",
   },
@@ -1324,9 +1326,10 @@ const quizEnglish1 = [
     correct: " Buy",
   },
   {
-    question: "	I wonder if you could <u>direct</u> me to Dr. Carmichael’s office?",
+    question:
+      "	I wonder if you could <u>direct</u> me to Dr. Carmichael’s office?",
     choices: ["	Take", "	Bring", "	Tell………how to get", "	introduce"],
-    correct:  "	Tell………how to get"
+    correct: "	Tell………how to get",
   },
   {
     question: "	I knew my father would <u>discipline</u> me for my actions.",
@@ -1347,7 +1350,7 @@ const quizEnglish1 = [
   {
     question: "	He emphasizes that ability at Maths is <u>essential.</u>",
     choices: ["	Excellent", "	Optional", "	Remarkable", " Necessary"],
-    correct: " Necessary"
+    correct: " Necessary",
   },
   {
     question: "	I don’t know how she ___	a living as an artist",
@@ -1355,7 +1358,8 @@ const quizEnglish1 = [
     correct: " Earns",
   },
   {
-    question: "	Her husband is very <u>competent</u>; he will repair the roof himself",
+    question:
+      "	Her husband is very <u>competent</u>; he will repair the roof himself",
     choices: [" Capable", "	Industrious", "	Thrifty", "	Careful"],
     correct: " Capable",
   },
@@ -1367,7 +1371,7 @@ const quizEnglish1 = [
   {
     question: "	The show was dull, It was____________",
     choices: ["	Disinterested", "	Uninterested", "	Interesting", "	Uninteresting"],
-    correct: "	Uninteresting"
+    correct: "	Uninteresting",
   },
   {
     question: "	They	___ her on her new baby",
@@ -1383,10 +1387,11 @@ const quizEnglish1 = [
   {
     question: "	 	___  More help, I could call my neighbor",
     choices: ["	Needed", "	Should I need", "	I have needed", "	I should need"],
-    correct: "	Should I need", 
+    correct: "	Should I need",
   },
   {
-    question: "	Unless you __	all of my questions, I can’t do anything to help you",
+    question:
+      "	Unless you __	all of my questions, I can’t do anything to help you",
     choices: ["	Answered", " Answer", " Would answer", "Are answering"],
     correct: " Answer",
   },
@@ -1438,7 +1443,7 @@ const quizEnglish1 = [
       "	How I wish it!",
       "	I hope so!",
     ],
-    correct:  " If only I could!",
+    correct: " If only I could!",
   },
   {
     question: "	Jan___	better take care. The roads are very busy",
@@ -1600,12 +1605,12 @@ const quizEnglish1 = [
     question:
       "	The missing war correspondent was last seen yesterday morning____________ his Lan Rover near the frontline",
     choices: ["	Driving", "	As driving", "	To drive", "	Was driving"],
-    correct: "	Driving", 
+    correct: "	Driving",
   },
   {
     question: "	The vehicle was found yesterday evening but	___ no sign of him",
     choices: ["	There had", "	It was", "	It had", "	There was"],
-    correct: "	There was"
+    correct: "	There was",
   },
   {
     question: "	The hostesses had finished___the trays.",
@@ -1613,7 +1618,8 @@ const quizEnglish1 = [
     correct: " Collecting",
   },
   {
-    question: "	“Did you see anyone interesting at the party?” “Yes,	____ were there”",
+    question:
+      "	“Did you see anyone interesting at the party?” “Yes,	____ were there”",
     choices: [
       "	Some of John’s friends",
       "	Some friend of John’s",
@@ -1744,7 +1750,8 @@ const quizEnglish1 = [
     correct: " Having stolen",
   },
   {
-    question: "	________unprepared for the exam, I felt sure I would get a low score",
+    question:
+      "	________unprepared for the exam, I felt sure I would get a low score",
     choices: [" Being", "	Having", "	Because", "	Upon"],
     correct: " Being",
   },
@@ -1759,7 +1766,7 @@ const quizEnglish1 = [
     question:
       "	They promised to give her a modern flat which is_______for an elderly person living alone.",
     choices: ["	Top", "	Utmost", "	Foremost", " Ideal"],
-    correct: " Ideal"
+    correct: " Ideal",
   },
   {
     question: "	The inpector said that there was not much____of an explosion",
@@ -1776,7 +1783,7 @@ const quizEnglish1 = [
     question:
       "	When the “Mary Celeste,” did not____	his signal, Captain Moorhouse decided to investigate.",
     choices: ["	Answer", "	Respond", "	Retrace", "	Retain"],
-    correct: "	Answer", 
+    correct: "	Answer",
   },
   {
     question: "	Drivers have now been forbidden to ___	up hitchhikers",
@@ -2007,7 +2014,8 @@ const quizEnglish1 = [
     explanation: "",
   },
   {
-    question: "7.Usually I ___ cash for things because I ___ using credit cards.",
+    question:
+      "7.Usually I ___ cash for things because I ___ using credit cards.",
     choices: [
       "A.have paid - didn't like",
       "B.pay - don't like",
@@ -2122,7 +2130,7 @@ const quizEnglish1 = [
     explanation: "",
   },
   {
-    question: 9."I’m not accustomed ___ up so early.",
+    question: "I’m not accustomed ___ up so early.",
     choices: ["A. to getting", "B. to get", "C. by getting", "D. get"],
     correct: "A. to getting",
     explanation: "",
@@ -2157,7 +2165,8 @@ const quizEnglish1 = [
     correct: "weak",
   },
   {
-    question: "5.How much are the tickets? 'I think they are two dollars ………………'",
+    question:
+      "5.How much are the tickets? 'I think they are two dollars ………………'",
     choices: ["one", "every", "each", "much"],
     correct: "each",
   },
@@ -2242,7 +2251,7 @@ const quizEnglish1 = [
     question:
       "8.Emma has got a cat flap put in her balcony door ___ she doesn't always have to open the door to let her cat in and out.",
     choices: ["nonetheless", "in order that", "whenever", "as though"],
-    correct: in order that",
+    correct: "in order that",
   },
   {
     question:
@@ -2346,7 +2355,8 @@ const quizEnglish1 = [
     correct: "hadn't been built - would have come",
   },
   {
-    question: "4. Don't regret you couldn't come. Your arrival ___ my decision.",
+    question:
+      "4. Don't regret you couldn't come. Your arrival ___ my decision.",
     choices: [
       "wouldn't have changed",
       "wouldn't change",
@@ -2454,7 +2464,8 @@ const quizEnglish1 = [
     correct: "to",
   },
   {
-    question: "7.He returned to his home town ___ he spent the rest of his life.",
+    question:
+      "7.He returned to his home town ___ he spent the rest of his life.",
     choices: ["that", "which", "where", "who"],
     correct: "where",
   },
@@ -2517,7 +2528,7 @@ const quizEnglish1 = [
   {
     question: "8.Everybody ____ here except for Jill two hours ago.",
     choices: ["is", "was", "has been", "had been"],
-    correct: "had been"
+    correct: "had been",
   },
   {
     question: "9.The Boston police went on ____in 1919.",
