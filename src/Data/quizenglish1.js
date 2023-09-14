@@ -2,7 +2,7 @@ const quizEnglish1 = [
   {
     question: "	I’d like to	_____ a reservation.",
     choices: ["	Book	", " make	", " form	", "set"],
-    correct: "make	",
+    correct: " make	",
   },
   {
     question: "	Mary <u>can swim very well</u>",
