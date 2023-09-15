@@ -183,7 +183,7 @@ const quiz1 = [
       "     Nhà nước.",
       "    Mặt trận Tổ quốc Việt Nam.",
     ],
-    correct: "Nhà nước.",
+    correct: "     Nhà nước.",
   },
   {
     question:
@@ -226,7 +226,7 @@ const quiz1 = [
       " Đảng Cộng sản Việt Nam.",
       "	Chính phủ.",
     ],
-    correct: "Nhân dân.",
+    correct: " Nhân dân.",
   },
   {
     question:
@@ -864,7 +864,7 @@ const quiz1 = [
       "Thủ tướng",
       "Chủ tịch Quốc hội",
     ],
-    correct: "Uỷ ban Thường vụ Quốc hội",
+    correct: "Ủy ban Thường vụ Quốc Hội",
   },
   {
     question:
@@ -2096,7 +2096,7 @@ const quiz1 = [
     question:
       " 19: Theo Luật cán bộ, công chức 2008, có bao nhiêu nội dung quy định quyền của cán bộ, công chức được bảo đảm các điều kiện thi hành công vụ?",
     choices: ["     04", "    05", "     06", "    07"],
-    correct: "05",
+    correct: "    05",
   },
   {
     question:
