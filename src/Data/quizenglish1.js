@@ -1,4 +1,4 @@
-const quizEnglish1 = [
+var quizEnglish1 = [
   {
     question: "	I’d like to	_____ a reservation.",
     choices: ["	Book	", " make	", " form	", "set"],
@@ -2553,4 +2553,4 @@ function shuffleArray(quizEnglish1) {
   }
 }
 shuffleArray(quizEnglish1);
-export default quizEnglish1;
+export { quizEnglish1 };
