@@ -8,7 +8,46 @@ import "../styles/quiz.css";
 
 function QuizEnglish() {
   const [quizStarted] = useState(false);
-  const quiz = [...quizEnglish1, ...quizEnglish2, ...quizEnglish3];
+  function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+  }
+  function shuffleArray2(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+  }
+  function shuffleArray2(array) {
+    for (let i = 0; i < array.length; i += 5) {
+      const group = array.slice(i, i + 5);
+      for (let j = group.length - 1; j > 0; j--) {
+        const randomIndex = Math.floor(Math.random() * (j + 1));
+        [group[j], group[randomIndex]] = [group[randomIndex], group[j]];
+      }
+      array.splice(i, 5, ...group);
+    }
+  }
+  function shuffleArray3(array) {
+    for (let i = 0; i < array.length; i += 10) {
+      const group = array.slice(i, i + 10);
+      for (let j = group.length - 1; j > 0; j--) {
+        const randomIndex = Math.floor(Math.random() * (j + 1));
+        [group[j], group[randomIndex]] = [group[randomIndex], group[j]];
+      }
+      array.splice(i, 10, ...group);
+    }
+  }
+  shuffleArray(quizEnglish1);
+  shuffleArray2(quizEnglish2);
+  shuffleArray3(quizEnglish3);
+  const quiz = [
+    ...quizEnglish1.slice(0, 10),
+    ...quizEnglish2.slice(0, 10),
+    ...quizEnglish3.slice(0, 10),
+  ];
   useEffect(() => {
     /*time quiz*/
     var quizTime = 30 * 60 * 1000; // 60 phút trong đơn vị milliseconds

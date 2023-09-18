@@ -2542,15 +2542,5 @@ var quizEnglish1 = [
     correct: "same",
   },
 ];
-function shuffleArray(quizEnglish1) {
-  for (let i = 0; i < quizEnglish1.length; i += 1) {
-    const group = quizEnglish1.slice(i, i + 1);
-    for (let j = group.length - 1; j > 0; j--) {
-      const randomIndex = Math.floor(Math.random() * (j + 1));
-      [group[j], group[randomIndex]] = [group[randomIndex], group[j]];
-    }
-    quizEnglish1.splice(10);
-  }
-}
-shuffleArray(quizEnglish1);
-export { quizEnglish1 };
+
+export default quizEnglish1;

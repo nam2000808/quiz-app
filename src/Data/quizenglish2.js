@@ -8,7 +8,7 @@ import reading7 from "./part 2/r7.png";
 import reading8 from "./part 2/r8.png";
 import reading9 from "./part 2/r9.png";
 import reading10 from "./part 2/r10.png";
-const quizEnglish2 = [
+var quizEnglish2 = [
   {
     image: reading1,
     question: "11.What is the writer trying to do in the text?",
@@ -550,16 +550,5 @@ const quizEnglish2 = [
     correct: "D. excellent",
   },
 ];
-function shuffleArray(quizEnglish2) {
-  for (let i = 0; i < quizEnglish2.length; i += 5) {
-    const group = quizEnglish2.slice(i, i + 5);
-    for (let j = group.length - 1; j > 0; j--) {
-      const randomIndex = Math.floor(Math.random() * (j + 1));
-      [group[j], group[randomIndex]] = [group[randomIndex], group[j]];
-    }
-    quizEnglish2.splice(10);
-  }
-}
 
-shuffleArray(quizEnglish2);
 export default quizEnglish2;
