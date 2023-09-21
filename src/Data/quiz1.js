@@ -10,7 +10,7 @@ const quiz1 = [
       "Độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển.",
     ],
     correct:
-      "Độc lập, tự chủ, tự cường, hòa bình, hữu nghị, hợp tác và phát triển.",
+      "Độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển.",
     explanation: "",
   },
 
