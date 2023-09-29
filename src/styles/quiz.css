@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 
 .quizFrame {
+  max-width: 1300px;
   background-color: #f2f2f2;
   padding: 20px;
 }
