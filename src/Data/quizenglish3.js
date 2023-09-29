@@ -498,16 +498,5 @@ const quizEnglish3 = [
     correct: "B.getting",
   },
 ];
-function shuffleArray(quizEnglish3) {
-  for (let i = 0; i < quizEnglish3.length; i += 10) {
-    const group = quizEnglish3.slice(i, i + 10);
-    for (let j = group.length - 1; j > 0; j--) {
-      const randomIndex = Math.floor(Math.random() * (j + 1));
-      [group[j], group[randomIndex]] = [group[randomIndex], group[j]];
-    }
-    quizEnglish3.splice(10);
-  }
-}
 
-shuffleArray(quizEnglish3);
 export default quizEnglish3;
