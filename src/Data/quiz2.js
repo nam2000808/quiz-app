@@ -5,23 +5,9 @@ const quiz2 = [
       "Phòng Tổng hợp.",
       "Phòng Hành chính.",
       "Phòng Tài vụ - Quản trị.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "2: Cơ cấu tổ chức của Văn phòng Tổng cục gồm mấy phòng?",
@@ -34,14 +20,7 @@ const quiz2 = [
       "Phòng Hành chính.",
       "Phòng tham mưu xử lý.",
       "Phòng kiểm định.",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều sai.",
+      "Tất cả câu trên đều sai.",
     ],
     correct: "Phòng Hành chính.",
   },
@@ -51,23 +30,9 @@ const quiz2 = [
       "Tham mưu, giúp Tổng cục trưởng Tổng cục Hải quan chỉ đạo, hướng dẫn và kiểm tra việc thực hiện quy chế làm việc, chương trình, kế hoạch công tác, chế độ thông tin báo cáo, Điều phối hoạt động giữa các đơn vị của Tổng cục Hải quan.",
       "Rà soát nội dung, thể thức, thủ tục hành chính các văn bản do các đơn vị thuộc Tổng cục Hải quan soạn thảo trước khi trình Lãnh đạo Tổng cục Hải quan phê duyệt hoặc ký ban hành.",
       "Tổ chức thực hiện và nghiên cứu cải tiến các quy định về hội họp, giao ban, khánh Tiết của cơ quan Tổng cục Hải quan và hướng dẫn, kiểm tra việc thực hiện trong ngành.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "Văn phòng Tổng cục có nhiệm vụ gì khác?",
@@ -75,23 +40,9 @@ const quiz2 = [
       "Thực hiện công tác quản trị, tài vụ và kế toán đơn vị dự toán cấp 3 của cơ quan Tổng cục; tổ chức thực hiện việc đảm bảo phục vụ các Điều kiện cần thiết về cơ sở vật chất, phương tiện làm việc, phương tiện đi lại, quản lý các hoạt động công sở, trật tự nội vụ, thông tin liên lạc, y tế cơ quan Tổng cục Hải quan; thường trực công tác phòng cháy chữa cháy, phòng chống bão lụt và an ninh an toàn cơ quan Tổng cục Hải quan.",
       "Tổng hợp, theo dõi tình hình thông tin báo chí phản ánh về hoạt động hải quan, báo cáo lãnh đạo Bộ Tài chính, lãnh đạo Tổng cục Hải quan chỉ đạo, xử lý kịp thời.",
       "Xây dựng, phát triển và duy trì hoạt động của bảo tàng truyền thống Tổng cục Hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "Cục giám sát quản lý về Hải quan có bao nhiêu phòng?",
@@ -105,23 +56,9 @@ const quiz2 = [
       "Hướng dẫn, kiểm tra, giám sát hoạt động của các đại lý làm thủ tục hải quan, các doanh nghiệp kinh doanh địa điểm, kho, bãi, dịch vụ giao nhận có liên quan đến hoạt động xuất nhập khẩu hàng hóa.",
       "Phối hợp với các đơn vị liên quan thực hiện đầu tư, mua sắm trang thiết bị, phương tiện phục vụ hoạt động của Cục và nghiệp vụ kiểm tra, giám sát, quản lý của ngành hải quan.",
       "Tuyên truyền, phổ biến các văn bản pháp luật, các quy trình, quy chế nghiệp vụ trong lĩnh vực được phân công quản lý.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -130,23 +67,9 @@ const quiz2 = [
       "Giải quyết các vướng mắc của cơ quan hải quan các cấp, doanh nghiệp, tổ chức, cá nhân trong phạm vi lĩnh vực nghiệp vụ giám quản theo quy định của pháp luật.",
       "Tham gia đàm phán các Hiệp định thương mại biên giới, Hiệp định quản lý biên giới, Hiệp định thương mại tự do; chủ trì triển khai thực hiện các cam kết quốc tế về thủ tục hải quan theo các Điều ước quốc tế mà Việt Nam là thành viên.",
       "Xây dựng yêu cầu nghiệp vụ của hệ thống thông quan điện tử và các hệ thống kiểm tra, giám sát, quản lý về hải quan; nghiệm thu về mặt nghiệp vụ các hệ thống trước khi đưa vào vận hành.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "4: Cục giám sát quản lý về Hải quan có những phòng nào?",
@@ -154,23 +77,9 @@ const quiz2 = [
       "Phòng Giám sát, quản lý hàng hóa xuất nhập khẩu (Phòng Giám quản 1).",
       "Phòng Giám sát, quản lý hàng hóa đầu tư, gia công và sản xuất xuất khẩu (Phòng Giám quản 2).",
       "Phòng Giám sát, quản lý xuất xứ hàng hóa và sở hữu trí tuệ (Phòng Giám quản 4).",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -179,23 +88,9 @@ const quiz2 = [
       "Văn bản quy phạm pháp luật quy định về nghiệp vụ giám quản thuộc thẩm quyền ban hành của Bộ trưởng Bộ Tài chính.",
       "Các chương trình, kế hoạch, dự án, đề án về nghiệp vụ giám quản; đề án hiện đại hóa quy trình thủ tục hải quan, trang thiết bị, phương tiện phục vụ kiểm tra, giám sát hải quan.",
       "Chương trình, kế hoạch để triển khai các giải pháp nâng cao hiệu lực, hiệu quả hoạt động kiểm tra chuyên ngành đối với hàng hóa xuất khẩu, nhập khẩu; xác định, chuẩn hóa mã số hàng hóa thuộc các Danh mục hàng hóa quản lý chuyên ngành phù hợp với Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -204,23 +99,9 @@ const quiz2 = [
       "Tổ chức thực hiện các công việc về cải cách, hiện đại hóa và hội nhập quốc tế trong lĩnh vực nghiệp vụ giám quản theo quy định của pháp luật và phân công của Tổng cục trưởng Tổng cục Hải quan.",
       "Tổ chức nghiên cứu khoa học, ứng dụng công nghệ hiện đại trong lĩnh vực được phân công theo quy định của pháp luật.",
       "Tham gia xây dựng chương trình, giáo trình và giảng dạy nghiệp vụ thuộc lĩnh vực nghiệp vụ giám quản.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -229,24 +110,10 @@ const quiz2 = [
       "Quy chế, quy trình nghiệp vụ về thủ tục hải quan và kiểm tra, giám sát hải quan; kiểm tra và xác định xuất xứ hàng hóa, thực thi bảo vệ quyền sở hữu trí tuệ và nhãn mác hàng hóa; hướng dẫn trả lời vướng mắc thuộc lĩnh vực nghiệp vụ giám quản thuộc thẩm quyền của Tổng cục trưởng Tổng cục Hải quan.",
       "Kiến nghị cấp có thẩm quyền xem xét, sửa đổi, bổ sung quy định liên quan đến lĩnh vực nghiệp vụ giám quản thuộc thẩm quyền của các Bộ, cơ quan ngang Bộ, Ủy ban Nhân dân tỉnh, thành phố liên quan.",
       "Quyết định thành lập, chấm dứt, di chuyển, mở rộng, thu hẹp, chuyển quyền sở hữu hoặc đổi tên chủ sở hữu: kho ngoại quan; kho bảo thuế; địa điểm kiểm tra hàng hóa tập trung; địa điểm thu gom hàng lẻ (CFS); địa điểm tập kết, kiểm tra hàng hóa xuất khẩu, nhập khẩu ở biên giới; đại lý làm thủ tục hải quan; địa điểm chuyển phát nhanh, địa điểm kiểm tra hải quan khác theo quy định pháp luật.",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+      "Tất cả câu trên đều đúng.",
     ],
 
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -255,23 +122,9 @@ const quiz2 = [
       "Đề xuất, kiến nghị cấp có thẩm quyền xem xét sửa đổi bổ sung các văn bản quy phạm pháp luật và văn bản quy định khác liên quan đến nghiệp vụ giám quản.",
       "Quyết định ban hành mẫu ấn chỉ có liên quan đến thủ tục hải quan, kiểm tra, giám sát hải quan.",
       "Quyết định thành lập, chấm dứt, di chuyển, mở rộng, thu hẹp, chuyển quyền sở hữu hoặc đổi tên chủ sở hữu: địa điểm làm thủ tục hải quan ngoài cửa khẩu, địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa được thành lập trong nội địa, kho hàng không kéo dài và địa điểm khác theo quy định pháp luật.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "1: Cục Kiểm tra sau thông quan có nhiệm vụ:",
@@ -279,23 +132,9 @@ const quiz2 = [
       "Thực hiện nhiệm vụ hợp tác quốc tế về kiểm tra sau thông quan theo quy định của pháp luật và phân công của Tổng cục trưởng Tổng cục Hải quan.",
       "Tổ chức nghiên cứu khoa học, ứng dụng công nghệ hiện đại trong lĩnh vực được phân công theo quy định của pháp luật.",
       "Tổ chức lưu trữ hồ sơ, tài liệu có liên quan đến công tác kiểm tra sau thông quan và doanh nghiệp ưu tiên theo quy định của pháp luật.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -342,24 +181,10 @@ const quiz2 = [
       "Tiến hành kiểm tra, xác minh thông tin trong và ngoài nước phục vụ công tác kiểm tra sau thông quan; tiến hành khởi tố vụ án theo quy định của pháp luật tố tụng hình sự.",
       "Áp dụng các biện pháp ngăn chặn, tiến hành xử phạt hành chính theo quy định của pháp luật về xử lý vi phạm hành chính.",
       "Áp dụng các biện pháp cưỡng chế thi hành quyết định hành chính thuộc thẩm quyền theo quy định của pháp luật.",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+      "Tất cả câu trên đều đúng.",
     ],
 
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "6: Cơ cấu tổ chức của Cục Kiểm tra sau thông quan gồm:",
@@ -477,24 +302,10 @@ const quiz2 = [
       "Quyết định kiểm tra sau thông quan, ấn định thuế, trực tiếp tổ chức thực hiện kiểm tra sau thông quan và thẩm định, quản lý doanh nghiệp ưu tiên theo quy định của pháp luật.",
       "Chỉ đạo, hướng dẫn, kiểm tra các Cục Hải quan về hoạt động kiểm tra sau thông quan và doanh nghiệp ưu tiên theo quy định của pháp luật.",
       "Tổ chức thu thập, tổng hợp, phân tích, xử lý thông tin phục vụ hoạt động kiểm tra sau thông quan. Áp dụng các biện pháp nghiệp vụ, thực hiện giao dịch với các tổ chức, cá nhân trong nước và ngoài nước, tổ chức tiếp nhận tin báo, tố giác từ các nguồn công khai và bí mật, trong và ngoài nước; yêu cầu các cơ quan, đơn vị có liên quan cung cấp thông tin, tài liệu để phục vụ công tác kiểm tra sau thông quan và thẩm định, quản lý doanh nghiệp ưu tiên.",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+      "Tất cả câu trên đều đúng.",
     ],
 
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "16: Cục Kiểm tra sau thông quan có:",
@@ -567,14 +378,7 @@ const quiz2 = [
       "Giải quyết khiếu nại, tố cáo trong lĩnh vực chính sách thuế và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu; các cơ chế tài chính liên quan đến thu ngân sách nhà nước.",
       "Kết quả thẩm định các hồ sơ miễn thuế, giảm thuế, hoàn thuế, gia hạn và xóa nợ thuế đối với hàng hóa xuất khẩu, nhập khẩu để trình cấp có thẩm quyền quyết định.",
       "Văn bản thông báo kết quả xác định trước trị giá hải quan đối với hàng hóa xuất khẩu, nhập khẩu.",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+      "Tất cả câu trên đều đúng.",
     ],
 
     correct:
@@ -586,14 +390,7 @@ const quiz2 = [
       "Thực hiện hợp tác quốc tế trong phạm vi nhiệm vụ được giao theo quy định của pháp luật và phân công của Tổng cục trưởng Tổng cục Hải quan.",
       "Phối hợp với các đơn vị thuộc Tổng cục Hải quan xây dựng chương trình, nội dung giảng dạy đào tạo, bồi dưỡng nghiệp vụ về thuế, quản lý thuế trong ngành hải quan.",
       "Tổ chức công tác thu ngân sách, chống gian lận về thuế, quản lý nợ thuế.",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+      "Tất cả câu trên đều đúng.",
     ],
     correct:
       "Phối hợp với các đơn vị thuộc Tổng cục Hải quan xây dựng chương trình, nội dung giảng dạy đào tạo, bồi dưỡng nghiệp vụ về thuế, quản lý thuế trong ngành hải quan.",
@@ -604,14 +401,7 @@ const quiz2 = [
       "Tổ chức kiểm tra cơ quan hải quan các cấp thực hiện chính sách, quy trình nghiệp vụ, quy chế nội bộ về trị giá hải quan, chính sách thuế và quản lý thuế, kế toán thuế và thu khác đối với hàng hóa xuất khẩu, nhập khẩu; các cơ chế tài chính liên quan đến thu ngân sách nhà nước đối với hàng hóa xuất khẩu, nhập khẩu thuộc thẩm quyền của Tổng cục trưởng Tổng cục Hải quan theo quy định của pháp luật.",
       "Thẩm định, đề xuất khen thưởng định kỳ, đột xuất đối với các đơn vị, cá nhân ngoài ngành hải quan có thành tích trong công tác thu thuế đối với hàng hóa xuất khẩu, nhập khẩu.",
       "Tổ chức nghiên cứu khoa học, ứng dụng công nghệ hiện đại trong lĩnh vực được phân công theo quy định của pháp luật.",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+      "Tất cả câu trên đều đúng.",
     ],
     correct:
       "Tổ chức nghiên cứu khoa học, ứng dụng công nghệ hiện đại trong lĩnh vực được phân công theo quy định của pháp luật.",
@@ -649,14 +439,7 @@ const quiz2 = [
       "Phòng Chính sách thuế.",
       "Phòng Phân loại hàng hóa - Biểu thuế.",
       "Phòng Dự toán - Quản lý thu ngân sách.",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+      "Tất cả câu trên đều đúng.",
     ],
     correct: "Phòng Chính sách thuế.",
   },
@@ -746,23 +529,9 @@ const quiz2 = [
       "Thực hiện hợp tác quốc tế về thu thập, xử lý thông tin, quản lý rủi ro, quản lý tuân thủ theo quy định của pháp luật và phân công của Tổng cục trưởng Tổng cục Hải quan.",
       "Thực hiện công tác đào tạo, bồi dưỡng về lĩnh vực nghiệp vụ theo phân công của Tổng cục trưởng Tổng cục Hải quan.",
       "Tổ chức nghiên cứu khoa học, ứng dụng công nghệ hiện đại trong các lĩnh vực được phân công theo quy định của pháp luật.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "8: Cục Quản lý rủi ro không bao gồm phòng nào sau đây:",
@@ -817,23 +586,9 @@ const quiz2 = [
       "Hướng dẫn, chỉ đạo và kiểm tra các Cục Hải quan tỉnh, liên tỉnh, thành phố thực hiện nhiệm vụ công tác phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới; phòng, chống ma túy; bảo vệ quyền sở hữu trí tuệ, chống hàng giả trong lĩnh vực hải quan; công tác thu thập, xử lý thông tin nghiệp vụ kiểm soát hải quan và công tác điều tra theo trình tự tố tụng hình sự thuộc thẩm quyền của cơ quan hải quan.",
       "Thu thập, xử lý thông tin từ các nguồn công khai và bí mật, trong và ngoài nước liên quan đến hoạt động kiểm soát hải quan; xây dựng và quản lý cơ sở dữ liệu thông tin nghiệp vụ kiểm soát hải quan; đầu mối của Tổng cục Hải quan trong hợp tác quốc tế để trao đổi thông tin nghiệp vụ kiểm soát hải quan với các tổ chức tình báo hải quan khu vực và thế giới, hải quan các nước và các tổ chức quốc tế khác.",
       "Tổ chức thực hiện kết nối, tiếp nhận và khai thác thông tin, dữ liệu từ hệ thống thông tin nghiệp vụ trực tuyến để phục vụ cho công tác phòng, chống buôn lậu, gian lận thương mại và công tác chỉ đạo, điều hành của Tổng cục trưởng Tổng cục Hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "3: Cục điều tra chống buôn lậu có nhiệm vụ:",
@@ -841,23 +596,9 @@ const quiz2 = [
       "Thực hiện công tác đào tạo, bồi dưỡng về lĩnh vực nghiệp vụ theo phân công của Tổng cục trưởng Tổng cục Hải quan.",
       "Tổ chức nghiên cứu khoa học, ứng dụng công nghệ hiện đại trong lĩnh vực được phân công theo quy định của pháp luật.",
       "Thực hiện hợp tác quốc tế trong phạm vi nhiệm vụ được giao theo quy định của pháp luật và phân công của Tổng cục trưởng Tổng cục Hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -866,23 +607,9 @@ const quiz2 = [
       "Văn bản quy phạm pháp luật về các biện pháp nghiệp vụ kiểm soát hải quan; công tác phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới; phòng, chống ma túy; bảo vệ quyền sở hữu trí tuệ, chống hàng giả trong lĩnh vực hải quan; công tác thu thập, xử lý thông tin nghiệp vụ kiểm soát hải quan và công tác điều tra theo trình tự tố tụng hình sự thuộc thẩm quyền của cơ quan hải quan.",
       "Đề án, chương trình, kế hoạch dài hạn về công tác phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới; phòng, chống ma túy; bảo vệ quyền sở hữu trí tuệ, chống hàng giả trong lĩnh vực hải quan; công tác thu thập, xử lý thông tin nghiệp vụ kiểm soát hải quan;",
       "Đề xuất, kiến nghị cấp có thẩm quyền xem xét việc sửa đổi, bổ/sung các văn bản quy phạm pháp luật liên quan đến lĩnh vực được phân công quản lý.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "5: Cơ cấu tổ chức của cục điều tra chống buôn lậu gồm:",
@@ -900,23 +627,9 @@ const quiz2 = [
       "Phòng Tham mưu tổng hợp.",
       "Phòng Thu thập, xử lý thông tin nghiệp vụ kiểm soát hải quan.",
       "Phòng Giám sát hải quan trực tuyến",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -925,23 +638,9 @@ const quiz2 = [
       "Phòng Hạ tầng kỹ thuật công nghệ thông tin.",
       "Phòng Quản lý Cổng thông tin điện tử hải quan.",
       "Phòng Quản lý dự án công nghệ thông tin.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -950,14 +649,7 @@ const quiz2 = [
       "Phòng Quản lý an ninh thông tin.",
       "Phòng Quản lý, vận hành cơ chế một cửa quốc gia và ASEAN.",
       "Trung tâm Quản lý vận hành hệ thống công nghệ thông tin hải quan (đơn vị sự nghiệp).",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+      "Tất cả câu trên đều đúng.",
     ],
     correct: "",
   },
@@ -967,23 +659,9 @@ const quiz2 = [
       "Phòng Tổng hợp.",
       "Phòng Phát triển ứng dụng.",
       "Phòng Thống kê hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -997,23 +675,9 @@ const quiz2 = [
       "Chủ trì hoặc phối hợp với các đơn vị liên quan thực hiện các hoạt động đầu tư ứng dụng công nghệ thông tin sau khi được phê duyệt",
       "Tổ chức thẩm định công tác mua sắm hàng hóa và dịch vụ trong lĩnh vực công nghệ thông tin của các đơn vị trong ngành hải quan theo phân cấp quản lý của Bộ trưởng Bộ Tài chính và Tổng cục trưởng Tổng cục Hải quan.",
       "Thống nhất quản lý và chủ trì xây dựng, triển khai, duy trì, đảm bảo an ninh thông tin đối với hệ thống phần cứng, mạng máy tính, phần mềm hệ thống, phần mềm ứng dụng, hạ tầng truyền thông ngành hải quan thuộc hạ tầng truyền thông ngành tài chính và các trang thiết bị kỹ thuật có kết nối với hệ thống công nghệ thông tin trong ngành hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -1032,23 +696,9 @@ const quiz2 = [
       "Tổ chức xây dựng, quản lý cơ sở dữ liệu điện tử của ngành hải quan; quản lý, vận hành các hệ thống công nghệ thông tin tập trung của ngành hải quan; quản lý chữ ký số trong hoạt động hải quan.",
       "Chủ trì đảm bảo hạ tầng công nghệ thông tin (phần cứng, phần mềm) phục vụ công tác hải quan; chủ trì công nhận hợp chuẩn với hệ thống công nghệ thông tin hải quan; tham gia về mặt kỹ thuật đối với việc xây dựng, triển khai các hệ thống, trang thiết bị kỹ thuật của ngành hải quan có kết nối với hệ thống công nghệ thông tin; thực hiện kết nối, trao đổi dữ liệu điện tử giữa ngành hải quan với các cơ quan, tổ chức có liên quan theo quy định của pháp luật.",
       "Xây dựng, phát triển, quản lý và đảm bảo hoạt động cho Cổng thông tin điện tử của Tổng cục Hải quan; triển khai, quản lý các giao dịch điện tử trên Cổng thông tin điện tử, cung cấp dịch vụ công điện tử của Tổng cục Hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng. ",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng. ",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -1057,23 +707,9 @@ const quiz2 = [
       "Chiến lược, chương trình, quy hoạch kế hoạch dài hạn, 5 năm về phát triển, ứng dụng công nghệ thông tin và thống kê của Tổng cục Hải quan; chương trình, kế hoạch điều chỉnh, bổ sung các dự án ứng dụng công nghệ thông tin chưa nằm trong kế hoạch 5 năm của Tổng cục Hải quan.",
       "Các văn bản quy phạm pháp luật về ứng dụng công nghệ thông tin trong công tác quản lý hải quan và thống kê nhà nước về hải quan.",
       "Chủ trương đầu tư các dự án ứng dụng công nghệ thông tin chưa nằm trong kế hoạch 5 năm của Tổng cục Hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "9: Cục Công nghệ thông tin và Thống kê hải quan:",
@@ -1091,24 +727,10 @@ const quiz2 = [
       "Phòng Tổng hợp.",
       "Phòng Tham mưu xử lý.",
       "Phòng Kiểm định.",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+      "Tất cả câu trên đều đúng",
     ],
 
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question: "2: Cơ cấu tổ chức của cục kiểm định gồm:",
@@ -1127,23 +749,9 @@ const quiz2 = [
       "Văn bản quy phạm pháp luật về kiểm định, phân tích, giám định đối với hàng hóa xuất khẩu, nhập khẩu.",
       "Chiến lược, kế hoạch, chương trình và đề án dài hạn, trung hạn và hàng năm về kiểm định, phân tích, giám định đối với hàng hóa xuất khẩu, nhập khẩu.",
       "Giải quyết vướng mắc về thực thi kiểm định, phân tích, giám định để phân loại đối với hàng hóa xuất khẩu, nhập khẩu sau kiểm định, phân tích, giám định và kiểm tra chuyên ngành vượt quá thẩm quyền của Tổng cục trưởng Tổng cục Hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -1152,23 +760,9 @@ const quiz2 = [
       "Văn bản hướng dẫn, kiểm tra nghiệp vụ, quy trình và quy chế về kiểm định, phân tích, giám định để phân loại đối với hàng hóa xuất khẩu, nhập khẩu sau kiểm định, phân tích, giám định và kiểm tra chuyên ngành theo chỉ định của các Bộ, cơ quan ngang Bộ quản lý chuyên ngành đối với hàng xuất khẩu, nhập khẩu.",
       "Ý kiến kiến nghị với các Bộ, ngành về giải quyết vướng mắc liên quan đến kiểm định, phân tích, giám định và phân loại đối với hàng hóa xuất khẩu, nhập khẩu sau kiểm định, phân tích, giám định và kiểm tra chất lượng, kiểm tra an toàn thực phẩm theo yêu cầu của các Bộ, cơ quan ngang Bộ quản lý chuyên ngành đối với một số mặt hàng xuất khẩu, nhập khẩu.",
       "Chủ trương đầu tư cơ sở vật chất và nguồn nhân lực để thực hiện công tác kiểm tra chuyên ngành theo chỉ định của các Bộ, cơ quan ngang Bộ quản lý chuyên ngành đối với hàng xuất khẩu, nhập khẩu.",
-      "",
+      "Câu a và b đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " a và b đúng.",
-    ],
-    correct: "",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " a và b đúng.",
+    correct: "Câu a và b đúng.",
   },
   {
     question: "5: Cơ cấu tổ chức của Cục kiểm định gồm mấy phòng?",
@@ -1186,31 +780,10 @@ const quiz2 = [
     choices: [
       "Quốc hội",
       "Hội đồng nhân dân các cấp",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
+      "Tất cả câu trên đều sai",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều sai",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question:
@@ -1219,23 +792,9 @@ const quiz2 = [
       "Thực hiện hành vi gian dối trong việc làm thủ tục hải quan",
       "Buôn lậu, vận chuyển trái phép hàng hóa qua biên giới",
       "Gian lận thương mại, gian lận thuế",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question:
@@ -1277,23 +836,9 @@ const quiz2 = [
       "Phối hợp với cơ quan hải quan",
       "Tạo điều kiện để cơ quan hải quan làm nhiệm vụ",
       "Chống phá cơ quan hải quan",
-      "",
+      "Câu a và b đúng",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " a và b đúng",
-    ],
-    correct: "",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " a và b đúng",
+    correct: "Câu a và b đúng",
   },
   {
     question:
@@ -1301,31 +846,10 @@ const quiz2 = [
     choices: [
       "Chủ trì",
       "Phối hợp chặt chẽ với các đơn vị khác",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
+      "Tất cả câu trên đều sai",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều sai",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question:
@@ -1340,23 +864,9 @@ const quiz2 = [
       "xuất khẩu, nhập khẩu",
       "Xuất cảnh, nhập cảnh",
       "Quá cảnh",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question:
@@ -1419,31 +929,10 @@ const quiz2 = [
     choices: [
       "Tập trung",
       "Thống nhất",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
+      "Tất cả câu trên đều sai.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều sai.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -1452,23 +941,9 @@ const quiz2 = [
       "Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc trung ương",
       "Tổng cục Hải quan",
       "Chi cục Hải quan, Đội Kiểm soát Hải quan và đơn vị tương đương",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -1614,23 +1089,9 @@ const quiz2 = [
       "Thực hiện quyền, nghĩa vụ và lợi ích của Nhà nước Việt Nam tại Tổ chức Hải quan thế giới, các tổ chức quốc tế có liên quan về hải quan, các nước và vùng lãnh thổ.",
       "Tổ chức khai thác, trao đổi thông tin và hợp tác nghiệp vụ với Hải quan các nước, các tổ chức quốc tế có liên quan.",
       "Cử công chức hải quan Việt Nam ra nước ngoài và tiếp nhận công chức hải quan nước ngoài vào Việt Nam để thực hiện các hoạt động nghiệp vụ hải quan theo quy định của pháp luật về hải quan, điều ước quốc tế mà CHXHCN Việt Nam là thành viên hoặc thỏa thuận quốc tế đã ký kết.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -1645,23 +1106,9 @@ const quiz2 = [
       "Các địa điểm kiểm tra hàng hóa xuất khẩu, nhập khẩu trong lãnh thổ hải quan.",
       "Khu vực, địa điểm khác đáp ứng yêu cầu quản lý nhà nước, được phép xuất khẩu, nhập khẩu, quá cảnh hàng hóa, xuất cảnh, nhập cảnh, quá cảnh phương tiện vận tải theo quyết định của Thủ tướng Chính phủ.",
       "Trong địa bàn hoạt động hải quan, cơ quan hải quan chịu trách nhiệm kiểm tra, giám sát, kiểm soát đối với hàng hóa, phương tiện vận tải và xử lý vi phạm pháp luật về hải quan phù hợp với pháp luật Việt Nam, điều ước quốc tế mà CHXHCN Việt Nam là thành viên.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -1691,23 +1138,9 @@ const quiz2 = [
       "Đại lý thủ tục hải quan.",
       "Người khác được chủ hàng hóa, chủ phương tiện vận tải ủy quyền thực hiện thủ tục hải quan.",
       "Người nhà của chủ hàng hóa.",
-      "",
+      "Câu a và b đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " a và b đúng.",
-    ],
-    correct: "",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " a và b đúng.",
+    correct: "Câu a và b đúng.",
   },
   {
     question:
@@ -1738,23 +1171,9 @@ const quiz2 = [
       "Tổ chức, cá nhân thực hiện xuất khẩu, nhập khẩu, quá cảnh hàng hóa, xuất cảnh, nhập cảnh, quá cảnh phương tiện vận tải.",
       "Cơ quan hải quan, công chức hải quan.",
       "Cơ quan khác của Nhà nước trong việc phối hợp quản lý nhà nước về hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -1787,35 +1206,14 @@ const quiz2 = [
       "Pháp luật",
       "Dựa vào nhân dân",
       "Chịu sự giám sát của nhân dân",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question:
       "45: Phạm vi điều chỉnh của Luật hải quan 54/2013/QH13 trích của những chương nào?",
-    choices: ["Chương 1", "Chương 2", "Chương 7", "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng"],
+    choices: ["Chương 1", "Chương 2", "Chương 7", "Tất cả câu trên đều đúng"],
     correct: "Chương 1",
   },
   {
@@ -1824,31 +1222,10 @@ const quiz2 = [
     choices: [
       "Thi hành pháp luật về hải quan",
       "Giám sát việc thi hành pháp luật về hải quan",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
+      "Tất cả câu trên đều sai",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều sai",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question:
@@ -1868,23 +1245,9 @@ const quiz2 = [
       "Hàng hóa được xuất khẩu, nhập khẩu, quá cảnh, phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh của tổ chức, cá nhân trong nước và nước ngoài trong lãnh thổ hải quan",
       "Hàng hóa được xuất khẩu, nhập khẩu, quá cảnh, phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh của doanh nghiệp, cá nhân trong nước và nước ngoài trong lãnh thổ hải quan",
       "Tổ chức và hoạt động của hải quan",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question: "49: Lãnh thổ hải quan bao gồm những khu vực nào sau đây?",
@@ -1892,23 +1255,9 @@ const quiz2 = [
       "Khu vực trong lãnh thổ nơi luật hải quan được áp dụng",
       "Vùng đặc quyền kinh tế nơi luật hải quan được áp dụng",
       "Thềm lục địa nơi luật hải quan được áp dụng",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question:
@@ -1945,23 +1294,9 @@ const quiz2 = [
       "Chế độc phục vụ, chức danh, tiêu chuẩn.",
       "Lương, phụ cấp thâm niên.",
       "Các chế độ đãi ngộ khác đối với công chức hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -1976,23 +1311,9 @@ const quiz2 = [
       "Báo cáo quyết toán chi ngân sách hàng năm của Tổng cục Hải quan.",
       "Chương trình, kế hoạch dài hạn, trung hạn về kinh phí hoạt động, đầu tư phát triển, xây dựng, mua sắm tài sản, trang thiết bị kỹ thuật, vũ khí công cụ hỗ trợ, phương tiện làm việc và trang chế phục của Tổng cục Hải quan.",
       "Tổng hợp, lập dự toán chi ngân sách nhà nước; kế hoạch, danh Mục đầu tư xây dựng, ứng dụng công nghệ thông tin, mua sắm, sửa chữa tài sản, trang thiết bị hàng năm của Tổng cục Hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "2: Cơ cấu tổ chức của Cục Tài vụ - Quản trị gồm:",
@@ -2010,23 +1331,9 @@ const quiz2 = [
       "Phòng Tổng hợp và Kiểm tra nội bộ",
       "Phòng Quản lý Tài chính",
       "Phòng Quản lý Đầu tư xây dựng",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng ",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng ",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question: "4: Cơ cấu tổ chức của Cục Tài vụ - Quản trị gồm mấy phòng?",
@@ -2039,23 +1346,9 @@ const quiz2 = [
       "Hướng dẫn, tổ chức thực hiện và kiểm tra việc thực hiện Luật Thực hành Tiết kiệm, chống lãng phí trong các đơn vị thuộc Tổng cục Hải quan theo quy định.",
       "Chủ đầu tư các dự án đầu tư xây dựng; thực hiện mua sắm tập trung tại Tổng cục Hải quan theo phân cấp của Bộ trưởng Bộ Tài chính và Tổng cục trưởng Tổng cục Hải quan.",
       "Quản lý, bảo quản, cấp phát ấn chỉ, niêm phong hải quan vật tư, hàng hóa tại kho của Tổng cục Hải quan.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -2064,23 +1357,9 @@ const quiz2 = [
       "Chương trình, kế hoạch dài hạn, hàng năm về công tác tổ chức cán bộ của Tổng cục Hải quan",
       "Tiêu chuẩn chức danh chuyên môn nghiệp vụ các ngạch công chức hải quan; tiêu chuẩn các chức danh lãnh đạo thuộc thẩm quyền quản lý của Bộ Tài chính",
       "Kế hoạch biên chế, cơ cấu ngạch, tuyển dụng, chuyển loại, chuyển ngạch và các chế độ chính sách khác đối với công chức, viên chức của Tổng cục Hải quan theo quy định của pháp luật và phân cấp quản lý cán bộ của Bộ Tài chính",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "2: Vụ Tổ chức cán bộ có nhiệm vụ:",
@@ -2088,23 +1367,9 @@ const quiz2 = [
       "Tổ chức kiểm tra và hướng dẫn các đơn vị tự kiểm tra việc thực hiện các quy định của Nhà nước và của Bộ Tài chính về công tác tổ chức cán bộ.",
       "Chủ trì phối hợp với các đơn vị liên quan giải quyết các đơn thư, khiếu nại, tố cáo liên quan đến công tác tổ chức cán bộ.",
       "Là đầu mối đề xuất cử giám định viên thực hiện giám định tư pháp về hải quan theo quy định của pháp luật.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng. ",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng. ",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "3:Vụ Tổ chức cán bộ có nhiệm vụ:",
@@ -2112,23 +1377,9 @@ const quiz2 = [
       "Thực hiện công tác tổng hợp, thống kê, phân tích, đánh giá tình hình công tác tổ chức cán bộ của Tổng cục Hải quan theo chế độ quy định",
       "Tổ chức nghiên cứu, thí điểm, tổng kết rút kinh nghiệm, đề xuất triển khai hiện đại hóa công tác quản lý nguồn nhân lực của Tổng cục Hải quan",
       "Tổ chức nghiên cứu khoa học, ứng dụng công nghệ hiện đại trong lĩnh vực được phân công theo quy định của pháp luật",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question: "4: Vụ Tổ chức cán bộ làm việc theo chế độ:",
@@ -2174,23 +1425,9 @@ const quiz2 = [
       "Có tư cách pháp nhân, con dấu riêng, được mở tài khoản tại Kho bạc Nhà nước và ngân hàng theo quy định của pháp luật.",
       "Có tư cách pháp nhân, con dấu hình quốc huy, được mở tài khoản tại Kho bạc Nhà nước và ngân hàng theo quy định của pháp luật.",
       "Có tư cách pháp nhân, con dấu chung, được mở tài khoản tại Kho bạc Nhà nước và ngân hàng theo quy định của pháp luật.",
-      "Tất cả ",
+      "Tất cả câu trên đều sai.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều sai.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều sai.",
+    correct: "Tất cả câu trên đều sai.",
   },
   {
     question: "4: Vụ Hợp tác quốc tế có:",
@@ -2304,23 +1541,9 @@ const quiz2 = [
       "Chức năng, nhiệm vụ",
       "Quyền hạn",
       "Cơ cấu tổ chức",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question:
@@ -2329,54 +1552,19 @@ const quiz2 = [
       "Các dự án Luật, dự án pháp lệnh, dự thảo nghị quyết của Quốc hội; dự thảo nghị quyết của Ủy ban Thường vụ Quốc hội; dự thảo nghị quyết, nghị định của Chính phủ; dự thảo quyết định, chỉ thị của Thủ tướng Chính phủ về hải quan.",
       "Chiến lược, quy hoạch, kế hoạch, chương trình mục tiêu quốc gia, chương trình hành động, đề án, dự án quan trọng về hải quan.",
       "Dự toán thu thuế xuất nhập khẩu hàng năm theo quy định của Luật Ngân sách nhà nước.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "14: Chức năng của Tổng cục Hải quan là gì?",
     choices: [
       "Tham mưu, giúp Bộ trưởng Bộ tài chính quản lý nhà nước về hải quan",
       "Thực thi pháp luật về hải quan trong phạm vi cả nước",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng",
+      "Tất cả câu trên đều sai",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
-      "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều sai",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng",
+    correct: "Tất cả câu trên đều đúng",
   },
   {
     question:
@@ -2406,23 +1594,9 @@ const quiz2 = [
       "Thanh tra, kiểm tra việc thực hiện chính sách, pháp luật, nghiệp vụ được giao của các tổ chức, cá nhân thuộc thẩm quyền quản lý của Tổng cục trưởng Tổng cục Hải quan",
       "Thanh tra, kiểm tra đối với tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài tại Việt Nam trong việc chấp hành các quy định pháp luật về hải quan, pháp luật về thuế và các khoản thu khác đối với hàng hóa xuất nhập khẩu",
       "Xử lý theo thẩm quyền hoặc kiến nghị cơ quan nhà nước có thẩm quyền xử lý các vi phạm pháp luật trong lĩnh vực hải quan",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "2: Vụ thanh tra kiểm tra có nhiệm vụ:",
@@ -2430,23 +1604,9 @@ const quiz2 = [
       "Theo dõi, kiểm tra, đôn đốc việc thực hiện các kết luận, kiến nghị, quyết định xử lý về thanh tra thuộc phạm vi quản lý của Tổng cục Hải quan. Là đầu mối tổng hợp báo cáo theo dõi, đôn đốc, kiểm tra đối với các tổ chức, đơn vị của Tổng cục Hải quan trong việc thực hiện các kiến nghị xử lý về trách nhiệm của các cơ quan Thanh tra, Kiểm toán Nhà nước, Cơ quan điều tra",
       "Giúp Tổng cục trưởng Tổng cục Hải quan tổ chức tiếp công dân; giải quyết khiếu nại tố cáo; tổ chức thực hiện công tác phòng, chống tham nhũng theo quy định của pháp luật",
       "Chủ trì thực hiện công tác liêm chính của Tổng cục Hải quan",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
@@ -2455,23 +1615,9 @@ const quiz2 = [
       "Chương trình, kế hoạch dài hạn, trung hạn và hàng năm về xây dựng các văn bản quy phạm pháp luật thuộc lĩnh vực hải quan",
       "Văn bản quy phạm pháp luật về hải quan theo phân công của Tổng cục trưởng Tổng cục Hải quan",
       "Ý kiến tham gia về dự thảo văn bản quy phạm pháp luật do các đơn vị thuộc Bộ Tài chính hoặc các cơ quan có liên quan gửi lấy ý kiến theo phân công của Tổng cục trưởng Tổng cục Hải quan",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "2: Vụ pháp chế có nhiệm vụ:",
@@ -2479,23 +1625,9 @@ const quiz2 = [
       "Chủ trì, phối hợp, hướng dẫn, kiểm tra các đơn vị thuộc và trực thuộc Tổng cụcHải quan thực hiện quản lý nhà nước về công tác trách nhiệm bồi thường của Nhà nước trong lĩnh vực hải quan theo quy định của pháp luật.",
       "Thực hiện công tác đào tạo, bồi dưỡng về lĩnh vực nghiệp vụ theo phân công của Tổng cục trưởng Tổng cục Hải quan.",
       "Tổ chức nghiên cứu khoa học, ứng dụng công nghệ hiện đại trong lĩnh vực được phân công theo quy định của pháp luật.",
-      "Tất cả ",
+      "Tất cả câu trên đều đúng.",
     ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
-    ],
-    correct: "Tất cả ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "1: Cục Hải quan Bắc Ninh có bao nhiêu chi cục, đội?",
