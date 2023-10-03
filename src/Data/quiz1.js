@@ -388,7 +388,14 @@ const quiz1 = [
       "Nguyên tắc tất cả quyền lực nhà nước thuộc về Nhân dân.",
       "Nguyên tắc công bằng, văn minh.",
       "Nguyên tắc quyền lực nhà nước thống nhất; có sự phân chia, phối hợp và kiểm soát giữa các cơ quan trong việc thực hiện các quyền lập pháp, hành pháp và tư pháp.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "Nguyên tắc quyền lực nhà nước thống nhất; có sự phân chia, phối hợp và kiểm soát giữa các cơ quan trong việc thực hiện các quyền lập pháp, hành pháp và tư pháp.",
@@ -1499,9 +1506,23 @@ const quiz1 = [
       "Quyết định chính sách để xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc.",
       "Bảo vệ và phát huy giá trị di sản văn hóa; khuyến khích phát triển các tài năng sáng tạo văn hóa, nghệ thuật.",
       "Quyết định các chinh sách để phát triển sự nghiệp thể dục, thể thao; huy động đầu tư các nguồn lực xã hội để nâng cao thể dục thể thao.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1510,9 +1531,23 @@ const quiz1 = [
       "Phát triển các hình thức hợp tác kinh tế với các quốc gia, vùng lãnh thổ và các tổ chức quốc tế.",
       "Tôn trọng độc lập, chủ quyền và cùng có lợi, hỗ trợ và thúc đẩy sản xuất trong nước.",
       "Khuyến khích đầu tư nước ngoài.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1521,9 +1556,23 @@ const quiz1 = [
       "Đầu tư, phát triển nhân lực y tế có chất lượng ngày càng cao.",
       "Tạo nguồn tài chính y tế bền vững để bảo vệ, chăm sóc sức khỏe của Nhân dân.",
       "Thực hiện các chính sách ưu tiên chăm sóc sức khỏe cho đồng bào dân tộc thiểu số, đồng bào ở miền núi, hải đảo và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1532,9 +1581,23 @@ const quiz1 = [
       "Duy trì quy mô và cơ cấu dân số hợp lý.",
       "Nâng cao chất lượng dân số và phân bố dân cư phù hợp với nhu cầu phát triển KT-XH, phát triển đô thị của cả nước.",
       "Kế hoạch hoá gia đình.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1542,9 +1605,23 @@ const quiz1 = [
     choices: [
       "Quyết định giao quyền Bộ trưởng, Thủ trưởng cơ quan ngang bộ theo đề nghị của Bộ trưởng Bộ Nội vụ trong trường hợp khuyết Bộ trưởng hoặc Thủ trưởng cơ quan ngang bộ.",
       "Trong thời gian giữa hai kỳ họp Hội đồng nhân dân cấp tỉnh, quyết định giao quyền Chủ tịch UBND cấp tỉnh theo đề nghị của Bộ trưởng Bộ Nội vụ trong trường hợp khuyết Chủ tịch UBND cấp tỉnh.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1552,7 +1629,14 @@ const quiz1 = [
     choices: [
       "Thủ tướng Chính phủ trình Ủy ban thường vụ Quốc hội xem xét, quyết định.",
       "Thủ tướng chính phủ trình Chủ tịch nước xem xét, quyết định.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "Thủ tướng Chính phủ trình Ủy ban thường vụ Quốc hội xem xét, quyết định.",
@@ -1608,9 +1692,23 @@ const quiz1 = [
       "Quyết định việc thành lập, sáp nhập, giải thể cơ quan thuộc Chính phủ.",
       "Quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ.",
       "Quy định về tổ chức các cơ quan chuyên môn thuộc UBND cấp tỉnh, UBND huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1630,9 +1728,23 @@ const quiz1 = [
       "Đề nghị Thủ tướng Chính phủ việc bổ nhiệm, miễn nhiệm, cách chức, cho từ chức Thứ trưởng hoặc Phó Thủ trưởng cơ quan ngang bộ.",
       "Ban hành văn bản quy phạm pháp luật theo thẩm quyền để thực hiện chức năng, nhiệm vụ quản lý nhà nước đối với ngành, lĩnh vực được phân công.",
       "Quyết định thành lập các đơn vị tổ chức sự nghiệp công lập theo quy định của pháp luật.",
-      "Tất cả câu trên đều sai.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều sai.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều sai.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều sai.",
   },
   {
     question:
@@ -1641,9 +1753,23 @@ const quiz1 = [
       "Chính phủ gửi dự thảo văn bản để UBTW và TCCT-XH có liên quan được tham gia ý kiến.",
       "Chính phủ thường xuyên thông báo cho UBTW và TCCT-XH về tình hình kinh tế - xã hội và các quyết định, chủ trương quan trọng của Chính phủ về Nhân dân.",
       "Chính phủ tạo điều kiện thuận lợi để UBTW và TCCT-XH  tuyên truyền, phổ biến pháp luật trong Nhân dân, động viên, tổ chức Nhân dân tham gia xây dựng và củng cố chính quyền nhân dân.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1652,9 +1778,23 @@ const quiz1 = [
       "Quốc hội.",
       "Ủy ban thường vụ Quốc hội.",
       "Chủ tịch nước.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1698,9 +1838,23 @@ const quiz1 = [
       "Kết quả, hiệu lực, hiệu quả hoạt động của bộ, cơ quan ngang bộ.",
       "Về các quyết định và kết quả thực hiện các quyết định trong phạm vi nhiệm vụ.",
       "Ngành, lĩnh vực được phân công.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1745,9 +1899,23 @@ const quiz1 = [
       "Thành viên Chính phủ và là người đứng đầu bộ, cơ quan ngang bộ, lãnh đạo công tác của bộ, cơ quan ngang bộ.",
       "Thành viên Chính phủ và là người chịu trách nhiệm quản lý nhà nước về ngành, lĩnh vực được phân công.",
       "Tổ chức thi hành và theo dõi việc thi hành pháp luật liên quan đến ngành, lĩnh vực trong phạm vi toàn quốc.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1776,7 +1944,14 @@ const quiz1 = [
     choices: [
       "Bộ trưởng, Thủ trưởng cơ quan ngang bộ khác.",
       "Thủ tướng Chính phủ.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct: "Bộ trưởng, Thủ trưởng cơ quan ngang bộ khác.",
   },
@@ -1793,9 +1968,23 @@ const quiz1 = [
       " 	Nhằm phát triển nguồn nhân lực; hướng nghiệp, tạo việc làm, cải thiện điều kiện làm việc; nâng cao năng suất lao động; bảo vệ quyền, lợi ích hợp pháp của người lao động, người sử dụng lao động.",
       "Xây dựng gia đình Việt Nam bình đẳng, ấm no, hạnh phúc; bảo đảm quyền bình đẳng nam, nữ về chính trị, kinh tế, văn hóa, xã hội và gia đình.",
       " 	Tổ chức và tạo điều kiện cho thanh thiếu niên được học tập, lao động và giải trí, phát triển thể lực, trí tuệ, bồi dưỡng về đạo đức, truyền thống dân tộc, ý thức công dân.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1804,9 +1993,23 @@ const quiz1 = [
       "Chỉ đạo thực hiện chính sách, kế hoạch phát triển khoa học và công nghệ; ứng dụng có hiệu quả các thành tựu khoa học và công nghệ.",
       "Huy động các nguồn lực xã hội để phát triển khoa học và công nghệ, đa dạng hóa và sử dụng có hiệu quả các nguồn đầu tư phát triển khoa học và công nghệ.",
       "Xây dựng cơ chế, chính sách để mọi người tham gia và được thụ hưởng lợi ích từ các hoạt động khoa học và công nghệ.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -1815,9 +2018,23 @@ const quiz1 = [
       " 	Chính phủ, Thủ tướng chính phủ.",
       "	Quốc hội, Uỷ ban thường vụ Quốc hội.",
       " Thanh tra chính phủ.",
-      "	Câu a và b đúng.",
+      "	",
     ],
-    correct: "	Câu a và b đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
+    ],
+    correct: "	",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
   },
   {
     question:
@@ -1831,7 +2048,14 @@ const quiz1 = [
     choices: [
       " Thủ tướng Chính phủ trình Ủy ban thường vụ Quốc hội xem xét, quyết định.",
       "	Thủ tướng chính phủ trình Chủ tịch nước xem xét, quyết định.",
-      " Tất cả câu trên đều đúng.",
+      " Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       " Thủ tướng Chính phủ trình Ủy ban thường vụ Quốc hội xem xét, quyết định.",
@@ -1863,7 +2087,14 @@ const quiz1 = [
     choices: [
       "Bộ máy giúp việc của Chính phủ, Thủ tướng Chính phủ, có chức năng tham mưu tổng hợp, giúp việc cho Chính phủ.",
       "	Cơ quan do Chính phủ thành lập, chịu trách nhiệm trước Chính phủ, Thủ tướng Chính phủ về nhiệm vụ và quyền hạn được giao.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "	Cơ quan do Chính phủ thành lập, chịu trách nhiệm trước Chính phủ, Thủ tướng Chính phủ về nhiệm vụ và quyền hạn được giao.",
@@ -1951,9 +2182,23 @@ const quiz1 = [
       "   Cán bộ, công chức được thanh toán những chi phí đi lại nhằm phục vụ mục đích thi hành công vụ.",
       "   Cán bộ, công chức sử dụng ngân sách cá nhân để thanh toán chi phí đi lại, và chi phí này sẽ không được bù hoàn.",
       "   Cán bộ, công chức được thanh toán chi phí đi lại theo quy định của Chính phủ.",
-      "   Câu a và c đúng.",
+      "   ",
     ],
-    correct: "   Câu a và c đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và c đúng.",
+    ],
+    correct: "   ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và c đúng.",
   },
   {
     question:
@@ -2008,7 +2253,14 @@ const quiz1 = [
       "   Hưởng án treo, hoặc cải tạo không giam giữ.",
       "   Kết án phạt tù và không được hưởng án treo.",
       "   Bị kết án về tội phạm tham nhũng.",
-      "   Câu b và c đúng.",
+      "   ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " b và c đúng.",
     ],
     correct: "   Kết án phạt tù và không được hưởng án treo.",
   },
@@ -2037,9 +2289,23 @@ const quiz1 = [
       "     Vị trí việc làm là công việc gắn với chức danh, chức vụ, cơ cấu và ngạch công chức để xác định biên chế và bố trí công chức trong cơ quan, tổ  chức, đơn vị",
       " Vị trí việc làm là để xác định biên chế và bố trí công chức trong cơ quan, tổ  chức, đơn vị",
       " Vị trí việc làm là công việc gắn với chức danh, chức vụ, để xác định biên chế và bố trí công chức trong cơ quan, tổ chức, đơn vị",
-      " Tất cả câu trên đều đúng.",
+      " Tất cả ",
     ],
-    correct: " Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: " Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question: " 13: Theo luật Cán bộ, Công chức 2008, 'giáng chức' là gì?",
@@ -2077,7 +2343,14 @@ const quiz1 = [
       "   Có tác phong, thái độ lịch sự, nghiêm túc, khiêm tốn.",
       "   Công bằng, vô tư, khách quan khi nhận xét, đánh giá.",
       "   Có tác phong lịch sự.",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct: "   Có tác phong, thái độ lịch sự, nghiêm túc, khiêm tốn.",
   },
@@ -2325,7 +2598,14 @@ const quiz1 = [
     choices: [
       "   Công chức giữ chức vụ lãnh đạo, quản lý.",
       "   Công chức không giữ chức vụ lãnh đạo, quản lý.",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct: "   Công chức không giữ chức vụ lãnh đạo, quản lý.",
   },
@@ -2411,7 +2691,14 @@ const quiz1 = [
       "Thanh tra Bộ Nội vụ",
       "Thanh tra Sở Nội vụ",
       "Thanh tra tỉnh",
-      "Tất cả câu trên đều sai.",
+      "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều sai.",
     ],
     correct: "Thanh tra tỉnh",
   },
@@ -2462,7 +2749,14 @@ const quiz1 = [
       "     Trung thành với Đảng Cộng sản Việt Nam, Nhà nước CHXHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; Tôn trọng Hiến pháp và pháp luật.",
       "    Tôn trọng nhân dân, tận tụy phục vụ nhân dân.",
       "   Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
-      "    Tất cả câu trên đều sai.",
+      "    Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều sai.",
     ],
     correct:
       "     Trung thành với Đảng Cộng sản Việt Nam, Nhà nước CHXHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; Tôn trọng Hiến pháp và pháp luật.",
@@ -2519,9 +2813,23 @@ const quiz1 = [
       "   Nâng lương trước thời hạn.",
       "   Ưu tiên khi xem xét bổ nhiệm chức vụ cao hơn.",
       "   Được trực tiếp bổ nhiệm chức vụ cao hơn.",
-      "   Câu a và b đúng",
+      "   ",
     ],
-    correct: "   Câu a và b đúng",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng",
+    ],
+    correct: "   ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng",
   },
   {
     question:
@@ -2548,12 +2856,26 @@ const quiz1 = [
     correct: "90 ngày",
   },
   {
-    question: " 64: Câu nào sau đây đúng?",
+    question: " 64: ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " nào sau đây đúng?",
     choices: [
       "   Việc khen thưởng, kỷ luật cán bộ, công chức được lưu vào hồ sơ cán bộ, công chức.",
       "   Chỉ việc kỷ luật cán bộ, công chức được lưu vào hồ sơ cán bộ, công chức.",
       "   Chỉ việc khen thưởng cán bộ, công chức được lưu vào hồ sơ cán bộ, công chức.",
-      "   Tất cả câu trên đều sai.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều sai.",
     ],
     correct:
       "   Việc khen thưởng, kỷ luật cán bộ, công chức được lưu vào hồ sơ cán bộ, công chức.",
@@ -2564,7 +2886,14 @@ const quiz1 = [
       "     Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong cơ quan, đơn vị thuộc Quân đội nhân dân mà không phải là sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng; trong cơ quan, đơn vị thuộc Công an nhân dân mà không phải là sĩ quan, hạ sĩ quan phục vụ theo chế độ chuyên nghiệp, công nhân công an. Trong biên chế và hưởng lương từ ngân sách nhà nước.",
       "    Người Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong cơ quan, đơn vị thuộc Quân đội nhân dân mà không phải là sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng; trong cơ quan, đơn vị thuộc Công an nhân dân mà không phải là sĩ quan, hạ sĩ quan chuyên nghiệp và trong bộ máy lãnh đạo, quản lý của đơn vị sự nghiệp công lập của Đảng Cộng sản Việt Nam, Nhà nước, tô chức chính trị - xã hội (sau đây gọi chung là đơn vị sự nghiệp công lập), trong biên chê và hưởng lương từ ngân sách nhà nước; đối với công chức trong bộ máy lãnh đạo, quản lý của đơn vị sự nghiệp công lập thì lương được bảo đảm từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật.",
       "     Người được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong cơ quan, đơn vị thuộc Quân đội nhân dân mà không phải là sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng; trong cơ quan, đơn vị thuộc Công an nhân dân mà không phải là sĩ quan, hạ sĩ quan chuyên nghiệp và trong bộ máy lãnh đạo, quản lý của đơn vị sự nghiệp công lập của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội (sau đây gọi chung là đơn vị sự nghiệp công lập), trong biên chê và hưởng lương từ ngân sách nhà nước; đối với công chức trong bộ máy lãnh đạo, quản lý của đơn vị sự nghiệp công lập thì lương được bảo đảm từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật.",
-      "    Tất cả câu trên đều đúng.",
+      "    Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "     Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong cơ quan, đơn vị thuộc Quân đội nhân dân mà không phải là sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng; trong cơ quan, đơn vị thuộc Công an nhân dân mà không phải là sĩ quan, hạ sĩ quan phục vụ theo chế độ chuyên nghiệp, công nhân công an. Trong biên chế và hưởng lương từ ngân sách nhà nước.",
@@ -2576,9 +2905,23 @@ const quiz1 = [
       "     Nhà nước có chính sách để phát hiện, thu hút đối với người có tài năng",
       "    Nhà nước bồi dưỡng, trọng dụng đối với người có tài năng",
       "     Nhà nước đãi ngộ xứng đáng đối với người có tài năng",
-      "    Tất cả câu trên đều đúng.",
+      "    Tất cả ",
     ],
-    correct: "    Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "    Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -2598,9 +2941,23 @@ const quiz1 = [
       "   Phù hợp với chức năng, nhiệm vụ, tổ chức bộ máy của cơ quan, tổ chức, đơn;",
       "   Được cơ quan nhà nước có thẩm quyền phê duyệt và tiêu chuẩn, định mức sử dụng;",
       "   Phù hợp về hình thức và mĩ quan;",
-      "   Câu a và b đúng.",
+      "   ",
     ],
-    correct: "   Câu a và b đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
+    ],
+    correct: "   ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
   },
   {
     question: " 69: Theo luật Cán bộ Công chức 2008, 'bãi nhiệm' là gì?",
@@ -2620,9 +2977,23 @@ const quiz1 = [
       "   Tổ chức thực hiện các quy định của pháp luật về dân chủ cơ sở, văn hóa công sở trong cơ quan, tổ chức, đơn vị; xử lý kịp thời, nghiêm minh cán bộ, công chức thuộc quyền quản lý có hành vi vi phạm kỷ luật, pháp luật, có thái độ quan liêu, hách dịch, cửa quyền, gây phiền hà cho công dân.",
       "   Giải quyết kịp thời, đúng pháp luật, theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền giải quyết khiếu nại, tố cáo và kiến nghị của cá nhân, tổ chức.",
       "   Kiểm tra, đôn đốc, hướng dẫn việc thi hành công vụ của cán bộ, công chức.",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
     ],
-    correct: "   Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -2642,7 +3013,14 @@ const quiz1 = [
       "   Xây dựng quy chế quản lý trang thiết bị làm việc.",
       "   Đảm bảo hiệu quả, tiết kiệm.",
       "   Đảm bảo chất lượng, giá cả hợp lý với ngân sách cơ quan, tổ chức, đơn vị.",
-      "   Tất cả câu trên đều sai.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều sai.",
     ],
     correct:
       "   Đảm bảo chất lượng, giá cả hợp lý với ngân sách cơ quan, tổ chức, đơn vị.",
@@ -2705,9 +3083,23 @@ const quiz1 = [
       "   Ưu tiên xem xét khi bổ nhiệm chức vụ cao hơn nếu cơ quan, tổ chức, đơn vị có nhu cầu.",
       "   Nâng lương trước thời hạn.",
       "   Nâng hai bậc lương so với mức lương hiện tại",
-      "   Câu a và b đúng.",
+      "   ",
     ],
-    correct: "   Câu a và b đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
+    ],
+    correct: "   ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
   },
   {
     question:
@@ -2727,9 +3119,23 @@ const quiz1 = [
       "   Khiển trách",
       "   Cảnh cáo",
       "   Xóa tư cách chức vụ đã đảm nhiệm gắn với hệ quả pháp lý tương ứng",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
     ],
-    correct: "   Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -2738,9 +3144,23 @@ const quiz1 = [
       "     Được bảo đảm trang thiết bị và các điều kiện làm việc khác theo quy định của pháp luật.",
       "    Được pháp luật bảo vệ khi thi hành công vụ.",
       "     Được đào tạo, bồi dưỡng nâng cao trình độ chính trị, chuyên môn, nghiệp vụ.",
-      "    Tất cả câu trên đều đúng.",
+      "    Tất cả ",
     ],
-    correct: "    Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "    Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -2772,7 +3192,14 @@ const quiz1 = [
       "     Công dân Việt Nam, được bầu cử, phê chuẩn, bổ nhiệm giữ chức vụ, chức danh theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, ở tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh), ở huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện), trong biên chế và hưởng lương từ ngân sách nhà nước.",
       "    Người Việt Nam, được bầu cử, phê chuẩn, bổ nhiệm giữ chức vụ, chức danh theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, ở tinh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh), ở huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện), trong biên chế và hưởng lương từ ngân sách nhà nước.",
       "     Công dân trên toàn thế giới, được bầu cử, phê chuẩn, bổ nhiệm giữ chức vụ, chức danh theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, ở tinh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh), ở huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện), trong biên chế và hưởng lương từ ngân sách nhà nước.",
-      "    Tất cả câu trên đều đúng.",
+      "    Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "     Công dân Việt Nam, được bầu cử, phê chuẩn, bổ nhiệm giữ chức vụ, chức danh theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, ở tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh), ở huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện), trong biên chế và hưởng lương từ ngân sách nhà nước.",
@@ -2823,12 +3250,26 @@ const quiz1 = [
   },
   {
     question:
-      " 90: Câu nào sau đây đúng với nội dung quản lý cán bộ, công chức theo quy định của Luật Cán bộ, công chức 2008?",
+      " 90: ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " nào sau đây đúng với nội dung quản lý cán bộ, công chức theo quy định của Luật Cán bộ, công chức 2008?",
     choices: [
       "   Tạo điều kiện cho công chức học tập, bồi dưỡng trình độ;",
       "   Ký hợp đồng làm việc;",
       "   Quy định ngạch, chức danh, mã số công chức; mô tả, quy định vị trí việc làm và cơ cấu công chức để xác định số lượng biên chế.",
-      "   Tất cả câu trên đều đúng. ",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng. ",
     ],
     correct:
       "   Quy định ngạch, chức danh, mã số công chức; mô tả, quy định vị trí việc làm và cơ cấu công chức để xác định số lượng biên chế.",
@@ -2839,9 +3280,23 @@ const quiz1 = [
       "   Do Nhà nước đầu tư xây dựng;",
       "   Do cơ quan có thẩm quyền quản lý cán bộ, công chức đầu tư xây dựng;",
       "   Để cán bộ, công chức được điều động, luân chuyển, biệt phái thuê trong thời gian đảm nhiệm công tác;",
-      "   Câu a và c đúng.",
+      "   ",
     ],
-    correct: "   Câu a và c đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và c đúng.",
+    ],
+    correct: "   ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và c đúng.",
   },
   {
     question:
@@ -2873,7 +3328,14 @@ const quiz1 = [
       "   Công dân Việt Nam, được bầu cử giữ chức vụ theo nhiệm kỳ trong Thường trực Hội đồng nhân dân, uỷ ban nhân dân, Bí thư, Phó bí thư Đảng uỷ, người đứng đầu tổ chức chính trị- xã hội.",
       "   Người Việt Nam, được bầu cử giữ chức vụ theo nhiệm kỳ trong Thường trực Hội đồng nhân dân, uỷ ban nhân dân, Bí thư, Phó bí thư Đảng uỷ, người đứng đầu tổ chức chính trị- xã hội.",
       "   Người được bầu cử giữ chức vụ theo nhiệm kỳ trong Thường trực Hội đồng nhân dân, uỷ ban nhân dân, Bí thư, Phó bí thư Đảng uỷ, người đứng đầu tổ chức chính trị- xã hội.",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "   Công dân Việt Nam, được bầu cử giữ chức vụ theo nhiệm kỳ trong Thường trực Hội đồng nhân dân, uỷ ban nhân dân, Bí thư, Phó bí thư Đảng uỷ, người đứng đầu tổ chức chính trị- xã hội.",
@@ -2976,7 +3438,14 @@ const quiz1 = [
       "   Cơ quan quản lý cán bộ, công chức là cơ quan, tổ chức, đơn vị được giao thẩm quyền tuyển dụng, bổ nhiệm, nâng ngạch, nâng lương, cho thôi việc, nghỉ hưu, giải quyết chế độ, chính sách và khen thưởng, kỷ luật đối với cán bộ, công chức.",
       "   Cơ quan quản lý cán bộ, công chức là cơ quan, tổ chức, đơn vị được giao thẩm quyền cho thôi việc, nghỉ hưu, giải quyết chế độ, chính sách và khen thưởng, kỷ luật đối với cán bộ, công chức.",
       "   Cơ quan quản lý cán bộ, công chức là cơ quan, tổ chức, đơn vị được giao thẩm quyền tuyển dụng, bổ nhiệm, nâng ngạch, nâng lương, cho thôi việc, nghỉ hưu, kỷ luật đối với cán bộ, công chức.",
-      "   Tất cả câu trên đều sai.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều sai.",
     ],
     correct:
       "   Cơ quan quản lý cán bộ, công chức là cơ quan, tổ chức, đơn vị được giao thẩm quyền tuyển dụng, bổ nhiệm, nâng ngạch, nâng lương, cho thôi việc, nghỉ hưu, giải quyết chế độ, chính sách và khen thưởng, kỷ luật đối với cán bộ, công chức.",
@@ -2986,10 +3455,24 @@ const quiz1 = [
     choices: [
       "   Là việc thực hiện nhiệm vụ.",
       "   Là quyền hạn của cán bộ, công chức theo quy định của luật CBCC và các quy định khác có liên quan.",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
       "   Không có đáp án đúng.",
     ],
-    correct: "   Tất cả câu trên đều đúng.",
+    correct: "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3101,9 +3584,23 @@ const quiz1 = [
       "   Xử lý kỷ luật, căn cứ vào tính chất, mức độ nghiêm trọng.",
       "   Xử lý hình sự, căn cứ vào tính chất, mức độ nghiêm trọng.",
       "   Xử lý hành chính, căn cứ vào tính chất, mức độ nghiêm trọng.",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
     ],
-    correct: "   Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3111,7 +3608,14 @@ const quiz1 = [
     choices: [
       "   Công chức giữ chức vụ lãnh đạo, quản lý.",
       "   Công chức không giữ chức vụ lãnh đạo, quản lý.",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct: "   Công chức giữ chức vụ lãnh đạo, quản lý.",
   },
@@ -3190,7 +3694,14 @@ const quiz1 = [
       "     Cơ quan sử dụng cán bộ, công chức là cơ quan, tổ chức, đơn vị được giao thẩm quyền quản lý, phân công, bố trí, kiểm tra việc thực hiện nhiệm vụ, quyền hạn của cán bộ, công chức.",
       "    Cơ quan sử dụng cán bộ, công chức là cơ quan, tổ chức, đơn vị được giao thẩm quyền quản lý, bố trí, kiểm tra việc thực hiện nhiệm vụ, quyền hạn của cán bộ, công chức.",
       "     Cơ quan sử dụng cán bộ, công chức là cơ quan, tổ chức, đơn vị được giao thẩm quyền kiểm tra việc thực hiện nhiệm vụ, quyền hạn của cán bộ, công chức.",
-      "    Tất cả câu trên đều đúng.",
+      "    Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "     Cơ quan sử dụng cán bộ, công chức là cơ quan, tổ chức, đơn vị được giao thẩm quyền quản lý, phân công, bố trí, kiểm tra việc thực hiện nhiệm vụ, quyền hạn của cán bộ, công chức.",
@@ -3251,9 +3762,23 @@ const quiz1 = [
       "   Cơ quan có thẩm quyền của Đảng Cộng sản Việt Nam hướng dẫn việc lập, quản lý hồ sơ cán bộ, công chức thuộc quyền quản lý.",
       "   Bộ Nội vụ hướng dẫn việc lập, quản lý hồ sơ cán bộ, công chức, trừ trường hợp thuộc quyền quản lý của cơ quan có thẩm quyền của Đảng Cộng sản Việt Nam.",
       "   Bộ Nội vụ hướng dẫn việc lập, quản lý hồ sơ cán bộ, công chức của tất cả các cơ quan, tổ chức, đơn vị.",
-      "   Câu a và b đúng.",
+      "   ",
     ],
-    correct: "   Câu a và b đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
+    ],
+    correct: "   ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
   },
   {
     question:
@@ -3361,8 +3886,22 @@ const quiz1 = [
     choices: [
       "     Công chức cấp xã là công dân Việt Nam được tuyển dụng giữ một chức danh chuyên môn, nghiệp vụ thuộc UBND cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước.",
       "    Công chức cấp xã là người Việt Nam được tuyển dụng giữ một chức danh chuyên môn, nghiệp vụ thuộc UBND cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước.",
-      "     Câu a và b đúng.",
-      "    Câu a và b sai.",
+      "     ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
+      "    ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b sai.",
     ],
     correct:
       "     Công chức cấp xã là công dân Việt Nam được tuyển dụng giữ một chức danh chuyên môn, nghiệp vụ thuộc UBND cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước.",
@@ -3398,17 +3937,45 @@ const quiz1 = [
       "   Ứng cử, đề cử bổ nhiệm.",
       "   Điều động, luân chuyển biệt phái.",
       "   Đào tạo, bồi dưỡng, nâng ngạch hoặc thôi việc.",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
     ],
-    correct: "   Tất cả câu trên đều đúng.",
+    correct:
+      " ",
   },
   {
-    question: " 147: Câu nào sau đây là đúng?",
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+  },
+  {
+    question: " 147: ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " nào sau đây là đúng?",
     choices: [
       "   Cơ quan, tổ chức, đơn vị quản lý cán bộ, công chức có thể ra quyết định tạm đình chỉ công tác trong thời gian xem xét, xử lý kỷ luật cán bộ, công chức trong mọi trường hợp.",
       "   Cơ quan, tổ chức, đơn vị quản lý cán bộ, công chức có thể ra quyết định tạm đình chỉ công tác trong thời gian xem xét, xử lý kỷ luật cán bộ, công chức, nếu để cán bộ, công chức đó tiếp tục làm việc có thể gây khó khăn cho việc xem xét, xử lý.",
       "   Cơ quan, tổ chức, đơn vị quản lý cán bộ, công chức không có quyền đưa ra quyết định tạm đình chỉ công tác trong thời gian xem xét, xử lý kỷ luật cán bộ, công chức, mặc dù nếu để cán bộ, công chức đó tiếp tục làm việc có thể gây khó khăn cho việc xem xét, xử lý.",
-      "   Tất cả câu trên đều sai.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều sai.",
     ],
     correct:
       "   Cơ quan, tổ chức, đơn vị quản lý cán bộ, công chức có thể ra quyết định tạm đình chỉ công tác trong thời gian xem xét, xử lý kỷ luật cán bộ, công chức, nếu để cán bộ, công chức đó tiếp tục làm việc có thể gây khó khăn cho việc xem xét, xử lý.",
@@ -3449,9 +4016,23 @@ const quiz1 = [
       "Khi có đủ căn cứ miễn nhiệm đối với công chức giữ chức vụ lãnh đạo, quản lý quy định tại khoản 1 Điều này, người đứng cơ quan trực tiếp sử dụng công chức hoặc cơ quan tham mưu về tổ chức cán bộ đề xuất với cấp có thẩm quyền theo phân cấp quản lý cán bộ.",
       "Chậm nhất sau 30 ngày kể từ ngày nhận được văn bản đề xuất việc miễn nhiệm, tập thể lãnh đạo cơ quan, tổ chức có thẩm quyền phải thảo luận, biểu quyết bằng phiếu kín.",
       "Việc quyết định miễn nhiệm đối với công chức phải được trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp nhân sự đạt tỷ lệ 50% thì do người đứng đầu quyết định.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3460,7 +4041,14 @@ const quiz1 = [
       "Cơ quan, tổ chức có nhu cầu bổ nhiệm trình Ban cán sự đảng Chính phủ, Thủ tướng Chính phủ cho ý kiến thống nhất về chủ trương bổ nhiệm, đồng thời gửi Bộ Nội vụ để thẩm định và Ban Tổ chức Trung ương để theo dõi.",
       "Cơ quan, tổ chức có nhu cầu bổ nhiệm trình Ban cán sự đảng Chính phủ, Thủ tướng Chính phủ xem xét, quyết định bổ nhiệm nhân sự cụ thể thì đồng thời gửi hồ sơ đề nghị bổ nhiệm cho Bộ Nội vụ để thẩm định.",
       "Bộ Nội vụ có văn bản gửi Ban Tổ chức Trung ương để lấy ý kiến thẩm định của các ban của Trung ương Đảng, sau đó trình Ban cán sự đảng Chính phủ, Thủ tướng Chính phủ xem xét, quyết định.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "Bộ Nội vụ có văn bản gửi Ban Tổ chức Trung ương để lấy ý kiến thẩm định của các ban của Trung ương Đảng, sau đó trình Ban cán sự đảng Chính phủ, Thủ tướng Chính phủ xem xét, quyết định.",
@@ -3472,9 +4060,23 @@ const quiz1 = [
       "Bảo đảm tiêu chuẩn chung, tiêu chuẩn chức danh theo quy định của Đảng, Nhà nước và tiêu chuẩn cụ thể của chức vụ bổ nhiệm theo quy định của cơ quan có thẩm quyền.",
       "Phải được quy hoạch chức vụ bổ nhiệm nếu là nguồn nhân sự tại chỗ hoặc được quy hoạch chức vụ tương đương nếu là nguồn nhân sự từ nơi khác.",
       "Có hồ sơ, lý lịch cá nhân được xác minh, có bản kê khai tài sản, thu nhập theo quy định.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3496,7 +4098,14 @@ const quiz1 = [
   },
   {
     question:
-      "10: Theo nghị định số 138/2020/NĐ-CP; Vòng 1 thi tuyển công chức phần tin học tổng cộng có bao nhiêu câu hỏi?",
+      "10: Theo nghị định số 138/2020/NĐ-CP; Vòng 1 thi tuyển công chức phần tin học tổng cộng có bao nhiêu ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " hỏi?",
     choices: ["10", "20", "30", "60"],
     correct: "30",
   },
@@ -3507,9 +4116,23 @@ const quiz1 = [
       "Được cử tham gia các chương trình bồi dưỡng kiến thức cơ bản, tổng quan của ngành, nghề, lĩnh vực công tác phù hợp với định hướng phát triển",
       "Được cử tham gia các khóa đào tạo tập trung trong nước, quốc tế đối với các chương trình phù hợp với ngành, nghề, lĩnh vực phù hợp với định hướng phát triển",
       "Được cử tham gia khóa đào tạo, bồi dưỡng khác phù hợp với đặc thù ngành, lĩnh vực, địa phương do người đứng đầu cơ quan có thẩm quyền tuyển dụng công chức quyết định",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3547,9 +4170,23 @@ const quiz1 = [
       "Hàng năm, tiến hành rà soát, phát hiện người có tài năng trong hoạt động công vụ trong phạm vi cơ quan, tổ chức mình quản lý.",
       "Đề xuất cấp có thẩm quyền đưa vào hoặc đưa ra khỏi danh sách người có tài năng trong hoạt động công vụ.",
       "Chịu trách nhiệm về việc đề xuất hoặc không đề xuất của mình.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3558,9 +4195,23 @@ const quiz1 = [
       "Lập danh sách người có tài năng trong hoạt động công vụ trong phạm vi cơ quan, tổ chức quản lý (nếu có).",
       "Xây dựng kế hoạch, chỉ đạo việc thường xuyên rà soát, phát hiện người có tài năng trong hoạt động công vụ.",
       "Quyết định đưa vào hoặc đưa ra khỏi danh sách người có tài năng trong hoạt động công vụ sau khi trao đổi ý kiến với các tổ chức, cá nhân có liên quan.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3629,7 +4280,14 @@ const quiz1 = [
       "Căn cứ quy hoạch, nhu cầu công tác và năng lực của công chức, cơ quan có thẩm quyền xây dựng kế hoạch luân chuyển công chức lãnh đạo, quản lý thuộc phạm vi quản lý mà không cần trình cơ quan thẩm quyền phê duyệt.",
       "Kế hoạch luân chuyển bao gồm nhu cầu, vị trí, hình thức, địa bàn, thời hạn, chính sách cần thiết đảm bảo thực hiện, dự kiến phương án bố trí sau luân chuyển và thời gian bắt đầu thực hiện kế hoạch luân chuyển.",
       "Trên cơ sở kế hoạch đã được phê duyệt, lập danh sách công chức lãnh đạo, quản lý luân chuyển, nêu biện pháp thực hiện cụ thể đối với từng trường hợp và thực hiện luân chuyển.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "Căn cứ quy hoạch, nhu cầu công tác và năng lực của công chức, cơ quan có thẩm quyền xây dựng kế hoạch luân chuyển công chức lãnh đạo, quản lý thuộc phạm vi quản lý mà không cần trình cơ quan thẩm quyền phê duyệt.",
@@ -3659,9 +4317,23 @@ const quiz1 = [
       "Có kết quả điểm thi tại vòng 2 đạt từ 50 điểm trở lên. Trường hợp thi kết hợp phỏng vấn và viết thì người dự thi phải dự thi đủ phỏng vấn và viết.",
       "Có kết quả điểm thi tại vòng 2 cộng với điểm ưu tiên quy định cao hơn lấy theo thứ tự điểm từ cao xuống thấp trong chỉ tiêu được tuyển dụng của từng vị trí việc làm.",
       "Có kết quả điểm thi tại vòng 2 cộng không tính điểm ưu tiên quy định cao hơn lấy theo thứ tự điểm từ cao xuống thấp trong chỉ tiêu được tuyển dụng của từng vị trí việc làm.",
-      "Câu a và b đúng.",
+      "",
     ],
-    correct: "Câu a và b đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
+    ],
+    correct: "",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
   },
   {
     question:
@@ -3699,9 +4371,23 @@ const quiz1 = [
       "   Nắm vững quy định cdủa pháp luật về công chức; nắm vững cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của cơ quan công tác; nội quy, quy chế làm việc của cơ quan và chức trách, nhiệm vụ của vị trí việc làm được tuyển dụng.",
       "   Trau dồi kiến thức và kỹ năng chuyên môn, nghiệp vụ theo yêu cầu của vị trí việc làm được tuyển dụng.",
       "   Tập giải quyết, thực hiện các công việc của vị trí việc làm được tuyển dụng.",
-      "    Tất cả câu trên đều đúng.",
+      "    Tất cả ",
     ],
-    correct: "    Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "    Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3728,9 +4414,23 @@ const quiz1 = [
       "Người cam kết tình nguyện làm việc từ 05 năm trở lên ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
       "Người học theo chế độ cử tuyển theo quy định của Luật Giáo dục, sau khi tốt nghiệp về công tác tại địa phương nơi cử đi học.",
       "Sinh viên tốt nghiệp xuất sắc, nhà khoa học trẻ tài năng.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3739,9 +4439,23 @@ const quiz1 = [
       "Theo yêu cầu nhiệm vụ cụ thể.",
       "Theo quy hoạch, kế hoạch sử dụng công chức trong cơ quan, tổ chức và giữa các cơ quan, tổ chức theo quyết định của cơ quan có thẩm quyền.",
       "Chuyển đổi vị trí công tác theo quy định của Đảng và pháp luật.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3761,7 +4475,14 @@ const quiz1 = [
       "Xem xét để bổ nhiệm lại báo cáo tự nhận xét, đánh giá việc thực hiện chức trách, nhiệm vụ trong thời gian giữ chức vụ; tham gia góp ý kiến và bỏ phiếu tín nhiệm bằng phiếu kín.",
       "Phân tích kết quả lấy phiếu ở hội nghị cán bộ chủ chốt; xác minh, kết luận những vấn đề mới nảy sinh; lấy ý kiến bằng văn bản của ban thường vụ đảng ủy hoặc đảng ủy cơ quan; thảo luận, nhận xét, đánh giá và biểu quyết nhân sự bằng phiếu kín.",
       "Trực tiếp ra quyết định bổ nhiệm lại theo thẩm quyền.",
-      "Tất cả câu trên đều sai.",
+      "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều sai.",
     ],
     correct:
       "Xem xét để bổ nhiệm lại báo cáo tự nhận xét, đánh giá việc thực hiện chức trách, nhiệm vụ trong thời gian giữ chức vụ; tham gia góp ý kiến và bỏ phiếu tín nhiệm bằng phiếu kín.",
@@ -3801,7 +4522,14 @@ const quiz1 = [
       "Thời hạn giữ chức vụ lãnh đạo, quản lý không được quá hai nhiệm kỳ liên tiếp được thực hiện theo quy định của Đảng và pháp luật chuyên ngành.",
       "Thời hạn giữ chức vụ lãnh đạo, quản lý cho mỗi lần bổ nhiệm là 05 năm, tính từ thời điểm quyết định bổ nhiệm có hiệu lực.",
       "Thời hạn giữ chức vụ lãnh đạo, quản lý không được quá ba nhiệm kỳ liên tiếp được thực hiện theo quy định của Đảng và pháp luật chuyên ngành.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "Thời hạn giữ chức vụ lãnh đạo, quản lý không được quá ba nhiệm kỳ liên tiếp được thực hiện theo quy định của Đảng và pháp luật chuyên ngành.",
@@ -3841,9 +4569,23 @@ const quiz1 = [
       "Công chức giữ chức vụ lãnh đạo, quản lý được điều động, biệt phái đến vị trí công tác khác mà phụ cấp chức vụ mới thấp hơn phụ cấp chức vụ hiện đang đảm nhiệm thì được bảo lưu phụ cấp chức vụ trong thời gian 06 tháng.",
       "Cơ quan, tổ chức cử công chức biệt phái có trách nhiệm trả lương và bảo đảm các quyền lợi khác của công chức trong thời gian được cử biệt phái, bố trí công việc phù hợp cho công chức khi hết thời hạn biệt phái.",
       "Trường hợp công chức được biệt phái đến làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng các chế độ, chính sách ưu đãi theo quy định của pháp luật.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3870,9 +4612,23 @@ const quiz1 = [
       "Bộ Nội vụ chủ trì tổ chức thi nâng ngạch công chức từ ngạch chuyên viên chính lên ngạch chuyên viên cao cấp trong các cơ quan nhà nước.",
       "Ban Tổ chức Trung ương chủ trì, phối hợp với Bộ Nội vụ tổ chức thi nâng ngạch công chức từ ngạch chuyên viên chính lên ngạch chuyên viên cao cấp trong các cơ quan của Đảng Cộng sản Việt Nam, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội.",
       "Cơ quan quản lý ngạch công chức chuyên ngành của Đảng chủ trì, phối hợp với Ban Tổ chức Trung ương; các bộ, cơ quan ngang bộ quản lý ngạch công chức chuyên ngành chủ trì, phối hợp với Bộ Nội vụ tổ chức thi nâng ngạch công chức chuyên ngành tương đương ngạch chuyên viên chính lên ngạch công chức chuyên ngành tương đương ngạch chuyên viên cao cấp theo quy định tại Nghị định 138.",
-      "Câu a và b đúng.",
+      "",
     ],
-    correct: "Câu a và b đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
+    ],
+    correct: "",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " a và b đúng.",
   },
   {
     question:
@@ -3898,7 +4654,14 @@ const quiz1 = [
       "     Chức vụ công chức đang giữ ở cơ quan, tổ chức cũ tương đương hoặc cao hơn chức vụ công chức dự kiến đảm nhiệm ở cơ quan, tổ chức mới thì tập thể lãnh đạo và người đứng đầu cơ quan, tổ chức trực tiếp xem xét, quyết định chuyển đổi chức vụ theo vị trí việc làm mới tương ứng",
       "    Trường hợp đổi tên cơ quan, tổ chức thì tập thể lãnh đạo và người đứng đầu cơ quan, tổ chức trực tiếp xem xét, quyết định chuyển đổi chức vụ theo vị trí việc làm mới tương ứng",
       "     Chức vụ công chức đang giữ ở cơ quan, tổ chức cũ thấp hơn chức vụ công chức dự kiến đảm nhiệm ở cơ quan, tổ chức mới thì việc bổ nhiệm được thực hiện theo quy trình bổ nhiệm đối với nguồn nhân sự từ nơi khác",
-      "    Tất cả câu trên đều đúng.",
+      "    Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "     Chức vụ công chức đang giữ ở cơ quan, tổ chức cũ thấp hơn chức vụ công chức dự kiến đảm nhiệm ở cơ quan, tổ chức mới thì việc bổ nhiệm được thực hiện theo quy trình bổ nhiệm đối với nguồn nhân sự từ nơi khác",
@@ -3910,7 +4673,14 @@ const quiz1 = [
       "     Cấp cao hơn có thể thực hiện việc bổ nhiệm lại, kéo dài thời gian giữ chức vụ lãnh đạo, quản lý.",
       "    Cấp nào có thẩm quyền quyết định bổ nhiệm thì cấp đó thực hiện việc bổ nhiệm lại, kéo dài thời gian giữ chức vụ lãnh đạo, quản lý.",
       "     Cấp thấp hơn có thể thực hiện việc bổ nhiệm lại, kéo dài thời gian giữ chức vụ lãnh đạo, quản lý.",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "    Cấp nào có thẩm quyền quyết định bổ nhiệm thì cấp đó thực hiện việc bổ nhiệm lại, kéo dài thời gian giữ chức vụ lãnh đạo, quản lý.",
@@ -3946,9 +4716,23 @@ const quiz1 = [
       "Xây dựng Đề án tổ chức thi nâng ngạch công chức.",
       "Xác định chỉ tiêu nâng ngạch công chức phù hợp với vị trí việc làm và cơ cấu công chức của từng cơ quan, tổ chức thuộc và trực thuộc.",
       "Thành lập Hội đồng thi nâng ngạch công chức.",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3975,9 +4759,23 @@ const quiz1 = [
       "Hồ sơ đề nghị bổ nhiệm lại thực hiện như quy định đối với hồ sơ bổ nhiệm công chức giữ chức vụ lãnh đạo, quản lý",
       "Biên bản họp và kết quả kiểm phiếu đề nghị kéo dài thời gian giữ chức vụ lãnh đạo, quản lý của tập thể lãnh đạo cơ quan, tổ chức là hồ sơ đề nghị kéo dài thời gian giữ chức vụ lãnh đạo, quản lý đến tuổi nghỉ hưu",
       "Sơ yếu lý lịch do cá nhân tự khai theo mẫu quy định, được cơ quan trực tiếp quản lý xác nhận, có dán ảnh màu khổ 4x6, chụp trong thời gian không quá 06 tháng là hồ sơ đề nghị kéo dài thời gian giữ chức vụ lãnh đạo, quản lý đến tuổi nghỉ hưu",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -3986,9 +4784,23 @@ const quiz1 = [
       "Công chức luân chuyển tự kiểm điểm về quá trình công tác trong thời gian luân chuyển",
       "Tập thể lãnh đạo và cấp ủy cơ quan, tổ chức nhận xét, đánh giá công chức luân chuyển trong thời gian công tác tại địa phương, cơ quan, tổ chức",
       "Cấp có thẩm quyền quyết định luân chuyển nhận xét, đánh giá",
-      "Tất cả câu trên đều đúng",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng",
   },
   {
     question:
@@ -4031,9 +4843,23 @@ const quiz1 = [
       "Tự nguyện thôi giữ chức vụ để chuyển giao vị trí lãnh đạo",
       "Do tự nhận thấy không đủ tiêu chuẩn, điều kiện, sức khỏe để hoàn thành nhiệm vụ được giao hoặcvị trí công tác không phù hợp",
       "Vì các lý do chính đáng khác của công chức",
-      "Tất cả câu trên đều đúng.",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -4060,9 +4886,23 @@ const quiz1 = [
       "Hoàn thành nhiệm vụ trong thời hạn giữ chức vụ lãnh đạo, quản lý",
       "Đáp ứng tiêu chuẩn chức danh lãnh đạo, quản lý theo quy định của cơ quan có thẩm quyền tại thời điểm bổ nhiệm lại",
       "Cơ quan, tổ chức có nhu cầu về vị trí việc làm lãnh đạo, quản lý.",
-      "Tất cả câu trên đều đúng",
+      "Tất cả ",
     ],
-    correct: "Tất cả câu trên đều đúng",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng",
+    ],
+    correct: "Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng",
   },
   {
     question:
@@ -4071,9 +4911,23 @@ const quiz1 = [
       "     Việc nâng ngạch công chức phải căn cứ vào vị trí việc làm, phù hợp với cơ cấu ngạch công chức của cơ quan sử dụng công chức đã được cấp có thẩm quyền phê duyệt.",
       "    Căn cứ vào số lượng chỉ tiêu nâng ngạch của cơ quan, tổ chức sử dụng công chức đã được cấp có thẩm quyền phê duyệt, cơ quan quản lý công chức có trách nhiệm rà soát, xác định và lập danh sách công chức có đủ tiêu chuẩn, điều kiện dự thi nâng ngạch.",
       "     Cơ quan quản lý công chức chịu trách nhiệm trước pháp luật về tiêu chuẩn, điều kiện của công chức được cử tham dự kỳ thi nâng ngạch và lưu giữ, quản lý hồ sơ đăng ký dự thi nâng ngạch của công chức theo quy định của pháp luật.",
-      "    Tất cả câu trên đều đúng.",
+      "    Tất cả ",
     ],
-    correct: "    Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "    Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -4111,9 +4965,23 @@ const quiz1 = [
       "    Chậm nhất 90 ngày trước ngày hết thời hạn bổ nhiệm, cấp có thẩm quyền kéo dài thời gian giữ chức vụ lãnh đạo, quản lý phải ra thông báo thực hiện việc xem xét kéo dài thời gian giữ chức vụ lãnh đạo, quản lý đến tuổi nghỉ hưu đối với công chức",
       "   Công chức làm báo cáo tự nhận xét, đánh giá việc thực hiện chức trách, nhiệm vụ trong thời gian giữ chức vụ, gửi cấp có thẩm quyền kéo dài thời gian giữ chức vụ lãnh đạo, quản lý",
       "   Người đứng đầu và tập thể lãnh đạo cơ quan, tổ chức thảo luận, xem xét, nếu công chức còn sức khỏe, uy tín, đáp ứng được yêu cầu nhiệm vụ thì thống nhất biểu quyết bằng phiếu kín",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
     ],
-    correct: "   Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -4134,9 +5002,23 @@ const quiz1 = [
       "     Trao đổi ý kiến với tập thể lãnh đạo và cấp ủy cơ quan, tổ chức tiếp nhận nhân sự về dự kiến điều động, bổ nhiệm.",
       "    Gặp nhân sự được dự kiến điều động, bổ nhiệm để trao đổi ý kiến về yêu cầu nhiệm vụ công tác",
       "     Chủ trì, phối hợp với các cơ quan liên quan thẩm định về nhân sự",
-      "    Tất cả câu trên đều đúng.",
+      "    Tất cả ",
     ],
-    correct: "    Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "    Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:
@@ -4157,7 +5039,14 @@ const quiz1 = [
       "    Hoàn thành nhiệm vụ trong thời hạn giữ chức vụ lãnh đạo, quản lý",
       "   Công chức lãnh đạo, quản lý khi hết thời hạn giữ chức vụ bổ nhiệm theo quy định thì cơ quan, tổ chức có thẩm quyền phải tiến hành quy trình xem xét bổ nhiệm lại hoặc kéo dài thời gian giữ chức vụ lãnh đạo, quản lý",
       "   Đáp ứng tiêu chuẩn chức danh lãnh đạo, quản lý theo quy định của cơ quan có thẩm quyền tại thời điểm bổ nhiệm lại",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
     ],
     correct:
       "   Công chức lãnh đạo, quản lý khi hết thời hạn giữ chức vụ bổ nhiệm theo quy định thì cơ quan, tổ chức có thẩm quyền phải tiến hành quy trình xem xét bổ nhiệm lại hoặc kéo dài thời gian giữ chức vụ lãnh đạo, quản lý",
@@ -4175,9 +5064,23 @@ const quiz1 = [
       "     Chậm nhất 90 ngày trước ngày hết thời hạn bổ nhiệm, cấp có thẩm quyền bổ nhiệm phải ra thông báo thực hiện quy trình xem xét bổ nhiệm lại đối với công chức",
       "    Công chức làm báo cáo tự nhận xét, đánh giá việc thực hiện chức trách, nhiệm vụ trong thời hạn giữ chức vụ gửi cấp có thẩm quyền bổ nhiệm",
       "     Công chức được đề nghị bổ nhiệm lại phải đạt tỷ lệ trên 50% tính trên tổng số người được triệu tập tham gia hội nghị cán bộ chủ chốt giới thiệu",
-      "   Tất cả câu trên đều đúng.",
+      "   Tất cả ",
     ],
-    correct: "   Tất cả câu trên đều đúng.",
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
+    ],
+    correct: "   Tất cả ",
+    ],
+    correct:
+      " ",
+  },
+  {
+    question:
+      " trên đều đúng.",
   },
   {
     question:

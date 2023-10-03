@@ -68,7 +68,14 @@ var quizEnglish2 = [
   },
   {
     image: reading2,
-    question: "Câu 11: This passage is mostly about",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 11: This passage is mostly about",
     choices: [
       "A. spider colors",
       "B. spider webs",
@@ -92,14 +99,28 @@ var quizEnglish2 = [
   {
     image: reading2,
     question:
-      'Câu 13: As used in paragraph 4, the word "trapped" most nearly means',
+      '",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 13: As used in paragraph 4, the word "trapped" most nearly means',
     choices: ["A. stuck", "B. hidden", "C. eaten", "D. catch"],
     correct: "A. stuck",
   },
   {
     image: reading2,
     question:
-      "Câu 14: How can spiders tell when something is trapped in their web?",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 14: How can spiders tell when something is trapped in their web?",
     choices: [
       "A. They hear it.",
       "B. They smell it.",
@@ -111,13 +132,27 @@ var quizEnglish2 = [
   {
     image: reading2,
     question:
-      'Câu 15: As used in the last sentence of the passage, the word "survive" means to stay',
+      '",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 15: As used in the last sentence of the passage, the word "survive" means to stay',
     choices: ["A. alive", "B. hidden", "C. caught", "D. sleep"],
     correct: "A. alive",
   },
   {
     image: reading3,
-    question: "Câu 11: David Saucez works.................",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 11: David Saucez works.................",
     choices: [
       "A. as a policeman.",
       "B. as a security guard.",
@@ -128,7 +163,14 @@ var quizEnglish2 = [
   },
   {
     image: reading3,
-    question: "Câu 12: David Saucer robbed the bank because he................",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 12: David Saucer robbed the bank because he................",
     choices: [
       "A. played games.",
       "B. tried to give up gambling.",
@@ -140,7 +182,14 @@ var quizEnglish2 = [
   {
     image: reading3,
     question:
-      "Câu 13: The previous week, David Saucez had planned to rob the bank but he...................",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 13: The previous week, David Saucez had planned to rob the bank but he...................",
     choices: [
       "A. asked them to lend him some money.",
       "B. asked them what he should do about borrowing money.",
@@ -151,7 +200,14 @@ var quizEnglish2 = [
   },
   {
     image: reading3,
-    question: "Câu 14: The police knew about the robbery because..............",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 14: The police knew about the robbery because..............",
     choices: [
       "A. David Saucez admitted his guilt.",
       "B. David Saucez had parked his car outside the bank.",
@@ -163,7 +219,14 @@ var quizEnglish2 = [
   {
     image: reading3,
     question:
-      "Câu 15: David Saucez arrived late for his duty because he ........…..",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 15: David Saucez arrived late for his duty because he ........…..",
     choices: [
       "A. stopped to pay some of the money he owed.",
       "B. was afraid to report for duty.",
@@ -174,14 +237,28 @@ var quizEnglish2 = [
   },
   {
     image: reading4,
-    question: "Câu 11: Education is expensive in ……………countries.",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 11: Education is expensive in ……………countries.",
     choices: ["A. all", "B. some", "C. half of the", "D. very few"],
     correct: "B. some",
   },
   {
     image: reading4,
     question:
-      "Câu 12: Parents have to save for their children’s education................",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 12: Parents have to save for their children’s education................",
     choices: [
       "A. since when they are born",
       "B. when they are young",
@@ -192,7 +269,14 @@ var quizEnglish2 = [
   },
   {
     image: reading4,
-    question: "Câu 13: Education is expensive ……………",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 13: Education is expensive ……………",
     choices: [
       "A. A few families can afford it",
       "B. Many families can afford it",
@@ -203,7 +287,14 @@ var quizEnglish2 = [
   },
   {
     image: reading4,
-    question: "Câu 14: There are……………",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 14: There are……………",
     choices: [
       "A. some reduced costs for poor students",
       "B. no money grants",
@@ -214,7 +305,14 @@ var quizEnglish2 = [
   },
   {
     image: reading4,
-    question: "Câu 15: Thousands of students have to ……………",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 15: Thousands of students have to ……………",
     choices: [
       "A. work for their education",
       "B. earn money for scholarship",
@@ -225,7 +323,14 @@ var quizEnglish2 = [
   },
   {
     image: reading5,
-    question: "Câu 11: The main idea of the passage is ………",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 11: The main idea of the passage is ………",
     choices: [
       "A. Learning at university",
       "B. Making an important decision at 18",
@@ -237,7 +342,14 @@ var quizEnglish2 = [
   {
     image: reading5,
     question:
-      "Câu 12: Why do some young people want to find a job after they leave school?",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 12: Why do some young people want to find a job after they leave school?",
     choices: [
       "A. They are badly in need of money",
       "B. They want to get rid of schooling",
@@ -248,7 +360,14 @@ var quizEnglish2 = [
   },
   {
     image: reading5,
-    question: "Câu 13: What do young people do when they have difficulty?",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 13: What do young people do when they have difficulty?",
     choices: [
       "A. They just let things go.",
       "B. They do their best.",
@@ -260,14 +379,28 @@ var quizEnglish2 = [
   {
     image: reading5,
     question:
-      "Câu 14: The word “Unfortunately” in line 5 is nearest in meaning to .",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 14: The word “Unfortunately” in line 5 is nearest in meaning to .",
     choices: ["A. suddenly", "B. unluckily", "C. luckily", "D. surprisingly"],
     correct: "C. luckily",
   },
   {
     image: reading5,
     question:
-      "Câu 15: Which of the following is not true about young people who start work?",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 15: Which of the following is not true about young people who start work?",
     choices: [
       "A. They meet difficulty.",
       "B. They feel worried.",
@@ -279,7 +412,14 @@ var quizEnglish2 = [
   {
     image: reading6,
     question:
-      "Câu 11: Why is David different from other young people of his age?",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 11: Why is David different from other young people of his age?",
     choices: [
       "A. He earns an extremely high salary.",
       "B. He is not unemployed.",
@@ -290,7 +430,14 @@ var quizEnglish2 = [
   },
   {
     image: reading6,
-    question: "Câu 12: David’s greatest problem is.............",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 12: David’s greatest problem is.............",
     choices: [
       "A. making the banks treat him as an adult.",
       "B. inventing computer games.",
@@ -301,7 +448,14 @@ var quizEnglish2 = [
   },
   {
     image: reading6,
-    question: "Câu 13: He was employed by the company because................",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 13: He was employed by the company because................",
     choices: [
       "A. he had worked in a computer shop.",
       "B. he had written some computer programs.",
@@ -313,7 +467,14 @@ var quizEnglish2 = [
   {
     image: reading6,
     question:
-      "Câu 14: He left school after taking O-levels because...............",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 14: He left school after taking O-levels because...............",
     choices: [
       "A. he did not enjoy school.",
       "B. he wanted to work with computers and staying at school did not help him.",
@@ -325,7 +486,14 @@ var quizEnglish2 = [
   },
   {
     image: reading6,
-    question: "Câu 15: Why does David think he might retire early?",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 15: Why does David think he might retire early?",
     choices: [
       "A. You have to be young to write computer programs.",
       "B. He wants to stop working when he is a millionaire.",
@@ -337,7 +505,14 @@ var quizEnglish2 = [
   {
     image: reading7,
     question:
-      'Câu 11: In paragraph 1, we learn that "Owls are nocturnal." The word diurnal is the opposite of the word nocturnal. Using information in the passage as a guide, we can understand that an animal that is diurnal',
+      '",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 11: In paragraph 1, we learn that "Owls are nocturnal." The word diurnal is the opposite of the word nocturnal. Using information in the passage as a guide, we can understand that an animal that is diurnal',
     choices: [
       "A. sleeps at night and is awake during the day",
       "B. hunts during the day and is awake at night",
@@ -349,7 +524,14 @@ var quizEnglish2 = [
   {
     image: reading7,
     question:
-      "Câu 12: Based on information in paragraph 2, it can be understood that an animal with small eyes",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 12: Based on information in paragraph 2, it can be understood that an animal with small eyes",
     choices: [
       "A. must be diurnal",
       "B. has trouble seeing in the dark",
@@ -361,14 +543,28 @@ var quizEnglish2 = [
   {
     image: reading7,
     question:
-      "Câu 13: According to the passage, owls can find food in the dark using their sense of I. sight, II. sound, III. smell ",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 13: According to the passage, owls can find food in the dark using their sense of I. sight, II. sound, III. smell ",
     choices: ["a. I", "b. I,II", "c.II+III", "d. both"],
     correct: "b. I,II",
   },
   {
     image: reading7,
     question:
-      'Câu 14: In paragraph 3 the author writes, "This helps owls catch their prey even when it is very dark." Based on its use in the passage, we can understand that prey is',
+      '",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 14: In paragraph 3 the author writes, "This helps owls catch their prey even when it is very dark." Based on its use in the passage, we can understand that prey is',
     choices: [
       "A. a noise that an animal makes during the night",
       "B. a small animal such as a pet dog or cat",
@@ -380,7 +576,14 @@ var quizEnglish2 = [
   {
     image: reading7,
     question:
-      "Câu 15: Based on information in the final paragraph, it can be understood that mice sleep during the day in order to",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 15: Based on information in the final paragraph, it can be understood that mice sleep during the day in order to",
     choices: [
       "A. find food that other animals cannot",
       "B. keep themselves safe",
@@ -391,7 +594,14 @@ var quizEnglish2 = [
   },
   {
     image: reading8,
-    question: "Câu 11: The narrator ………",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 11: The narrator ………",
     choices: [
       "A. was afraid of the party",
       "B. went on a diet for this party",
@@ -402,7 +612,14 @@ var quizEnglish2 = [
   },
   {
     image: reading8,
-    question: "Câu 12: The party was to be held................",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 12: The party was to be held................",
     choices: [
       "A. in midwinter",
       "B. in a few days",
@@ -413,7 +630,14 @@ var quizEnglish2 = [
   },
   {
     image: reading8,
-    question: "Câu 13: The storm ………",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 13: The storm ………",
     choices: [
       "A. destroyed a village",
       "B. was dying down",
@@ -424,7 +648,14 @@ var quizEnglish2 = [
   },
   {
     image: reading8,
-    question: "Câu 14: The narrator………",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 14: The narrator………",
     choices: [
       "A. suffered from headaches",
       "B. always had toothache",
@@ -435,7 +666,14 @@ var quizEnglish2 = [
   },
   {
     image: reading8,
-    question: "Câu 15: Why was the narrator upset? ………",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 15: Why was the narrator upset? ………",
     choices: [
       "A. The storm was so bad",
       "B. He had had a fight with an animal",
@@ -446,7 +684,14 @@ var quizEnglish2 = [
   },
   {
     image: reading9,
-    question: "Câu 11: What is the writer trying to do in the text?",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 11: What is the writer trying to do in the text?",
     choices: [
       "A. Explain why Margaret is teaching the violin",
       "B. Describe a different way of learning the violin",
@@ -457,7 +702,14 @@ var quizEnglish2 = [
   },
   {
     image: reading9,
-    question: "Câu 12: Why should someone read the text?",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 12: Why should someone read the text?",
     choices: [
       "A. To discover how Margaret learnt the violin",
       "B. To learn why it is important to read music",
@@ -468,7 +720,14 @@ var quizEnglish2 = [
   },
   {
     image: reading9,
-    question: "Câu 13: What opinion does Margaret have about her best pupils?",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 13: What opinion does Margaret have about her best pupils?",
     choices: [
       "A. They ought to find another teacher",
       "B. They will become great violinists using her method",
@@ -479,7 +738,14 @@ var quizEnglish2 = [
   },
   {
     image: reading9,
-    question: "Câu 14: Who were Margaret’s first pupils?",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 14: Who were Margaret’s first pupils?",
     choices: [
       "A. Her children",
       "B. Three and four-year-olds",
@@ -491,7 +757,14 @@ var quizEnglish2 = [
   {
     image: reading9,
     question:
-      "Câu 15: Which of the following would Margaret include in an advertisement for her classes?",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 15: Which of the following would Margaret include in an advertisement for her classes?",
     choices: [
       "A. Learn to play the violin with your children - 2 lessons a week",
       "B. Watch your children learn to play the violin",
@@ -503,7 +776,14 @@ var quizEnglish2 = [
   {
     image: reading10,
     question:
-      "Câu 11: According to the author, some people are more afraid of tigers and sharks than mosquitoes because tigers and sharks",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 11: According to the author, some people are more afraid of tigers and sharks than mosquitoes because tigers and sharks",
     choices: [
       "A. kill more people than mosquitoes",
       "B. are big and powerful",
@@ -515,14 +795,28 @@ var quizEnglish2 = [
   {
     image: reading10,
     question:
-      "Câu 12: Based on the information in paragraph 2, we can understand that I. male mosquitoes and female mosquitoes have different eating habits,II. male mosquitoes are harmless to humans,III. female mosquitoes are responsible for transmitting diseases to humans",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 12: Based on the information in paragraph 2, we can understand that I. male mosquitoes and female mosquitoes have different eating habits,II. male mosquitoes are harmless to humans,III. female mosquitoes are responsible for transmitting diseases to humans",
     choices: ["a. I", "b. I,II", "c.II+III", "d. both"],
     correct: "d. both",
   },
   {
     image: reading10,
     question:
-      'Câu 13: In paragraph 2 the author writes, "This saliva may or may not contain a deadly disease." The purpose of this statement is to',
+      '",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 13: In paragraph 2 the author writes, "This saliva may or may not contain a deadly disease." The purpose of this statement is to',
     choices: [
       "A. oppose a previous argument",
       "B. question an upcoming conclusion",
@@ -533,7 +827,14 @@ var quizEnglish2 = [
   },
   {
     image: reading10,
-    question: "Câu 14: As used in paragraph 2, minor most nearly means",
+    question: "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 14: As used in paragraph 2, minor most nearly means",
     choices: [
       "A. insignificant",
       "B. deadly",
@@ -545,7 +846,14 @@ var quizEnglish2 = [
   {
     image: reading10,
     question:
-      "Câu 15: Based on information in paragraph 3, it can be understood that if you get sick with malaria or yellow fever, your chances of survival are",
+      "",
+    ],
+    correct:
+      
+  },
+  {
+    question:
+      " 15: Based on information in paragraph 3, it can be understood that if you get sick with malaria or yellow fever, your chances of survival are",
     choices: ["A. terrible", "B. mediocre", "C. good", "D. excellent"],
     correct: "D. excellent",
   },
