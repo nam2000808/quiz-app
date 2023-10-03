@@ -39,14 +39,7 @@ function Quiz() {
     // Ẩn các phần bài kiểm tra khi trang web tải lên, chỉ hiển thị nút"Start"
     $("#startButton").on("click", function () {
       $("#startFrame").hide(); // Ẩn khung"Start"
-      $("#quizFrame").show(); // Hiển thị khung ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " hỏi
+      $("#quizFrame").show(); // Hiển thị khung câu hỏi
     });
 
     var quizTime;
@@ -63,8 +56,7 @@ function Quiz() {
     });
 
     function startQuiz() {
-      if (!quizStarte",
-      " {
+      if (!quizStarted) {
         // Chỉ bắt đầu quiz nếu chưa bắt đầu
         quizStarted = true;
         // Bắt đầu tính thời gian
@@ -73,48 +65,20 @@ function Quiz() {
         endTime = startTime + quizTime;
         timerInterval = setInterval(updateTimer, 1000);
 
-        // Hiển thị ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " hỏi đầu tiên
+        // Hiển thị câu hỏi đầu tiên
         showQuestion(currentQuestion);
       }
     }
 
     function showQuestion(questionIndex) {
-      // Hiển thị các phần liên quan đến ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " hỏi
+      // Hiển thị các phần liên quan đến câu hỏi
       $("#question, #choice-block, #explanation, #submitbutton, #pager").show();
       $("#question-image").hide();
 
-      // Hiển thị thông tin của ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " hỏi
+      // Hiển thị thông tin của câu hỏi
       $("#question").text(quiz[questionIndex]["question"]);
 
-      // Hiển thị hình ảnh của ",
-    ],
-    correct:
-      " ",
-  },
-  {
-    question:
-      " hỏi nếu có
+      // Hiển thị hình ảnh của câu hỏi nếu có
       if (
         quiz[questionIndex].hasOwnProperty("image") &&
         quiz[questionIndex]["image"] !== ""
@@ -260,8 +224,7 @@ function Quiz() {
             .on("click", function () {
               $(".choice").off("click");
               $(this).off("click");
-              processQuestion(picke",
-      ";
+              processQuestion(picked);
             });
         }
       });
