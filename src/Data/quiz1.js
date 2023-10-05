@@ -2241,7 +2241,7 @@ const quiz1 = [
       "     12 tháng",
       "     15 tháng",
     ],
-    correct: "    12 tháng",
+    correct: "     12 tháng",
   },
   {
     question:
