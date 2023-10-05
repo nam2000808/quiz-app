@@ -252,7 +252,7 @@ const quiz2 = [
       "Tất cả đều đúng. ",
     ],
 
-    correct: "Tất cả đều đúng.",
+    correct: "Tất cả đều đúng. ",
   },
   {
     question:
@@ -1333,7 +1333,7 @@ const quiz2 = [
       "Phòng Quản lý Đầu tư xây dựng",
       "Tất cả câu trên đều đúng ",
     ],
-    correct: "Tất cả câu trên đều đúng",
+    correct: "Tất cả câu trên đều đúng ",
   },
   {
     question: "4: Cơ cấu tổ chức của Cục Tài vụ - Quản trị gồm mấy phòng?",
