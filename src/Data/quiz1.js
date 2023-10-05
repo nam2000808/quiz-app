@@ -379,7 +379,7 @@ const quiz1 = [
       "Theo khuôn khổ Hiến pháp và pháp luật.",
       "Trong khuôn khổ Hiến pháp, pháp luật và điều lệ của tổ chức.",
     ],
-    correct: "Trong khuôn khổ Hiến pháp, pháp luật.",
+    correct: "Trong khuôn khổ Hiến pháp và pháp luật.",
   },
   {
     question:
@@ -2764,7 +2764,7 @@ const quiz1 = [
     question:
       " 84: Theo Luật Cán bộ, công chức năm 2008, có bao nhiêu nguyên tắc tuyển dụng công chức? ĐIỀU 38",
     choices: ["     04", "    05", "     06", "    07"],
-    correct: "04",
+    correct: "     04",
   },
   {
     question: " 85: Theo Luật cán bộ, công chức năm 2008, 'cán bộ' là?",
@@ -2882,7 +2882,7 @@ const quiz1 = [
     question:
       " 95: Theo Luật Cán bộ, công chức năm 2008, cán bộ, công chức có bao nhiêu nghĩa vụ trong thi hành công vụ?",
     choices: ["   04", "    05", "    06", "   07"],
-    correct: "06",
+    correct: "    06",
   },
   {
     question:
