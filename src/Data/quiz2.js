@@ -160,7 +160,7 @@ const quiz2 = [
     ],
 
     correct:
-      "Tổ chức chỉ đạo, hướng dẫn, kiểm tra Cục Hải quan tỉnh, thành phố triển khai thực hiện các văn bản quy phạm pháp luật, quy chế, quy trình thuộc lĩnh vực nghiệp vụ giám quản theo quy định.",
+      "Xây dựng, chỉ đạo thực hiện các đề án chương trình, kế hoạch ngắn hạn và dài hạn về kiểm tra sau thông quan và doanh nghiệp ưu tiên.",
   },
   {
     question: "4: Cơ cấu tổ chức của Cục Kiểm tra sau thông quan gồm:",
