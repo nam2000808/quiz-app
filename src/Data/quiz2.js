@@ -441,7 +441,7 @@ const quiz2 = [
       "Phòng Dự toán - Quản lý thu ngân sách.",
       "Tất cả câu trên đều đúng.",
     ],
-    correct: "Phòng Chính sách thuế.",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question:
