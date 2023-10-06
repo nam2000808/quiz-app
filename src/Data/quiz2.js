@@ -688,7 +688,7 @@ const quiz2 = [
       "Cục Điều tra chống buôn lậu.",
       "Cục Công nghệ thông tin và Thống kê hải quan. ",
     ],
-    correct: "Cục Công nghệ thông tin và Thống kê hải quan.",
+    correct: "Cục Công nghệ thông tin và Thống kê hải quan. ",
   },
   {
     question: "7: Cục Công nghệ thông tin và Thống kê hải quan có nhiệm vụ:",
