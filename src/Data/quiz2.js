@@ -651,7 +651,7 @@ const quiz2 = [
       "Trung tâm Quản lý vận hành hệ thống công nghệ thông tin hải quan (đơn vị sự nghiệp).",
       "Tất cả câu trên đều đúng.",
     ],
-    correct: "",
+    correct: "Tất cả câu trên đều đúng.",
   },
   {
     question: "3: Cục Công nghệ thông tin và Thống kê hải quan gồm:",
@@ -1369,7 +1369,7 @@ const quiz2 = [
       "Là đầu mối đề xuất cử giám định viên thực hiện giám định tư pháp về hải quan theo quy định của pháp luật.",
       "Tất cả câu trên đều đúng. ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng. ",
   },
   {
     question: "3:Vụ Tổ chức cán bộ có nhiệm vụ:",
