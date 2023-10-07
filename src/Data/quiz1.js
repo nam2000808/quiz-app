@@ -1988,7 +1988,7 @@ const quiz1 = [
     question:
       " 7: Theo Luật cán bộ, công chức 2008, có bao nhiêu nội dung đánh giá công chức?",
     choices: ["     03", "    04", "     05", "    06"],
-    correct: "06",
+    correct: "    06",
   },
   {
     question:
@@ -2068,7 +2068,7 @@ const quiz1 = [
     question:
       " 16: Theo luật Cán bộ, công chức 2008; có bao nhiêu nguyên tắc trong thi hành công vụ?",
     choices: ["   04", "   05", "   06", "   07"],
-    correct: "05",
+    correct: "   05",
   },
   {
     question:
@@ -3051,7 +3051,7 @@ const quiz1 = [
     question:
       " 111: Theo Luật Cán bộ, công chức năm 2008, có bao nhiêu ngạch công chức?",
     choices: [" 1", " 2", " 3", " 4"],
-    correct: "4",
+    correct: " 4",
   },
   {
     question:
