@@ -5,6 +5,7 @@ import quiz2 from "../Data/quiz2";
 import quiz3 from "../Data/quiz3";
 import quiz4 from "../Data/quiz4";
 import quiz5 from "../Data/quiz5";
+import quiz6 from "../Data/quiz6";
 import $ from "jquery";
 import "../styles/quiz.css";
 
