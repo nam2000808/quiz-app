@@ -1,117 +1,136 @@
 const quiz6 = [
   {
-    question: " 1.  Cơ chế một cửa quốc gia là ?",
+    question: " 1.  Đâu là nhận định đúng về hoạt động công vụ của công chức theo luật Cán bộ, công chức năm 2008 ?",
     choices: [
-      " việc cho phép người khai hải quan gửi thông tin, chứng từ để thực hiện thủ tục hải quan và thủ tục của cơ quan quản lý nhà nước liên quan đến hàng hóa xuất khẩu, nhập khẩu thông qua một hệ thống thông tin tích hợp",
-      " việc cho phép người khai hải quan gửi thông tin, chứng từ điện tử để thực hiện thủ tục hải quan hoặc thủ tục của cơ quan quản lý nhà nước liên quan đến hàng hóa xuất khẩu, nhập khẩu thông qua một hệ thống thông tin tích hợp",
-      " việc cho phép người khai hải quan gửi thông tin, chứng từ điện tử để thực hiện thủ tục hải quan và thủ tục của cơ quan quản lý nhà nước liên quan đến hàng hóa xuất khẩu, nhập khẩu thông qua một hệ thống thông tin tích hợp",
+      " 1. Là việc thực hiện khiếu nại, tố cáo theo quy định của pháp luật",
+      " 2. là việc thực hiện nhiệm vụ, quyền hạn của công chức theo quy định của Luật cán bộ, công chức và các quy định khác có liên quan",
+      " 3. là việc giữ gìn sự đoàn kết, hợp tác, phối hợp trong thực thi công vụ"
+      " 4. là việc tuân thủ nguyên tắc cấp dưới phục tùng cấp trên, người thừa hành phục vụ người lãnh đạo, quản lý",
     ],
     correct:
-      " việc cho phép người khai hải quan gửi thông tin, chứng từ điện tử để thực hiện thủ tục hải quan và thủ tục của cơ quan quản lý nhà nước liên quan đến hàng hóa xuất khẩu, nhập khẩu thông qua một hệ thống thông tin tích hợp",
+      " 2. là việc thực hiện nhiệm vụ, quyền hạn của công chức theo quy định của Luật cán bộ, công chức và các quy định khác có liên quan",
   },
   {
     question:
-      " 2. Cơ quan nào quyết định cho phép hàng hóa được xuất khẩu, nhập khẩu, quá cảnh?",
+      " 2. Căn cứ luật cán bộ, công chức năm 2008, việc thi hành công vụ, cán bộ, công chức phải tuân thủ nguyên tắc nào sau đây?",
     choices: [
-      " Cơ quan quản lý nhà nước",
-      " cơ quan hải quan",
-      " Cơ quan nhà nước",
-      " Tất cả cơ quan trên",
+      " công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra giám sát",
+      " vì nhân dân phục vụ",
+      " tận tụy với công việc được giao",
+      " phục tùng mệnh lệnh cấp trên",
     ],
-    correct: " Cơ quan quản lý nhà nước",
+    correct: " công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra giám sát",
   },
   {
     question:
-      " 3. Cơ quan nào quyết định thông quan, giải phóng hàng hóa trên hệ thống thông tin tích hợp?",
+      " 3. căn cứ luật cán bộ, công chức năm 2008, nguyên tắc nào sau đây không được quy định trong các nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
     choices: [
-      " Cơ quan quản lý nhà nước",
-      " cơ quan hải quan",
-      " Cơ quan nhà nước",
-      " Tất cả cơ quan trên",
+      " tuân thủ hiến pháp và pháp luật",
+      " bảo vệ lợi ích của nhà nước, quyền, lợi ích hợp pháp của tổ chức, công dân",
+      " bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt và hiệu quả",
+      " thực hành tiết kiệm chống lãng phí",
     ],
-    correct: " cơ quan hải quan",
+    correct: " thực hành tiết kiệm chống lãng phí",
   },
   {
-    question: " 4. Giám sát hải quan là ?",
+    question: " 4. đâu là nguyên tắc trong khi thi hành công vụ theo luật Cán bộ công chức năm 2008?",
     choices: [
-      " biện pháp nghiệp vụ do cơ quan hải quan áp dụng để bảo đảm kiểm tra hàng hoá.",
-      " biện pháp nghiệp vụ do cơ quan quản lý nhà nước áp dụng để bảo đảm sự nguyên trạng của hàng hóa",
-      " biện pháp nghiệp vụ do cơ quan hải quan áp dụng để bảo đảm sự nguyên trạng của hàng hóa, sự tuân thủ quy định của pháp luật trong việc bảo quản, lưu giữ hàng hoá đang thuộc đối tượng quản lý hải quan",
+      " có thái độ lịch sự, tôn trọng đồng nghiệp, ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng mạch lạc",
+      " bảo vệ lợi ích của nhà nước, quyền, lợi ích hợp pháp của tổ chức, công dân",
+      " Tuân thủ hiến pháp và pháp luật",
+      " công khai minh bạch , đúng thẩm quyền và có sự kiểm tra, giám sát",
+      ],
+    correct:
+      " bảo vệ lợi ích của nhà nước, quyền, lợi ích hợp pháp của tổ chức, công dân",
+      " Tuân thủ hiến pháp và pháp luật",
+      " công khai minh bạch , đúng thẩm quyền và có sự kiểm tra, giám sát",
+       },
+  {
+    question: " 5. căn cứ vào luật CBCC năm 2008, quản lý CB, CC phải được dựa trên các nguyên tắc nào sau đây?",
+    choices: [
+      " bảo đảm sự lãnh đạo của ĐCSVN, sự quản lý của Nhà nước",
+      " Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế",
+      " thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng",
+      " thực hiện bình đẳng tồn giáo, dân tộc",
+      ],
+    correct:
+       " bảo đảm sự lãnh đạo của ĐCSVN, sự quản lý của Nhà nước",
+      " Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế",
+      " thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng",
+      },
+  {
+    question: " 6.  căn cứ luật CBCC, cơ quan nào quy định chính sách cụ thể đối với người có tài năng?",
+    choices: [
+      " chính phủ",
+      " cấp Bộ và tương đương",
+      " cấp tổng cục và tương đương",
+      " đơn vị có nhu cầu tuyển dụng và sử dụng người có tài năng",
+      ],
+    correct:
+      " chính phủ",
+  },
+  {
+    question: " 7.  căn cứ luật CBCC năm 2008, cụm từ "vị trí việc làm" được định nghĩa như thế nào?",
+    choices: [
+      "  là công việc gắn với chức danh, chức vụ và ngạch công chức để xác định biên chế và bố trí công chức trong cơ quan, tổ chức, đơn vị",
+      " là công việc gắn với chức danh, chức vụ, cơ cấu và ngạch công chức để xác định biên chế và bố trí công chức trong cơ quan, tổ chức, đơn vị",
+      " là vị trí gắn với chức danh, chức vụ, cơ cấu và ngạch công chức để xác định biên chế và bố trí công chức trong cơ quan, tổ chức, đơn vị",
+      " là công việc để xác định biên chế và bố trí công chức trong cơ quan, tổ chức, đơn vị
     ],
     correct:
-      " biện pháp nghiệp vụ do cơ quan hải quan áp dụng để bảo đảm sự nguyên trạng của hàng hóa, sự tuân thủ quy định của pháp luật trong việc bảo quản, lưu giữ hàng hoá đang thuộc đối tượng quản lý hải quan",
-  },
+     " là công việc gắn với chức danh, chức vụ, cơ cấu và ngạch công chức để xác định biên chế và bố trí công chức trong cơ quan, tổ chức, đơn vị",
+      },
   {
-    question: " 5. Kho bảo thuế là ?",
+    question: " 8.  căn cứ luật CBCC, đối với Đàng, Nhà nước, nhân dân, cán bộ, công chức có nghĩa vụ gì sau đây?",
     choices: [
-      " kho dùng để chứa nguyên liệu, vật tư nhập khẩu chưa được thông quan nhưng đã nộp thuế để sản xuất hàng hóa xuất khẩu của chủ kho bảo thuế.",
-      " kho dùng để chứa nguyên liệu, vật tư nhập khẩu đã được thông quan nhưng chưa nộp thuế để sản xuất hàng hóa xuất khẩu của chủ kho bảo thuế.",
-      " kho dùng để chứa nguyên liệu, vật tư nhập khẩu đã được thông quan và đã nộp thuế để sản xuất hàng hóa xuất khẩu của chủ kho bảo thuế.",
+     " tôn trọng nhân dân, tận tụy phục vụ nhân dân",
+     " liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân",
+      " thực hành tiết kiệm chống lãng phí";
+      " trung thành với ĐCSVN, nhà nước CHXHCNVN, bảo vệ danh dự Tổ quốc và lợi ích quốc gia",
     ],
     correct:
-      " kho dùng để chứa nguyên liệu, vật tư nhập khẩu đã được thông quan nhưng chưa nộp thuế để sản xuất hàng hóa xuất khẩu của chủ kho bảo thuế.",
-  },
+ " tôn trọng nhân dân, tận tụy phục vụ nhân dân",
+     " liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân",  
+    " trung thành với ĐCSVN, nhà nước CHXHCNVN, bảo vệ danh dự Tổ quốc và lợi ích quốc gia",
+},
   {
-    question: " 6.  Phương án nào sau đây là sai. Kho ngoại quan là ?",
+    question: " 9.  căn cứ luật CBCC, trong thi hành công vụ, CBCC có nghĩa vụ gì sau đây?",
     choices: [
-      " khu vực kho, bãi lưu giữ hàng hóa đã làm thủ tục hải quan được gửi để chờ xuất khẩu; ",
-      " hàng hóa từ nước ngoài đưa vào gửi để chờ xuất khẩu ra nước ngoài hoặc nhập khẩu vào Việt Nam",
-      " khu vực kho, bãi lưu giữ hàng hóa chưa làm thủ tục hải quan được gửi để chờ xuất khẩu; ",
-    ],
+      " thực hiện đúng, đầy đủ và chịu trách nhiệm về kết quả thực hiện nhiệm vụ, quyền hạn được giao",
+      " bảo vệ, quản lý và sử dụng hiệu quả, tiết kiệm tài sản nhà nước được giao",
+      " chủ động phối hơp chặt chẽ trong thi hành công vụ, giữ gìn đoàn kết trong cơ quan, tổ chức, đơn vị",
+      " Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân",
+      ],
     correct:
-      " khu vực kho, bãi lưu giữ hàng hóa chưa làm thủ tục hải quan được gửi để chờ xuất khẩu; ",
+     " thực hiện đúng, đầy đủ và chịu trách nhiệm về kết quả thực hiện nhiệm vụ, quyền hạn được giao",
+      " bảo vệ, quản lý và sử dụng hiệu quả, tiết kiệm tài sản nhà nước được giao",
+      " chủ động phối hơp chặt chẽ trong thi hành công vụ, giữ gìn đoàn kết trong cơ quan, tổ chức, đơn vị",
+      },
+  {
+    question: " 11.  đâu là quyền của công chức khi thi hành công vụ theo luật CBCC?",
+    choices: [
+      " Được giao quyền tương xứng với nhiệm vụ",
+      " tôn trọng nhân dân, tận tụy phục vụ nhân dân",
+      " chỉ đạo tổ chức thực hiện nhiệm vụ được giao và chịu trách nhiệm về kết quả hoạt động của CQ, tổ chức, đơn vị",
+      " được pháp luật bảo vệ khi thi hành công vụ",
+    ],
+    correct: 
+    " Được giao quyền tương xứng với nhiệm vụ",
+     " được pháp luật bảo vệ khi thi hành công vụ",
   },
   {
-    question: " 7.  Kiểm soát hải quan là ?",
+    question: " 10.  đâu là quyền của cán bộ, công chức được bảo đảm các điều kiện thi hành công vụ theo luật CBCC?",
     choices: [
-      "  biện pháp tuần tra, điều tra, xác minh hoặc biện pháp nghiệp vụ khác do cơ quan hải quan áp dụng để phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới và hành vi khác vi phạm pháp luật về hải quan.",
-      " việc cơ quan hải quan kiểm tra hồ sơ hải quan, các chứng từ, tài liệu liên quan và kiểm tra thực tế hàng hóa, phương tiện vận tải",
-      " Tất cả đáp án trên",
-    ],
+      " được giao quyền tương xứng với trình độ học vấn",
+      " được bảo đảm trang thiết bị và các điều kiện làm việc khác theo quy định của pháp luật",
+      " được cung cấp thông tin liên quan đến nhiệm vụ, quyền hạn được giao",
+      " được đào tạo, bồi dưỡng nâng cao, trình độ chính trị, chuyên môn, nghiệp vụ",
+      ],
     correct:
-      "  biện pháp tuần tra, điều tra, xác minh hoặc biện pháp nghiệp vụ khác do cơ quan hải quan áp dụng để phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới và hành vi khác vi phạm pháp luật về hải quan.",
-  },
-  {
-    question: " 8.  Kiểm tra hải quan là?",
-    choices: [
-      "  biện pháp tuần tra, điều tra, xác minh hoặc biện pháp nghiệp vụ khác do cơ quan hải quan áp dụng để phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới và hành vi khác vi phạm pháp luật về hải quan.",
-      " việc cơ quan hải quan kiểm tra hồ sơ hải quan, các chứng từ, tài liệu liên quan và kiểm tra thực tế hàng hóa, phương tiện vận tải",
-      " Tất cả đáp án trên",
-    ],
-    correct:
-      " việc cơ quan hải quan kiểm tra hồ sơ hải quan, các chứng từ, tài liệu liên quan và kiểm tra thực tế hàng hóa, phương tiện vận tải",
-  },
-  {
-    question: " 9.  Lãnh thổ hải quan gồm",
-    choices: [
-      "  những khu vực trong lãnh thổ, vùng đặc quyền kinh tế  của nước Cộng hòa xã hội chủ nghĩa Việt Nam nơi Luật hải quan được áp dụng",
-      "  những khu vực trong lãnh thổ  của nước Cộng hòa xã hội chủ nghĩa Việt Nam nơi Luật hải quan được áp dụng",
-      "  những khu vực trong lãnh thổ, vùng đặc quyền kinh tế, thềm lục địa của nước Cộng hòa xã hội chủ nghĩa Việt Nam nơi Luật hải quan được áp dụng",
-      "  những khu vực trong lãnh thổ, vùng đặc quyền kinh tế, thềm lục địa của nước Cộng hòa xã hội chủ nghĩa Việt Nam  ",
-    ],
-    correct:
-      "  những khu vực trong lãnh thổ, vùng đặc quyền kinh tế, thềm lục địa của nước Cộng hòa xã hội chủ nghĩa Việt Nam nơi Luật hải quan được áp dụng",
-  },
-  {
-    question: " 10.  Người khai hải quan bao gồm?",
-    choices: [
-      " chủ hàng hóa; chủ phương tiện vận tải; người điều khiển phương tiện vận tải;  ",
-      "   đại lý làm thủ tục hải quan ",
-      " người khác được chủ hàng hóa, chủ phương tiện vận tải ủy quyền thực hiện thủ tục hải quan",
-      " Tất cả đáp án trên",
-    ],
-    correct: " Tất cả đáp án trên",
-  },
-  {
-    question: " 11.  Thông quan là?",
-    choices: [
-      " việc hoàn thành các thủ tục hải quan để hàng hóa được nhập khẩu, xuất khẩu  ",
-      " việc hoàn thành các thủ tục hải quan để hàng hóa được nhập khẩu, xuất khẩu và đặt dưới chế độ quản lý nghiệp vụ hải quan khác.",
-      " việc hoàn thành các thủ tục hải quan để hàng hóa được nhập khẩu, xuất khẩu hoặc đặt dưới chế độ quản lý nghiệp vụ hải quan khác.",
-    ],
-    correct:
-      " việc hoàn thành các thủ tục hải quan để hàng hóa được nhập khẩu, xuất khẩu hoặc đặt dưới chế độ quản lý nghiệp vụ hải quan khác.",
-  },
+     " được bảo đảm trang thiết bị và các điều kiện làm việc khác theo quy định của pháp luật",
+      " được cung cấp thông tin liên quan đến nhiệm vụ, quyền hạn được giao",
+      " được đào tạo, bồi dưỡng nâng cao, trình độ chính trị, chuyên môn, nghiệp vụ",
+      },
   {
     question:
       "  12. Trong trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật Hải quan thì?",
