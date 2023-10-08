@@ -11,7 +11,7 @@ import "../styles/quiz.css";
 
 function Quiz() {
   const [quizStarted] = useState(false);
-  const quiz = quiz1.concat(quiz2, quiz3, quiz4, quiz5);
+  const quiz = quiz1.concat(quiz2, quiz3, quiz4, quiz5, quiz6);
   useEffect(() => {
     /*time quiz*/
     var quizTime = 60 * 60 * 1000; // 60 phút trong đơn vị milliseconds
