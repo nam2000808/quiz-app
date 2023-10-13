@@ -3205,7 +3205,7 @@ const quiz1 = [
       "    Trung thành với Đảng Cộng sản Việt Nam, Nhà nước CHXHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia.",
     ],
     correct:
-      "     Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+      "     Bảo vệ, quản lý và sử dụng hiệu quả, tiết kiệm tài sản nhà nước được giao.",
   },
   {
     question:
