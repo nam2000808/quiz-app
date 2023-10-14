@@ -1971,7 +1971,7 @@ const quiz1 = [
     question:
       " 5: Công chức vi phạm Luật cán bộ, công chức 2008 và các quy định khác của pháp luật có liên quan thì tùy theo tính chất, mức độ vi phạm phải chịu bao nhiêu hình thức kỷ luật?",
     choices: ["   05", "   07", "   06", "   08"],
-    correct: "06",
+    correct: "   06",
   },
   {
     question:
