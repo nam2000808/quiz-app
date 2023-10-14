@@ -698,7 +698,7 @@ const quiz2 = [
       "Xây dựng, phát triển, quản lý và đảm bảo hoạt động cho Cổng thông tin điện tử của Tổng cục Hải quan; triển khai, quản lý các giao dịch điện tử trên Cổng thông tin điện tử, cung cấp dịch vụ công điện tử của Tổng cục Hải quan.",
       "Tất cả câu trên đều đúng. ",
     ],
-    correct: "Tất cả câu trên đều đúng.",
+    correct: "Tất cả câu trên đều đúng. ",
   },
   {
     question:
