@@ -194,7 +194,7 @@ const quiz1 = [
       " Bình đẳng, trực tiếp và bỏ phiếu kín.",
       "	Dân chủ, phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín.",
     ],
-    correct: "Phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín.",
+    correct: "	Phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín.",
   },
   {
     question:
