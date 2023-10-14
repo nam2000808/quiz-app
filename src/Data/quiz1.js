@@ -3181,7 +3181,7 @@ const quiz1 = [
       "     Tuân thủ pháp luật.",
       "    Tôn trọng mọi ý kiến.",
     ],
-    correct: "    Hạch toán kinh tế trong dịch vụ công.",
+    correct: "     Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
   },
   {
     question:
