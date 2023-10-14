@@ -205,7 +205,7 @@ const quiz1 = [
       " 	Chủ tịch nước.",
       "	Thủ tướng.",
     ],
-    correct: "Quốc hội.",
+    correct: " 	Quốc hội.",
   },
   {
     question:
