@@ -200,12 +200,12 @@ const quiz1 = [
     question:
       "19: Theo Hiến pháp năm 2013, cơ cấu, số lượng thành viên Chính phủ do ....... quyết định.",
     choices: [
-      " 	Quốc hội.",
+      "Quốc hội.",
       "	Ủy ban Thường vụ Quốc hội.",
       " 	Chủ tịch nước.",
       "	Thủ tướng.",
     ],
-    correct: " 	Quốc hội.",
+    correct: "Quốc hội.",
   },
   {
     question:
